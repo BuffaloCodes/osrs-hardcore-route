@@ -19,14 +19,14 @@ All credit for the original ideas and routing belongs to them.
 
 | File | Purpose |
 |------|---------|
-| `chapters/Step0_Hardening.md` | Step 0: hardening block (draft v4). Raises HP, Magic, Attack and Strength before the efficient route begins. |
+| `chapters/Step0_Hardening_v0.01.md` | Step 0: hardening block (v0.01). Raises HP, Magic, Attack and Strength before the efficient route begins. |
 | `chapters/Chapter1.md` | Chapter 1 of the route. Placeholder until the cleaned version is added. |
 | `tools/lint_guide.py` | Lints a guide file against the house style. |
 
 ## Linting
 
 ```
-python3 tools/lint_guide.py chapters/Step0_Hardening.md
+python3 tools/lint_guide.py chapters/Step0_Hardening_v0.01.md
 ```
 
 The linter takes one file at a time and checks:

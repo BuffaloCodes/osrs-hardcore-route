@@ -1,4 +1,4 @@
-# Step 0: Hardening Block (Draft v4)
+# Step 0: Hardening Block (v0.01)
 
 **Purpose:** Raise HP, Magic, Attack and Strength before the efficient part of the route begins, on a mode where one death means a reset or a permanent transfer.
 
@@ -6,7 +6,7 @@
 
 **Method:** Multiquesting. Each visit to an area advances every relevant quest, and no quest is finished before the next one is started unless that is the cheaper path.
 
-**Status:** Working draft. Quest data comes from the OSRS Wiki as of 5 November 2026. Mudfoot's Big Adventure was released 2 days ago and its wiki page is flagged as possibly incomplete, so re-check it in-game.
+**Status:** Working draft. Quest data comes from the OSRS Wiki as of 5 November 2026. Mudfoot's Big Adventure was released 2 days ago and its wiki page is flagged as possibly incomplete, so it was checked in-game on 5 November 2026.
 
 ---
 
@@ -47,32 +47,71 @@
 
 | Visit | Area | Quests progressed | Result |
 |-------|------|-------------------|--------|
-| 0 | Ardougne, then home teleport | Hazeel Cult and a cake food run | Food stocked, back in Lumbridge |
+| 0 | Ardougne, then home teleport | Wilderness lever, Hazeel Cult, Sheep Herder, shopping and a cake food run | Food and supplies stocked, 5,000 gp stack before shopping, back in Lumbridge |
 | 1 | Lumbridge | Mudfoot's Big Adventure and The Ides of Milk, interleaved | Both complete, lamps applied |
 | 2 | Taverley | Witch's House | Complete |
 | 3 | Baxtorian Falls | Waterfall Quest, Part 1 | Book read |
 | 4 | Gnome Maze and Ardougne | Fight Arena and Tree Gnome Village, plus Glarial's pebble | Both complete, pebble in hand |
 | 5 | Baxtorian Falls | Waterfall Quest, Parts 3 and 4 | Complete |
 
-Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble after Part 1 and the main route also does Waterfall up to the pebble first. The wiki's pebble page lists no prerequisite, so this ordering is a safe assumption (see open items).
+Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble after Part 1 and the main route also does Waterfall up to the pebble first. Glarial's pebble is only given at that specific point in Waterfall Quest (confirmed), so Visits 3 and 5 cannot merge into one trip.
 
 ---
 
-## Visit 0: Food run (your route)
+## Visit 0: Food run
 
-*Your outline. Add the detailed route and the target quantities here.*
+**Goal:** Reach Ardougne, clear the Wilderness lever first, earn Thieving XP and gold from [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] and [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)], shop for the later visits, steal cakes for food, then home teleport to Lumbridge.
 
-- [ ] `0.01` Reach Ardougne as fast as possible
-- [ ] `0.02` Complete [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] for Thieving XP
-- [ ] `0.03` Steal cakes from the Bakery Stall in Ardougne (quantity to be decided)
-- [ ] `0.04` Home teleport to Lumbridge
+**Gold:** Do not count on the 25 gp that may be on the account at spawn. [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] pays 2,000 gp first, which covers the 100 gp plague suit for [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)], and [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)] pays 3,100 gp. Expect a 5,000 gp stack before shopping.
+
+**Ardougne Easy Diary tasks completed in this visit:** lever (task 8) and cake (task 2), so 2/9.
+
+- [ ] `0.01` Spawn in Death's Office (in Lumbridge if post-Reset), activate your Escape Crystal to function as a Ring of Life, and equip it in your ring slot
+- [ ] `0.02` Bank all items, withdraw the bronze axe, grab 1x log, then go downstairs [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
+- [ ] `0.03` Take the empty jug from the kitchen and fill it with water [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
+- [ ] `0.04` Minigame teleport to Soul Wars and leave through the Edgeville portal
+- [ ] `0.05` [RISK: Wilderness level 51] Use the Edgeville Wilderness lever to be transported to the Deserted Keep (level 51 Wilderness). This is the riskiest step in the visit, so it goes first, before more time is invested in the account
+- [ ] `0.06` [RISK: Wilderness level 51] Pull the Deserted Keep lever straight away and choose Ardougne
+- [ ] `0.07` [RISK: Wilderness level 51] Use the Ardougne lever to teleport back to the Deserted Keep (Ardougne Easy Diary, 1/9 tasks completed)
+- [ ] `0.08` [RISK: Wilderness level 51] Pull the Deserted Keep lever again and choose Ardougne
+- [ ] `0.09` Start [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)]: talk to Ceril Carnillean in East Ardougne, just north of the Clock Tower
+- [ ] `0.10` Complete [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] in full, siding with Hazeel (detailed steps to be added)
 
 #### Rewards: [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)]
 - 1 quest point and 1,500 Thieving XP
 - 2,000 gp (plus 5 gp more if you sided with the Carnilleans)
 - Hazeel's mark if you sided with Hazeel, or Carnillean armour if you sided with Ceril and obtained an extra piece
 - 5 Kudos, claimable from Historian Minas in the Varrock Museum
-- **Decision:** Side with Hazeel. This matches the main route (Step 5) and the Thieving XP is the same either way. Your call, since the choice only changes the item reward.
+- **Decision:** Side with Hazeel. This matches the main route (Step 5), the Thieving XP is the same either way, and it avoids the level 13 Alomone fight. Your call, since the choice only changes the item reward.
+
+- [ ] `0.11` Take 4x purple dye from the spawn north of the Clock Tower, near the spirit tree [[Land of the Goblins](https://oldschool.runescape.wiki/w/Land_of_the_Goblins/Quick_guide)] [[Song of the Elves](https://oldschool.runescape.wiki/w/Song_of_the_Elves/Quick_guide)] [[Recipe for Disaster](https://oldschool.runescape.wiki/w/Recipe_for_Disaster/Quick_guide)] [[Ghosts Ahoy](https://oldschool.runescape.wiki/w/Ghosts_Ahoy/Quick_guide)]
+- [ ] `0.12` Start [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)]: talk to Councillor Halgrive outside the East Ardougne church, then buy the plague suit (100 gp) from Doctor Orbon
+- [ ] `0.13` Complete [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)] in full (detailed steps to be added)
+
+#### Rewards: [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)]
+- 4 quest points and 3,100 gp
+- 1,000 Hunter XP
+- Ability to hunt goats on Wyrmscraig
+
+- [ ] `0.14` Visit the Ardougne general store and buy the supplies for the later visits (item list to be added, includes 1x rope for [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)])
+- [ ] `0.15` [RISK: Ardougne guard] [RISK: Hero] [RISK: Paladin] Steal cakes from the Bakery Stall in Ardougne, standing underneath the Baker to avoid detection (quantity to be decided; Ardougne Easy Diary, 2/9 tasks completed)
+- [ ] `0.16` Home teleport to Lumbridge
+
+> **Notes:**
+> - **Purple dye:** The spawn gives one dye at a time, so 4x means waiting on respawns. Fit this around the quest steps rather than standing still.
+> - **Ring of Life:** It does not work in the Wilderness. It is only the safety net for aggressive overworld monsters after the lever steps.
+> - **Church altar:** The Ardougne Easy Diary also has a church altar task (needs missing prayer points) and [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)] passes the church. It is not counted here because a new account cannot easily drain its prayer points.
+
+**Combat table: Visit 0**
+
+| Enemy | Level | Max hit | Safespot / tactic | Food / HP gate |
+|-------|-------|---------|-------------------|----------------|
+| Wilderness level 51 (Deserted Keep) | n/a | TBD | None. Pull the lever on arrival and do not move. The Ring of Life does not work here | TBD (deferred) |
+| Ardougne guard | TBD | 3 | Stand underneath the Baker while stealing | TBD (deferred) |
+| Hero | TBD | 9 | Same as the guard | TBD (deferred) |
+| Paladin | TBD | 8 | Same as the guard | TBD (deferred) |
+
+**Carry-forward after Visit 0:** Escape Crystal (equipped), bronze axe, 1x log, jug of water, 4x purple dye, cakes, gp left after shopping, Ardougne shopping items (list to be added).
 
 ---
 
@@ -284,10 +323,13 @@ These figures come from the standard XP table and exclude anything else you earn
 
 ## Open items
 
-1. **Food route:** Detailed steps and quantity (you are adding these).
+1. **Food route:** Detailed steps and quantity (being drafted).
 2. **Rune supply:** Wind Strike costs 1 air and 1 mind rune per cast. Mudfoot's package gives 80x of each. Killing the Witch's experiment (144 HP combined) takes at least 18 max-damage hits, and the warlord (170 HP) at least 22, so real fights will need more casts than that.
-3. **Item sources:** 1x rope, 6x air, 6x earth and 6x water runes for Waterfall, and leather gloves for Witch's House.
-4. **Pebble prerequisite:** Visit 3 comes first as a safe assumption. If Golrie hands over the pebble without Part 1, Visits 3 and 5 can merge into one trip.
+3. **Item sources:**
+   - **Rope:** Bought in Ardougne, which is Visit 0's area. Step `1.24` still says "source to be decided" and should point at Visit 0.
+   - **Waterfall runes (6x air, 6x earth, 6x water):** Bought at any magic shop. Still to do: find which shop sits on the route, and check the cash budget.
+   - **Leather gloves:** Step `1.26` takes them from Father Urhney's house in Lumbridge Swamp (the Restless Ghost area), but Step `2.05` says Witch's House has gloves in its boxes. Still to check whether the gloves are needed at that point. If not, drop `1.26` and the glove entry in Visit 1's carry-forward.
+4. **Pebble prerequisite:** Resolved. The pebble is only given at that specific point in Waterfall Quest, so the Visit 3, 4, 5 order stands.
 5. **Trough safespot:** From your notes. It was not on the wiki pages I read, so confirm it works before relying on it at low HP.
 6. **Combat gates:** Minimum HP and combat level per fight (deferred).
 7. **Merge with the main route:** How Steps 1 and 2 combine with Visit 1, and how Visit 0 sits next to Step 1.
