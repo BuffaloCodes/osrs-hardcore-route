@@ -12,8 +12,11 @@ Checks
      Rewards blockquote directly follows a Complete action.
   6. Any Rewards block mentioning a lamp has a **Decision:** line.
   7. Numbers of four or more digits have thousands separators, "gp" is lowercase, "XP" is capitalised.
-  8. Every [RISK: enemy] tag appears as a row in that visit's combat table. Tags may be written
-     as plain text or in the bold red form $\color{red}{\textbf{[RISK: enemy]}}$.
+  8. Every [RISK: enemy (max hit)] tag appears as a row in that visit's combat table, and its
+     max hit matches that row's Max hit cell. Tags may be written as plain text or in the bold red
+     form $\color{red}{\textbf{[RISK: enemy (max hit)]}}$.
+  9. No "Quest Helper" or "follow the Quick Guide" boilerplate.
+ 10. Every "(Optional)" / "(optional ...)" mention is italicised.
 """
 import re
 import sys
@@ -25,6 +28,9 @@ ACTION_ID = re.compile(r"^- \[[ xX]\] `(\d+)\.(\d{2})` ")
 VERB = re.compile(r"\b(Start|Continue|Complete)\b")
 PREP = re.compile(r"^(Grab|Keep|Buy|Loot|Chop)\b")
 RISK = re.compile(r"\[RISK: ([^\]]+)\]")
+RISK_NAME = re.compile(r"^(.*?)\s*\(([^()]+)\)$")
+OPTIONAL_PLAIN = re.compile(r"(?<!\*)\([Oo]ptional\b")
+BOILERPLATE = re.compile(r"Quest Helper|follow the Quick Guide", re.I)
 RISK_WRAP = re.compile(r"\$\\color\{red\}\{\\textbf\{(\[RISK: [^\]]+\])\}\}\$")
 REWARDS_HEAD = re.compile(r"^> \*\*Rewards:\*\*\s*$")
 CODE = re.compile(r"`[^`]*`")
@@ -118,7 +124,7 @@ def main(path):
     # Pass 5: a Rewards blockquote sits directly after every Complete action.
     complete_idx = {}
     for i, v, n, text in actions:
-        if re.match(r"^(?:\(Optional\) )?(?:\[RISK: [^\]]+\] )?Complete ", text):
+        if re.match(r"^(?:\*\(Optional\)\* )?(?:\[RISK: [^\]]+\] )?Complete ", text):
             names = [m.group(1) for m in LINK.finditer(text)]
             complete_idx[i] = names[0] if names else "?"
     reward_heads = [i for i, raw in enumerate(lines) if REWARDS_HEAD.match(raw)]
@@ -170,19 +176,35 @@ def main(path):
     # Pass 8: risk tags need a combat-table row in the same visit.
     for i, v, n, text in actions:
         for m in RISK.finditer(text):
-            enemy = m.group(1).strip().lower()
+            parsed = RISK_NAME.match(m.group(1).strip())
+            if not parsed:
+                err(i + 1, f"[RISK: {m.group(1)}] has no max hit, write [RISK: enemy (max hit)]")
+                continue
+            enemy = parsed.group(1).strip().lower()
+            max_hit = parsed.group(2).strip().lower()
             lo = next((k for k in range(len(lines)) if visit_of.get(k) == v), None)
             hi = max((k for k in range(len(lines)) if visit_of.get(k) == v), default=None)
-            found = False
+            row = None
             if lo is not None:
                 for k in range(lo, hi + 1):
                     if lines[k].startswith("|"):
-                        first = lines[k].split("|")[1].strip().lower()
-                        if enemy in first:
-                            found = True
+                        cells = [c.strip().lower() for c in lines[k].split("|")[1:-1]]
+                        if len(cells) >= 3 and enemy in cells[0]:
+                            row = cells
                             break
-            if not found:
+            if row is None:
                 err(i + 1, f"[RISK: {m.group(1)}] has no row in visit {v}'s combat table")
+            elif max_hit not in row[2]:
+                err(i + 1, f"[RISK: {m.group(1)}] max hit does not match the combat table ('{row[2]}')")
+
+    # Pass 9 and 10: banned boilerplate, optional choices italicised.
+    for i, raw in enumerate(lines):
+        if i >= sources_start:
+            break
+        if BOILERPLATE.search(raw):
+            err(i + 1, "remove 'Quest Helper' / 'follow the Quick Guide' boilerplate")
+        if OPTIONAL_PLAIN.search(raw):
+            err(i + 1, "optional choice must be italicised, e.g. *(Optional)*")
 
     if issues:
         print("\n".join(issues))

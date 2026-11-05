@@ -31,10 +31,11 @@ All credit for the original ideas and routing belongs to them.
 | Actions | Every action is a checkbox item. |
 | Quest verbs | Start, Continue, Complete. |
 | Quest references | Every mention of a quest in an action links its Quick Guide, inside brackets: `[[Quest name](Quick Guide URL)]`. |
-| Quest steps | Short quests are not written out step by step. The action points to the quest's Quick Guide link, and players can also use RuneLite's Quest Helper plugin. Only steps that matter to the route (risks, items, decisions) are spelled out. |
+| Quest steps | Short quests are not written out step by step. The quest link is the guide, and the player is expected to use it. Only steps that matter to the route (risks, items, decisions) are spelled out. |
 | Items for later quests | The action ends with the quest tag, for example `Grab 6x logs [[Tree Gnome Village](...)]`. |
 | Completion rewards | A `> **Rewards:**` blockquote follows every Complete action. Any lamp or XP choice carries a `**Decision:**` line with a recommendation. |
-| Danger | Any action where you can die starts with a bold red tag, written `$\color{red}{\textbf{[RISK: enemy name]}}$`, and the enemy appears in that visit's combat table. The colour shows where maths rendering is supported, such as GitHub and the VS Code preview. |
+| Danger | Any action where you can die starts with a bold red tag carrying the enemy's max hit, written `$\color{red}{\textbf{[RISK: enemy name (max hit)]}}$`. The enemy appears in that visit's combat table, and the max hit matches the table's Max hit cell (`TBD` or `not listed` where the table says so). The colour shows where maths rendering is supported, such as GitHub and the VS Code preview. |
+| Optional choices | Any text that offers an optional choice, including `(Optional)` steps, is italicised. |
 | Visit layout | Each visit opens with its combat table, then the steps, then a notes block, the carry-forward line and the estimated levels. |
 | Carry-forward | Each visit ends with the items you must still hold for later quests. |
 | Numbers | `gp` in lowercase, thousands separators (`1,833`), quantities as `6x`, `XP` in capitals, times as `1h 23m`. |
@@ -68,4 +69,6 @@ The linter takes one file at a time and checks:
 4. Every Complete action is followed directly by a `> **Rewards:**` blockquote, and vice versa.
 5. Rewards blocks that mention a lamp have a **Decision:** line.
 6. Number formatting: thousands separators, lowercase "gp", capitalised "XP".
-7. Every `[RISK: enemy]` tag (plain or in the bold red form) appears in that visit's combat table.
+7. Every `[RISK: enemy (max hit)]` tag (plain or in the bold red form) appears in that visit's combat table, and its max hit matches the table.
+8. No "Quest Helper" or "follow the Quick Guide" boilerplate.
+9. Every `(Optional)` mention is italicised.
