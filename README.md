@@ -4,8 +4,16 @@ A step-by-step Old School RuneScape hardcore ironman guide, split into chapters.
 
 ## Attribution
 
-<!-- TODO: credit the original guide author(s), source links, and license. -->
-This guide is based on work by: _TODO: fill in author(s) and source._
+This guide takes inspiration from the guides and routes of the following creators:
+
+- So Iron BRUH
+- Parasailer
+- B0aty
+- Faux
+- Mootrius
+- DunkinOreos
+
+All credit for the original ideas and routing belongs to them.
 
 ## How the guide is organized
 
