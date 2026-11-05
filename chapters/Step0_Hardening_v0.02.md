@@ -1,46 +1,12 @@
-# Step 0: Hardening Block (v0.02)
+# Step 0: Hardening ~~Block~~ the Account (v0.02)
 
-**Purpose:** Raise HP, Magic, Attack and Strength before the efficient part of the route begins, on a mode where one death means a reset or a permanent transfer.
+**Purpose:** Raise HP, Magic, Attack and Strength before the efficient part of the route begins, on a mode where one death means a reset - transferring is for cowards.
 
-**Insert point:** First thing done on the account after a Death/Reset, to harden it against dangerous overworld events. Tutorial Island and Death's Delegate come first.
+**Insert point:** First thing done on the account after a Death/Reset, to harden it against dangerous overworld events. Tutorial Island comes first.
 
 **Method:** Multiquesting. Each visit to an area advances every relevant quest, and no quest is finished before the next one is started unless that is the cheaper path.
 
-**Status:** Working draft. Quest data comes from the OSRS Wiki as of 5 November 2026. Mudfoot's Big Adventure was released 2 days ago and its wiki page is flagged as possibly incomplete, so it was checked in-game on 5 November 2026.
-
----
-
-## Conventions
-
-| Rule | Standard |
-|------|----------|
-| Step IDs | Every action carries a fixed ID in code formatting: `visit.number`, for example `1.07`. IDs are never renumbered. New steps take the next free number in their visit. |
-| Actions | Every action is a checkbox item. |
-| Quest verbs | Start, Continue, Complete. |
-| Quest references | Every mention of a quest in an action links its Quick Guide, inside brackets: `[[Quest name](Quick Guide URL)]`. |
-| Quest steps | Short quests are not written out step by step. The action points to the quest's Quick Guide link, and players can also use RuneLite's Quest Helper plugin. Only steps that matter to the route (risks, items, decisions) are spelled out. |
-| Items for later quests | The action ends with the quest tag, for example `Grab 6x logs [[Tree Gnome Village](...)]`. |
-| Completion rewards | A `Rewards` block follows every Complete action. Any lamp or XP choice carries a `**Decision:**` line with a recommendation. |
-| Danger | Any action where you can die starts with `[RISK: enemy name]`, and the enemy appears in that visit's combat table. |
-| Carry-forward | Each visit ends with the items you must still hold for later quests. |
-| Numbers | `gp` in lowercase, thousands separators (`1,833`), quantities as `6x`, `XP` in capitals, times as `1h 23m`. |
-
----
-
-## Decisions locked in
-
-| Topic | Decision |
-|-------|----------|
-| Mudfoot lamps (4 x 500 XP) | Magic until level 13. Any lamps left over go on Hitpoints. |
-| Ides of Milk lamp (1,000 XP) | Hitpoints |
-| Lamps on Hitpoints | Confirmed possible (tested in-game) |
-| Wind Strike damage | Only the unlock matters. At Magic 13+ Wind Strike's base max hit is 8 (2 at levels 1-4, 4 at 5-8, 6 at 9-12). Cost is 1 air rune and 1 mind rune. |
-| Food | Gathered first, on your own route (Visit 0) |
-| Minimum HP / combat level gates | Deferred for now |
-| Witch's House | All four experiment forms can be safespotted |
-| Brutus (Ides of Milk) | Safespot between the feed troughs to the south (from your notes) |
-
-**Lamp arithmetic:** Magic level 13 needs 1,833 XP in total and each lamp is 500, so you need ceil((1,833 - your current Magic XP) / 500) lamps. With no prior Magic XP that is all four.
+**Status:** Working draft. Quest data comes from the OSRS Wiki as of 5 November 2026. ~~Mudfoot's Big Adventure was released 2 days ago and its wiki page is flagged as possibly incomplete, so it was checked in-game on 5 November 2026.~~
 
 ---
 
@@ -49,7 +15,7 @@
 | Visit | Area | Quests progressed | Result |
 |-------|------|-------------------|--------|
 | 0 | Ardougne, the Monastery, Witchaven and Brimhaven, then home teleport | Wilderness lever, Hazeel Cult, Sheep Herder, Monk's Friend, Clock Tower, Sea Slug and Tribal Totem, plus shopping and food and silk thieving | Six quests complete, food and supplies stocked, back in Lumbridge |
-| 1 | Lumbridge | Mudfoot's Big Adventure and The Ides of Milk, interleaved | Both complete, lamps applied |
+| 1 | Lumbridge, Draynor, the Wizards' Tower and Varrock | Mudfoot's Big Adventure, The Ides of Milk, The Restless Ghost, Misthalin Mystery and Sheep Shearer complete, plus Rune Mysteries and X Marks the Spot started | Lamps applied, runes bought |
 | 2 | Taverley | Witch's House | Complete |
 | 3 | Baxtorian Falls | Waterfall Quest, Part 1 | Book read |
 | 4 | Gnome Maze and Ardougne | Fight Arena and Tree Gnome Village, plus Glarial's pebble | Both complete, pebble in hand |
@@ -61,98 +27,13 @@ Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble af
 
 ## Visit 0: Ardougne run (food, XP and supplies)
 
+*Visit-specific notes are at the bottom of this section.*
+
 **Goal:** Reach Ardougne and clear the Wilderness lever first, then earn Thieving XP and gold from [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] and [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)], steal food and silk, and complete [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)], [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)], [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)] and [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)] on the way. Shop for the later visits, then home teleport to Lumbridge.
 
 **Gold:** Do not count on the 25 gp that may be on the account at spawn. [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] pays 2,000 gp first, which covers the 100 gp plague suit for [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)], and [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)] pays 3,100 gp. Expect a 5,000 gp stack before shopping. Selling 73x silk later returns 4,380 gp.
 
-**Ardougne Easy Diary tasks completed in this visit:** lever (task 8), church altar (task 4), Probita (task 10), cake (task 2) and silk (task 3), so 5/10. The fishing task after [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)] is a Medium task (Catch any fish on the Fishing Platform).
-
-- [ ] `0.01` Spawn in Death's Office (in Lumbridge if post-Reset), activate your Escape Crystal to function as a Ring of Life, and equip it in your ring slot
-- [ ] `0.02` Bank all items, withdraw the bronze axe, grab 1x log, then go downstairs [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
-- [ ] `0.03` Take the empty jug from the kitchen and fill it with water [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
-- [ ] `0.04` Minigame teleport to Soul Wars and leave through the Edgeville portal
-- [ ] `0.05` [RISK: Wilderness level 51] Use the Edgeville Wilderness lever to be transported to the Deserted Keep (level 51 Wilderness). This is the riskiest step in the visit, so it goes first, before more time is invested in the account
-- [ ] `0.06` [RISK: Wilderness level 51] Pull the Deserted Keep lever straight away and choose Ardougne
-- [ ] `0.07` [RISK: Wilderness level 51] Use the Ardougne lever to teleport back to the Deserted Keep (Ardougne Easy Diary, 1/10 tasks completed)
-- [ ] `0.08` [RISK: Wilderness level 51] Pull the Deserted Keep lever again and choose Ardougne
-- [ ] `0.09` Start [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)]: talk to Ceril Carnillean in East Ardougne, just north of the clock tower
-- [ ] `0.10` Complete [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] in full, siding with Hazeel (follow the Quick Guide link or RuneLite's Quest Helper plugin)
-
-#### Rewards: [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)]
-- 1 quest point and 1,500 Thieving XP
-- 2,000 gp (plus 5 gp more if you sided with the Carnilleans)
-- Hazeel's mark if you sided with Hazeel, or Carnillean armour if you sided with Ceril and obtained an extra piece
-- 5 Kudos, claimable from Historian Minas in the Varrock Museum
-- **Decision:** Side with Hazeel. This matches the main route (Step 5), the Thieving XP is the same either way, and it avoids the level 13 Alomone fight. Your call, since the choice only changes the item reward.
-
-- [ ] `0.11` Take 4x purple dye from the spawn north of the clock tower, near the spirit tree [[Land of the Goblins](https://oldschool.runescape.wiki/w/Land_of_the_Goblins/Quick_guide)] [[Song of the Elves](https://oldschool.runescape.wiki/w/Song_of_the_Elves/Quick_guide)] [[Recipe for Disaster](https://oldschool.runescape.wiki/w/Recipe_for_Disaster/Quick_guide)] [[Ghosts Ahoy](https://oldschool.runescape.wiki/w/Ghosts_Ahoy/Quick_guide)]
-- [ ] `0.12` Start [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)]: talk to Councillor Halgrive outside the East Ardougne church, then buy the plague suit (100 gp) from Doctor Orbon
-- [ ] `0.13` Complete [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)] in full (follow the Quick Guide link or RuneLite's Quest Helper plugin)
-
-#### Rewards: [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)]
-- 4 quest points and 3,100 gp
-- 1,000 Hunter XP
-- Ability to hunt goats on Wyrmscraig
-
-- [ ] `0.14` Visit the Ardougne general store and buy the supplies for the later visits (3x rope, 1x water-filled vial pack, 30x balls of wool, 7x papyrus)
-- [ ] `0.15` Burn your Prayer point and restore it at the altar in the East Ardougne church (Ardougne Easy Diary, 2/10 tasks completed)
-- [ ] `0.16` Check your insured pets with Probita (Ardougne Easy Diary, 3/10 tasks completed)
-- [ ] `0.17` Buy 2x silver bar from the Silver Merchant [add which quests need them]
-- [ ] `0.18` [RISK: Ardougne guard] [RISK: Hero] [RISK: Paladin] Steal cakes from the Bakery Stall in Ardougne, standing underneath the Baker to avoid detection (Ardougne Easy Diary, 4/10 tasks completed)
-- [ ] `0.19` [RISK: Ardougne guard] [RISK: Hero] [RISK: Paladin] Keep stealing from the Bakery Stall until you have banked at least 14x bread [add which quests need these] and as many cakes as you get up to level 20 Thieving, then bank all the food
-- [ ] `0.20` [RISK: Ardougne guard] [RISK: Hero] [RISK: Paladin] Steal 84x silk from the Silk Stall (leaves you at about level 23 Thieving, see the notes)
-- [ ] `0.21` Run to the Ardougne Monastery and Start [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: talk to Brother Omad
-- [ ] `0.22` Start [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)]: run to the clock tower and talk to Brother Kojo, then go down the ladder and start on the white cog (north-west direction), taking rat poison along the way
-- [ ] `0.23` [RISK: Thieves] Continue [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: exit the dungeon ladder, head south-west to the stone circle, go down the ladder, run past the thieves and take the child's blanket
-- [ ] `0.24` Continue [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)]: leave and place the white cog in the clock tower (top floor)
-- [ ] `0.25` Continue [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: return the blanket to Brother Omad and proceed with the quest
-- [ ] `0.26` Continue [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: head to Brother Cedric and give him the jug of water and the logs
-- [ ] `0.27` [RISK: Dungeon rat] Continue [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)]: take the nearby bucket and fill it at the well, then head down the ladder to the north-east and follow the path to the blue cog
-- [ ] `0.28` [RISK: Ogres] Continue [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)]: climb up the ladder and place the blue cog in the clock tower (second floor), then obtain the black cog (north-east direction, downstairs) and place it (basement), then obtain the red cog (south-east direction, downstairs) and place it on the correct spindle (first floor)
-- [ ] `0.29` Complete [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)]: talk to Brother Kojo
-
-#### Rewards: [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)]
-- 1 quest point, 500 gp and 1,000 Firemaking XP
-
-- [ ] `0.30` Complete [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: head to the Ardougne Monastery and talk to Brother Omad
-
-#### Rewards: [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
-- 1 quest point and 2,000 Woodcutting XP
-- 8x law rune
-- Brother Omad will throw parties for you by speaking to him
-
-- [ ] `0.31` Bank to gain inventory space, then cut and burn logs to level 35 Woodcutting (Firemaking 30 is expected on the way, see the notes)
-- [ ] `0.32` Take your gp and a small fishing net, then take the boat to Brimhaven
-- [ ] `0.33` Buy 1x swamp paste from Trader Stan [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)]
-- [ ] `0.34` Buy 7x soda ash, 7x bucket of sand, 1x cake tin and 1x glassblowing pipe from Trader Stan [add which quests need these]
-- [ ] `0.35` Start [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]: head to Kangai Mau in the Shrimp and Parrot
-- [ ] `0.36` [RISK: Sea slug] Start [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)]: return to Witchaven and talk to Caroline, north of the town; do not pick up the sea slugs
-- [ ] `0.37` [RISK: Sea slug] Complete [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)] in full (follow the Quick Guide link or RuneLite's Quest Helper plugin; do not pick up the sea slugs)
-
-#### Rewards: [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)]
-- 1 quest point and 7,175 Fishing XP
-- Access to the Fishing Platform
-- Oyster pearls
-
-- [ ] `0.38` Fish an anchovy or shrimp on the Fishing Platform after the quest (Ardougne Medium Diary task, not part of the Easy total)
-- [ ] `0.39` Buy 1x raw sardine, 2x fishing rod, 1x fly fishing rod, 1x harpoon, 10x fishing bait and 1x lobster pot from Lovecraft's Tackle in Witchaven [add which quests need these]
-- [ ] `0.40` [RISK: Giant rats] [RISK: Zombies] Continue [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]: carry on to the point where you collect the totem (investigate the stairs first, because triggering the trap drops you into the Ardougne Sewers)
-- [ ] `0.41` Sell 73x silk back to the Silk trader (leave 11x in the bank) for 60 gp each, then sell your oyster pearls to the general store (Ardougne Easy Diary, 5/10 tasks completed)
-- [ ] `0.42` [RISK: Jungle spiders] Complete [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]: bring your coins, ghostspeak amulet, a spade, 20x balls of wool, the tribal totem and the treasure scroll, then head to Brimhaven
-
-#### Rewards: [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]
-- 1 quest point and 1,775 Thieving XP
-- 5x swordfish
-
-- [ ] `0.43` Home teleport to Lumbridge (optional: minigame teleport to Clan Wars first to restore run energy)
-
-> **Notes:**
-> - **Purple dye:** The spawn gives one dye at a time, so 4x means waiting on respawns. Fit this around the quest steps rather than standing still.
-> - **Ring of Life:** It does not work in the Wilderness. It is only the safety net for aggressive overworld monsters after the lever steps.
-> - **Silk trader:** He refuses to speak to you after you steal from his stall. The Silk stall page says to wait 20 to 30 minutes since the last theft, and the Ardougne Diary page says 10 consecutive minutes outside Ardougne without logging off. Plan for the longer figure and stay logged in. To complete the diary task, first offer to sell your silk for 120 gp, then counter his bid with 60 gp.
-> - **Woodcutting and Firemaking:** [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)] needs Firemaking 30, and the route does not train it directly. Cutting and burning logs up to Woodcutting 35 is expected to reach Firemaking 30 along the way. Confirm your Firemaking level before starting [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)].
-> - **Thieving:** You start at 1,500 XP (level 11) after [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)]. Level 20 needs 4,470 XP, so about 2,970 XP of food is needed (186 steals at 16 XP each, counting the cake step). 84x silk at 24 XP each adds 2,016 XP, which ends at about 6,486 XP (level 23). [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)] needs level 21 and rewards 1,775 XP, taking you to about 8,261 XP (level 25).
-> - **Floor numbers:** The [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)] steps use US floor numbering (the wiki's first floor is the second floor here).
+**Ardougne Diary tasks completed in this visit:** Easy 5/10 (lever, church altar, Probita, cake and silk) and Medium 1/12 (catch any fish on the Fishing Platform, after [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)]).
 
 **Combat table: Visit 0**
 
@@ -170,54 +51,106 @@ Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble af
 | Zombies (Ardougne Sewers, 3x) | TBD | 3 | Only met if the staircase trap is triggered | TBD (deferred) |
 | Jungle spiders (Brimhaven) | TBD | 6 | TBD | TBD (deferred) |
 
-**Carry-forward after Visit 0:** Escape Crystal (equipped), bronze axe, 4x purple dye, banked bread and cakes, 11x silk (banked), 3x rope, 1x water-filled vial pack, balls of wool left after [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)], 7x papyrus, 2x silver bar, 7x soda ash, 7x bucket of sand, cake tin, glassblowing pipe, the fishing gear from Lovecraft's Tackle, and the gp left after shopping and sales.
+- [ ] `0.01` Spawn in Death's Office (in Lumbridge if post-Reset), activate your Escape Crystal to function as a Ring of Life, and equip it in your ring slot
+- [ ] `0.02` Bank all items, withdraw the bronze axe, grab 1x log, then go downstairs [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
+- [ ] `0.03` Take the empty jug from the kitchen and fill it with water [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
+- [ ] `0.04` Minigame teleport to Soul Wars and leave through the Edgeville portal
+- [ ] `0.05` $\color{red}{\textbf{[RISK: Wilderness level 51]}}$ Use the Edgeville Wilderness lever to be transported to the Deserted Keep (level 51 Wilderness). This is the riskiest step in the visit, so it goes first, before more time is invested in the account
+- [ ] `0.06` $\color{red}{\textbf{[RISK: Wilderness level 51]}}$ Pull the Deserted Keep lever straight away and choose Ardougne
+- [ ] `0.07` $\color{red}{\textbf{[RISK: Wilderness level 51]}}$ Use the Ardougne lever to teleport back to the Deserted Keep (Ardougne Diary, Easy 1/10)
+- [ ] `0.08` $\color{red}{\textbf{[RISK: Wilderness level 51]}}$ Pull the Deserted Keep lever again and choose Ardougne
+- [ ] `0.09` Start [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)]: talk to Ceril Carnillean in East Ardougne, just north of the clock tower
+- [ ] `0.10` Complete [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] in full, siding with Hazeel (follow the Quick Guide link or RuneLite's Quest Helper plugin)
+
+> **Rewards:**
+> - 1 quest point and 1,500 Thieving XP
+> - 2,000 gp (plus 5 gp more if you sided with the Carnilleans)
+> - Hazeel's mark if you sided with Hazeel
+> - 5 Kudos, claimable from Historian Minas in the Varrock Museum
+
+- [ ] `0.11` Take 4x purple dye from the spawn north of the clock tower, near the spirit tree [[Land of the Goblins](https://oldschool.runescape.wiki/w/Land_of_the_Goblins/Quick_guide)] [[Song of the Elves](https://oldschool.runescape.wiki/w/Song_of_the_Elves/Quick_guide)] [[Recipe for Disaster](https://oldschool.runescape.wiki/w/Recipe_for_Disaster/Quick_guide)] [[Ghosts Ahoy](https://oldschool.runescape.wiki/w/Ghosts_Ahoy/Quick_guide)]
+- [ ] `0.12` Start [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)]: talk to Councillor Halgrive outside the East Ardougne church, then buy the plague suit (100 gp) from Doctor Orbon
+- [ ] `0.13` Complete [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)] in full (follow the Quick Guide link or RuneLite's Quest Helper plugin)
+
+> **Rewards:**
+> - 4 quest points and 3,100 gp
+> - 1,000 Hunter XP
+> - Ability to hunt goats on Wyrmscraig
+
+- [ ] `0.14` Visit the Ardougne general store and buy the supplies for the later visits (3x rope, 1x water-filled vial pack, 30x balls of wool, 7x papyrus)
+- [ ] `0.15` Burn your Prayer point and restore it at the altar in the East Ardougne church (Ardougne Diary, Easy 2/10)
+- [ ] `0.16` Check your insured pets with Probita (Ardougne Diary, Easy 3/10)
+- [ ] `0.17` Buy 2x silver bar from the Silver Merchant [add which quests need them]
+- [ ] `0.18` $\color{red}{\textbf{[RISK: Ardougne guard]}}$ $\color{red}{\textbf{[RISK: Hero]}}$ $\color{red}{\textbf{[RISK: Paladin]}}$ Steal cakes from the Bakery Stall in Ardougne, standing underneath the Baker to avoid detection (Ardougne Diary, Easy 4/10)
+- [ ] `0.19` $\color{red}{\textbf{[RISK: Ardougne guard]}}$ $\color{red}{\textbf{[RISK: Hero]}}$ $\color{red}{\textbf{[RISK: Paladin]}}$ Keep stealing from the Bakery Stall until you have banked at least 14x bread [add which quests need these] and as many cakes as you get up to level 20 Thieving, then bank all the food
+- [ ] `0.20` $\color{red}{\textbf{[RISK: Ardougne guard]}}$ $\color{red}{\textbf{[RISK: Hero]}}$ $\color{red}{\textbf{[RISK: Paladin]}}$ Steal 84x silk from the Silk Stall (leaves you at about level 23 Thieving, see the Visit 0 Notes)
+- [ ] `0.21` Run to the Ardougne Monastery and Start [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: talk to Brother Omad
+- [ ] `0.22` Start [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)]: run to the clock tower and talk to Brother Kojo, then go down the ladder and start on the white cog (north-west direction), taking rat poison along the way
+- [ ] `0.23` $\color{red}{\textbf{[RISK: Thieves]}}$ Continue [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: exit the dungeon ladder, head south-west to the stone circle, go down the ladder, run past the thieves and take the child's blanket
+- [ ] `0.24` Continue [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)]: leave and place the white cog in the clock tower (top floor)
+- [ ] `0.25` Continue [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: return the blanket to Brother Omad and proceed with the quest
+- [ ] `0.26` Continue [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: head to Brother Cedric and give him the jug of water and the logs
+- [ ] `0.27` $\color{red}{\textbf{[RISK: Dungeon rat]}}$ Continue [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)]: take the nearby bucket and fill it at the well, then head down the ladder to the north-east and follow the path to the blue cog
+- [ ] `0.28` $\color{red}{\textbf{[RISK: Ogres]}}$ Continue [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)]: climb up the ladder and place the blue cog in the clock tower (second floor), then obtain the black cog (north-east direction, downstairs) and place it (basement), then obtain the red cog (south-east direction, downstairs) and place it on the correct spindle (first floor)
+- [ ] `0.29` Complete [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)]: talk to Brother Kojo
+
+> **Rewards:**
+> - 1 quest point, 500 gp and 1,000 Firemaking XP
+
+- [ ] `0.30` Complete [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: head to the Ardougne Monastery and talk to Brother Omad
+
+> **Rewards:**
+> - 1 quest point and 2,000 Woodcutting XP
+> - 8x law rune
+> - Brother Omad will throw parties for you by speaking to him
+
+- [ ] `0.31` Bank to gain inventory space, then cut and burn logs to level 35 Woodcutting (Firemaking 30 is expected on the way, see the Visit 0 Notes)
+- [ ] `0.32` Take your gp and a small fishing net, then take the boat to Brimhaven
+- [ ] `0.33` Buy 1x swamp paste from Trader Stan [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)]
+- [ ] `0.34` Buy 7x soda ash, 7x bucket of sand, 1x cake tin and 1x glassblowing pipe from Trader Stan [add which quests need these]
+- [ ] `0.35` Start [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]: head to Kangai Mau in the Shrimp and Parrot
+- [ ] `0.36` $\color{red}{\textbf{[RISK: Sea slug]}}$ Start [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)]: return to Witchaven and talk to Caroline, north of the town; do not pick up the sea slugs
+- [ ] `0.37` $\color{red}{\textbf{[RISK: Sea slug]}}$ Complete [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)] in full (follow the Quick Guide link or RuneLite's Quest Helper plugin; do not pick up the sea slugs)
+
+> **Rewards:**
+> - 1 quest point and 7,175 Fishing XP
+> - Access to the Fishing Platform
+> - Oyster pearls
+
+- [ ] `0.38` Fish an anchovy or shrimp on the Fishing Platform after the quest (Ardougne Diary, Medium 1/12)
+- [ ] `0.39` Buy 1x raw sardine, 2x fishing rod, 1x fly fishing rod, 1x harpoon, 10x fishing bait and 1x lobster pot from Lovecraft's Tackle in Witchaven [add which quests need these]
+- [ ] `0.40` $\color{red}{\textbf{[RISK: Giant rats]}}$ $\color{red}{\textbf{[RISK: Zombies]}}$ Continue [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]: carry on to the point where you collect the totem (investigate the stairs first, because triggering the trap drops you into the Ardougne Sewers)
+- [ ] `0.41` Sell 73x silk back to the Silk trader (leave 11x in the bank) for 60 gp each, then sell your oyster pearls to the general store (Ardougne Diary, Easy 5/10)
+- [ ] `0.42` $\color{red}{\textbf{[RISK: Jungle spiders]}}$ Complete [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]
+
+> **Rewards:**
+> - 1 quest point and 1,775 Thieving XP
+> - 5x swordfish
+
+- [ ] `0.43` Home teleport to Lumbridge (optional: minigame teleport to Clan Wars first to restore run energy) to begin the next location segment
+
+> **Visit 0 Notes:**
+> - **Purple dye:** The spawn gives one dye at a time, so 4x means waiting on respawns. Fit this around the quest steps rather than standing still.
+> - **Ring of Life:** It does not work in the Wilderness. It is only the safety net for aggressive overworld monsters after the lever steps.
+> - **Silk trader:** He refuses to speak to you after you steal from his stall. The Silk stall page says to wait 20 to 30 minutes since the last theft, and the Ardougne Diary page says 10 consecutive minutes outside Ardougne without logging off. Plan for the longer figure and stay logged in. To complete the diary task, first offer to sell your silk for 120 gp, then counter his bid with 60 gp.
+> - **Woodcutting and Firemaking:** [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)] needs Firemaking 30, and the route does not train it directly. Cutting and burning logs up to Woodcutting 35 is expected to reach Firemaking 30 along the way. Confirm your Firemaking level before starting [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)].
+> - **Thieving:** You start at 1,500 XP (level 11) after [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)]. Level 20 needs 4,470 XP, so about 2,970 XP of food is needed (186 steals at 16 XP each, counting the cake step). 84x silk at 24 XP each adds 2,016 XP, which ends at about 6,486 XP (level 23). [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)] needs level 21 and rewards 1,775 XP, taking you to about 8,261 XP (level 25).
+> - **Floor numbers:** The [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)] steps use US floor numbering (the wiki's first floor is the second floor here).
+
+**Carry-forward after Visit 0:** Escape Crystal (equipped), bronze axe, 4x purple dye, banked bread and cakes, 11x silk (banked), 3x rope, 1x water-filled vial pack, balls of wool left after [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)], 7x papyrus, 2x silver bar, 7x soda ash, 7x bucket of sand, cake tin, glassblowing pipe, the fishing gear from Lovecraft's Tackle, and the gp left after shopping and sales. [UNSURE IF WE NEED A CARRY-FORWARD SECTION]
+
+**Estimated levels after Visit 0:** Thieving 25, Woodcutting 35, Firemaking 37 to 39, Fishing 24 and Hunter 9, with 9 quest points. All other skills are unchanged. Firemaking depends on the log mix burned in step `0.31`, and Thieving assumes the XP maths in the Visit 0 Notes.
+
 
 ---
 
-## Visit 1: Lumbridge (Mudfoot + Ides of Milk)
+## Visit 1: Lumbridge, Draynor and Varrock (Mudfoot, Ides of Milk and the early quests)
 
-- [ ] `1.01` Talk to Captain Harlan outside the Lumbridge General Store to Start [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]
-- [ ] `1.02` (Optional) Claim the bronze shortsword and wooden shield from Captain Harlan
-- [ ] `1.03` Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: cross the River Lum to the building just south of the cow field (first meeting with Mudfoot)
-- [ ] `1.04` Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: return to the general store and confront the outlaw roaming outside (cutscene)
-- [ ] `1.05` Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: walk north along the road to the chicken field (second meeting, Mudfoot is south of the windmill)
-- [ ] `1.06` Talk to Cassius at the Lumbridge pond, just south of the windmill, to Start [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]
-- [ ] `1.07` [RISK: Ranger outlaw] Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the ranger outlaw and loot the shortbow and bronze arrows
-- [ ] `1.08` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: talk to Gillie Groats in the cow field, just north of the entrance (option 3)
-- [ ] `1.09` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: talk to Seth Groats in the farmhouse by the chicken coop, north-west of the cow field, and search the shelves on the south wall for The groats principles
-- [ ] `1.10` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: return the book to Cassius for a milk sample, drink it in front of him, then talk to him again for a second sample
-- [ ] `1.11` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: talk to Duke Horacio upstairs in Lumbridge Castle about the permit
+*Visit-specific notes are at the bottom of this section.*
 
-> **Hold:** Do not return to Gillie yet. Drinking her sample leads to the Brutus fight, which waits until Mudfoot's staff and runes are in hand.
+**Goal:** Complete [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)], [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)], [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)], [[Misthalin Mystery](https://oldschool.runescape.wiki/w/Misthalin_Mystery/Quick_guide)] and [[Sheep Shearer](https://oldschool.runescape.wiki/w/Sheep_Shearer/Quick_guide)], start [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)] and [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)], then buy the Waterfall runes in Varrock.
 
-- [ ] `1.12` [RISK: Mage outlaw] Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the mage outlaw by the H.A.M. hideout and loot the staff and runes
-- [ ] `1.13` Keep the staff and the 80x air runes and 80x mind runes (Wind Strike ammunition) [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)] [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)] [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]
-- [ ] `1.14` [RISK: Final outlaw] Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the final outlaw at the Lumbridge graveyard, south-east of the hideout, with Magic or Ranged gear (or poison)
-- [ ] `1.15` Complete [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: report to Captain Harlan at the general store
-
-#### Rewards: [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]
-- 1 quest point and 500 gp
-- Shortbow and 80x bronze arrows, staff and 80x mind runes and 80x air runes, iron scimitar and iron kiteshield
-- 4x antique lamps (500 XP each, any combat skill)
-- **Decision:** Magic until level 13 (1,833 XP in total), any remaining lamps on Hitpoints. At Magic 13 Wind Strike hits for up to 8.
-
-- [ ] `1.16` Use the Mudfoot antique lamps as decided above
-- [ ] `1.17` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: return to Gillie Groats and drink the milk sample when prompted
-- [ ] `1.18` [RISK: Brutus] Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: open the gate north-east of Gillie and fight Brutus from the safespot between the feed troughs to the south
-- [ ] `1.19` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: speak to Gillie about the bull, then confront Cassius at the pond
-- [ ] `1.20` Complete [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: return to Gillie Groats for the additional rewards
-
-#### Rewards: [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]
-- 1 quest point and access to Brutus (repeatable cow boss)
-- Cowbell amulet: faster milking, a teleport to the Lumbridge cow field (1 air rune per charge, up to 1,000, not past level 20 Wilderness), and a Brutus respawn ring
-- 1x magic lamp (1,000 XP, any combat skill)
-- **Decision:** Put the lamp on Hitpoints. Recommendation for the amulet: charge it sparingly, because the same air runes are your Wind Strike ammunition.
-
-- [ ] `1.21` Use the Ides of Milk magic lamp on Hitpoints
-- [ ] `1.22` Grab 6x logs [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)] (chop them, or bring an axe instead)
-- [ ] `1.23` Keep 5x coins [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)] for the Khali brew
-- [ ] `1.24` Keep 1x rope [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] (bought in Visit 0 from the Ardougne general store)
-- [ ] `1.25` Buy 6x air runes, 6x earth runes and 6x water runes [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] from Aubury's rune shop in Varrock (route placement to be decided)
+**Lumbridge & Draynor Diary tasks completed in this visit:** Easy 1/12 (learn your age from Hans).
 
 **Combat table: Visit 1**
 
@@ -228,31 +161,120 @@ Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble af
 | Final outlaw | 8 | not listed | Uses Protect from Melee after your first hit, so bring Magic or Ranged. Very low levels can run around the graveyard until it aggros Mudfoot instead. | TBD (deferred) |
 | Brutus | not listed | specials up to 19, cannot be prayed against | Feed-trough safespot to the south (from your notes, unverified) | TBD (deferred) |
 
-**Carry-forward after Visit 1:** staff, 80x air runes, 80x mind runes, 6x logs, 5x coins, 1x rope, 6x air runes, 6x earth runes, 6x water runes, food from Visit 0.
+- [ ] `1.01` Grab 1x knife, 1x jug, 2x bucket, 1x cabbage and 1x leather boots, then fill the jug with water [add which quests need these]
+- [ ] `1.02` Start [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)]: talk to Duke Horacio upstairs in Lumbridge Castle and take the air talisman he gives you
+- [ ] `1.03` Talk to Hans to learn your age (Lumbridge & Draynor Diary, Easy 1/12)
+- [ ] `1.04` Talk to Veos in The Sheared Ram pub to Start [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]
+- [ ] `1.05` Talk to Captain Harlan outside the Lumbridge General Store to Start [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]
+- [ ] `1.06` (Optional) Claim the bronze shortsword and wooden shield from Captain Harlan
+- [ ] `1.07` Buy 1x spade, 1x hammer and 1x chisel in the general store [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)] [the hammer and chisel still need quest tags]
+- [ ] `1.08` Talk to Father Aereck to Start [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]
+- [ ] `1.09` Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: cross the River Lum to the building just south of the cow field (first meeting with Mudfoot)
+- [ ] `1.10` Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: return to the general store and confront the outlaw roaming outside (cutscene)
+- [ ] `1.11` Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: walk north along the road to the chicken field (second meeting, Mudfoot is south of the windmill)
+- [ ] `1.12` Talk to Cassius at the Lumbridge pond, just south of the windmill, to Start [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]
+- [ ] `1.13` $\color{red}{\textbf{[RISK: Ranger outlaw]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the ranger outlaw and loot the shortbow and bronze arrows
+- [ ] `1.14` Continue [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]: go to the back exit of Lumbridge Castle and dig
+- [ ] `1.15` Kill a giant rat and collect the raw meat and bones [add which quests need these]
+- [ ] `1.16` $\color{red}{\textbf{[RISK: Mage outlaw]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the mage outlaw by the H.A.M. hideout and loot the staff and runes
+- [ ] `1.17` Keep the staff and the 80x air runes and 80x mind runes (Wind Strike ammunition) [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)] [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)] [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]
+- [ ] `1.18` $\color{red}{\textbf{[RISK: Final outlaw]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the final outlaw at the Lumbridge graveyard, south-east of the hideout, with Magic or Ranged gear (or poison)
+- [ ] `1.19` Buy 1x steel axe from Bob [add which quests need this]
+- [ ] `1.20` Continue [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]: dig on the tile north of the north-western window of Bob's house
+- [ ] `1.21` Complete [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: report to Captain Harlan at the general store
 
-**Overlap with main-route Steps 1 and 2:** Duke Horacio (Step 1, Rune Mysteries) and the general store (Step 2 purchases) are in the same places as this visit. Fold those errands in when the blocks are merged.
+> **Rewards:**
+> - 1 quest point and 500 gp
+> - Shortbow and 80x bronze arrows, staff and 80x mind runes and 80x air runes, iron scimitar and iron kiteshield
+> - 4x antique lamps (500 XP each, any combat skill)
+> - **Decision:** Magic until level 13 (1,833 XP in total), any remaining lamps on Hitpoints. At Magic 13 Wind Strike hits for up to 8.
+
+- [ ] `1.22` Use the Mudfoot antique lamps as decided above
+- [ ] `1.23` Start [[Misthalin Mystery](https://oldschool.runescape.wiki/w/Misthalin_Mystery/Quick_guide)]: head south of Lumbridge
+- [ ] `1.24` Complete [[Misthalin Mystery](https://oldschool.runescape.wiki/w/Misthalin_Mystery/Quick_guide)] in full (follow the Quick Guide link or RuneLite's Quest Helper plugin)
+
+> **Rewards:**
+> - 1 quest point and 600 Crafting XP
+> - 1x uncut ruby, 1x uncut emerald and 1x uncut sapphire
+
+- [ ] `1.25` Continue [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]: head west to Father Urhney in Lumbridge Swamp to get the ghostspeak amulet
+- [ ] `1.26` Grab 1x leather gloves [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)] from Father Urhney's house (the quest itself also has gloves in its boxes, see step 2.05, and spare pairs can be sold for bonus gp)
+- [ ] `1.27` Run to Draynor Village, grab and wear the forestry kit and buy 26x wine from Fortunato (skip if out of stock; the wine is cheap, high-healing, one-bite food)
+- [ ] `1.28` Home teleport to Lumbridge (optional: minigame teleport to Clan Wars first to restore run energy)
+- [ ] `1.29` Continue [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]: talk to the restless ghost in the Lumbridge cemetery
+- [ ] `1.30` Continue [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]: run to Draynor and progress the quest (twice)
+- [ ] `1.31` Buy 1x Chronicle, 3x teleport cards and 1x rainbow scarf from Diango, then put the cards in the Chronicle
+- [ ] `1.32` Continue [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)]: head to the Wizards' Tower with the air talisman, talk to Archmage Sedridor and trade the air talisman for a research package
+- [ ] `1.33` Continue [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]: take the ghost's skull from the altar in the Wizards' Tower basement
+- [ ] `1.34` Complete [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]: return to Lumbridge
+
+> **Rewards:**
+> - 1 quest point and 1,125 Prayer XP
+> - Ghostspeak amulet (keep it for later quests and content)
+
+- [ ] `1.35` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: talk to Gillie Groats in the cow field, just north of the entrance (option 3)
+- [ ] `1.36` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: talk to Seth Groats in the farmhouse by the chicken coop, north-west of the cow field, and search the shelves on the south wall for The groats principles
+- [ ] `1.37` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: return the book to Cassius for a milk sample, drink it in front of him, then talk to him again for a second sample
+- [ ] `1.38` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: talk to Duke Horacio upstairs in Lumbridge Castle about the permit
+- [ ] `1.39` Bank at Lumbridge Castle and grab 20x balls of wool [[Sheep Shearer](https://oldschool.runescape.wiki/w/Sheep_Shearer/Quick_guide)]
+- [ ] `1.40` Start [[Sheep Shearer](https://oldschool.runescape.wiki/w/Sheep_Shearer/Quick_guide)]: run north to Fred the Farmer
+- [ ] `1.41` Complete [[Sheep Shearer](https://oldschool.runescape.wiki/w/Sheep_Shearer/Quick_guide)]: hand in the 20x balls of wool
+
+> **Rewards:**
+> - 1 quest point and 150 Crafting XP
+> - 60 gp
+
+- [ ] `1.42` Grab 7x onion [add which quests need these]
+- [ ] `1.43` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: return to Gillie Groats and drink the milk sample when prompted
+- [ ] `1.44` $\color{red}{\textbf{[RISK: Brutus]}}$ Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: open the gate north-east of Gillie and fight Brutus from the safespot between the feed troughs to the south
+- [ ] `1.45` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: speak to Gillie about the bull, then confront Cassius at the pond
+- [ ] `1.46` Complete [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: return to Gillie Groats for the additional rewards
+
+> **Rewards:**
+> - 1 quest point and access to Brutus (repeatable cow boss)
+> - Cowbell amulet: faster milking, a teleport to the Lumbridge cow field (1 air rune per charge, up to 1,000, not past level 20 Wilderness), and a Brutus respawn ring
+> - 1x magic lamp (1,000 XP, any combat skill)
+> - **Decision:** Put the lamp on Hitpoints.
+
+- [ ] `1.47` Use the Ides of Milk magic lamp on Hitpoints
+- [ ] `1.48` Travel to Varrock (check your gp stack first, see the Visit 1 Notes)
+- [ ] `1.49` Buy 6x air runes, 6x earth runes and 6x water runes [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] from Aubury's rune shop in Varrock
+
+> **Visit 1 Notes:**
+> - **Outlaw order:** The ranger outlaw (shortbow and arrows) comes first, where the quest puts it. The mage outlaw (staff and runes) comes straight before the final outlaw, because both are at the H.A.M. hideout and the final outlaw needs Magic or Ranged gear.
+> - **Air talisman:** Duke Horacio gives it for free when you start [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)], so there is nothing to buy or find.
+> - **Rune Mysteries and X Marks the Spot:** Both are only started or continued here and finish in the main route. The next step of [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)] after the research package is delivering it to Aubury in Varrock, the same shop that sells the Waterfall runes.
+> - **Leather gloves:** Both sources are kept. Step `1.26` picks a pair up at Father Urhney's house and the boxes in [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)] (step 2.05) hold more. Spare pairs can be sold for bonus gp.
+> - **Varrock funds:** Check your gp stack and the rune prices before the Varrock trip (step `1.48`). If funds are too low, the fallback is the Count Check teleport to the Stronghold of Security for its free 10,000 gp, but going there with low hit points is a worry.
+> - **Gold ledger:** The author is calculating the expected gp across Visits 0 and 1.
+> - **Merge with the main route:** Duke Horacio (Step 1, Rune Mysteries) and the general store (Step 2 purchases) are in the same places as this visit. Fold those errands in when the blocks are merged.
+> - **Risk review pending:** The author will analyse the risks in steps 1.10, 1.15, 1.23, 1.24, 1.25, 1.26, 1.27, 1.33, and fill in the max hits for the four tagged enemies, before the table above is final.
+
+**Carry-forward after Visit 1:** staff, 80x air runes, 80x mind runes, shortbow and 80x bronze arrows, iron scimitar and iron kiteshield, 6x air runes, 6x earth runes, 6x water runes, 1x leather gloves, ghostspeak amulet, steel axe, spade, hammer, chisel, knife, 2x bucket, jug of water, cabbage, leather boots, Chronicle with 3 teleport cards, rainbow scarf, forestry kit (worn), 26x wine, 7x onion, cowbell amulet, plus the Visit 0 items still in the bank and any food.
+
+**Estimated levels after Visit 1:** Magic 13, Hitpoints 14, Prayer 9 and Crafting 7, on top of the Visit 0 results (Thieving 25, Woodcutting 35, Firemaking 37 to 39, Fishing 24 and Hunter 9), with 14 quest points. All other skills are unchanged, and combat XP from the outlaws, Brutus and other fights is not counted.
 
 ---
 
-## Visit 2: Taverley (Witch's House)
+## Visit 2: Taverley (Witch's House) [FROM HERE FORWARD, THE GUIDE DOES NOT CONTAIN BUFFALODAD'S EDITS]
 
 - [ ] `2.01` Grab 2x cheese [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)] (one spare) from Aggie in Draynor Village, on the way west
 - [ ] `2.02` Talk to the Boy south-east of the long garden in Taverley, next to the members gate, to Start [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]
 - [ ] `2.03` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: walk west, then north, to the Witch's house front door and search the potted plant closest to the door for the key
 - [ ] `2.04` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: enter, read the diary on the table, then climb down the ladder to the north
-- [ ] `2.05` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: search the boxes for the leather gloves, equip them and open the gate
+- [ ] `2.05` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: equip the leather gloves and open the gate (the boxes also hold gloves, and spare pairs can be sold for bonus gp)
 - [ ] `2.06` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: search the cupboard for a magnet, climb the ladder and go to the small southern room
 - [ ] `2.07` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: drop cheese to lure out a mouse, then use the magnet on the mouse
 - [ ] `2.08` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: cross the garden to the fountain without being caught by the Witch (use the hedges, do not walk on the grass, keep full run energy)
 - [ ] `2.09` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: check the fountain, then use the key on the shed door on the east side. Do not take the ball yet
-- [ ] `2.10` [RISK: Witch's experiment] Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: kill the experiment in all four forms (fleeing resets to form 1)
+- [ ] `2.10` $\color{red}{\textbf{[RISK: Witch's experiment]}}$ Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: kill the experiment in all four forms (fleeing resets to form 1)
 - [ ] `2.11` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: take the ball and leave by teleport or through the garden and front door
 - [ ] `2.12` Complete [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: give the ball to the Boy
 
-#### Rewards: [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]
-- 4 quest points and 6,325 Hitpoints XP (fixed, no decision)
-- Unlocks the Witch's experiment in the Nightmare Zone, which is an unsafe activity on Hardcore Worlds, so skip it
-- Required later for Recipe for Disaster and Grim Tales
+> **Rewards:**
+> - 4 quest points and 6,325 Hitpoints XP (fixed, no decision)
+> - Unlocks the Witch's experiment in the Nightmare Zone, which is an unsafe activity on Hardcore Worlds, so skip it
+> - Required later for Recipe for Disaster and Grim Tales
 
 **Combat table: Visit 2** (combined experiment HP is 144)
 
@@ -291,28 +313,28 @@ Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble af
 - [ ] `4.08` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: fire the ballista in the south-west corner of the battlefield, past the bridge, and enter the coordinates
 - [ ] `4.09` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: climb over the crumbled wall at the stronghold north of the village (ignore or kill the Khazard commanders), climb the ladder, search the chest, and take the first orb of protection
 - [ ] `4.10` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: leave by the front door, talk to Elkoy, then to King Bolren (choose "I will find the warlord and bring back the orbs.")
-- [ ] `4.11` [RISK: Khazard warlord] Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: find the warlord north-west of the battlefield, below West Ardougne, and kill him for the remaining orbs
+- [ ] `4.11` $\color{red}{\textbf{[RISK: Khazard warlord]}}$ Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: find the warlord north-west of the battlefield, below West Ardougne, and kill him for the remaining orbs
 - [ ] `4.12` Complete [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: return the orbs to King Bolren
 
-#### Rewards: [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]
-- 2 quest points and 11,450 Attack XP (fixed, no decision)
-- Spirit tree transport and the gnome amulet
-- Unlocks the Khazard warlord in the Nightmare Zone, which is an unsafe activity on Hardcore Worlds, so skip it
+> **Rewards:**
+> - 2 quest points and 11,450 Attack XP (fixed, no decision)
+> - Spirit tree transport and the gnome amulet
+> - Unlocks the Khazard warlord in the Nightmare Zone, which is an unsafe activity on Hardcore Worlds, so skip it
 
 - [ ] `4.13` Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: search the chest in the house in the far north-east of the area for the Khazard armour, equip it, and go south into the prison (keep it on inside)
 - [ ] `4.14` Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: enter the south-east room with the jails and talk to the Head Guard in the southernmost jail room, near the staircase. Skipping this removes the Khali brew option later
 - [ ] `4.15` Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: leave the arena, go to the western bar, and buy a Khali brew for 5 coins from the Khazard Barman
 - [ ] `4.16` Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: return to the jail and talk to the guard for the keys, then use the keys on Sammy's cell door (the most north-eastern cell)
-- [ ] `4.17` [RISK: Khazard ogre] Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill the Khazard ogre (talk to Justin if the fight does not start)
-- [ ] `4.18` [RISK: Khazard scorpion] Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: talk to your cellmate Hengrad and kill the Khazard scorpion
-- [ ] `4.19` [RISK: Bouncer] Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill the Bouncer
-- [ ] `4.20` (Optional) [RISK: General Khazard] Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill General Khazard, or skip him by running through the south-east door of the arena or north until he stops being aggressive
+- [ ] `4.17` $\color{red}{\textbf{[RISK: Khazard ogre]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill the Khazard ogre (talk to Justin if the fight does not start)
+- [ ] `4.18` $\color{red}{\textbf{[RISK: Khazard scorpion]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: talk to your cellmate Hengrad and kill the Khazard scorpion
+- [ ] `4.19` $\color{red}{\textbf{[RISK: Bouncer]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill the Bouncer
+- [ ] `4.20` (Optional) $\color{red}{\textbf{[RISK: General Khazard]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill General Khazard, or skip him by running through the south-east door of the arena or north until he stops being aggressive
 - [ ] `4.21` Complete [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: return to Lady Servil
 
-#### Rewards: [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]
-- 2 quest points, 12,175 Attack XP and 2,175 Thieving XP (fixed, no decision)
-- 1,000 gp and the Khazard armour set
-- Unlocks the Bouncer in the Nightmare Zone, which is an unsafe activity on Hardcore Worlds, so skip it
+> **Rewards:**
+> - 2 quest points, 12,175 Attack XP and 2,175 Thieving XP (fixed, no decision)
+> - 1,000 gp and the Khazard armour set
+> - Unlocks the Bouncer in the Nightmare Zone, which is an unsafe activity on Hardcore Worlds, so skip it
 
 **Combat table: Visit 4**
 
@@ -331,18 +353,18 @@ Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble af
 ## Visit 5: Baxtorian Falls, Parts 3 and 4
 
 - [ ] `5.01` Bank everything except Glarial's pebble, food and a transport method [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] (2 free slots, no runes allowed in the tomb)
-- [ ] `5.02` [RISK: Moss Guardians] Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: use the pebble on Glarial's Tombstone, east of the waterfall, and start a fight with a skeleton inside to keep the guardians off you
+- [ ] `5.02` $\color{red}{\textbf{[RISK: Moss Guardians]}}$ Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: use the pebble on Glarial's Tombstone, east of the waterfall, and start a fight with a skeleton inside to keep the guardians off you
 - [ ] `5.03` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: go west and search the chest for Glarial's amulet (drop and pick it up again if you need extras), then go the other way and search the tomb for Glarial's urn
 - [ ] `5.04` Bank, then withdraw the rope, the 6x air, 6x water and 6x earth runes, Glarial's amulet, Glarial's urn and food [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] (weapons and armour are allowed in the dungeon)
 - [ ] `5.05` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: board the raft, use the rope on the rock across the water to the south, then on the dead tree. Do not enter the barrel
-- [ ] `5.06` [RISK: Fire Giants] Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: with Glarial's amulet carried or equipped, enter the doorway, take the right path and search the northernmost crates for a key
+- [ ] `5.06` $\color{red}{\textbf{[RISK: Fire Giants]}}$ Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: with Glarial's amulet carried or equipped, enter the doorway, take the right path and search the northernmost crates for a key
 - [ ] `5.07` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: return to the left side, avoid the fire giants, and use the key on the door
 - [ ] `5.08` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: in the chalice room place 1x air rune, 1x water rune and 1x earth rune on each pillar, then put Glarial's amulet on her statue
 - [ ] `5.09` Complete [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: do not click "Take treasure" (it washes you out). Use Glarial's urn on the chalice with 5 free inventory slots
 
-#### Rewards: [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]
-- 1 quest point, 13,750 Attack XP and 13,750 Strength XP (fixed, no decision)
-- 2x diamonds, 2x gold bars and 40x mithril seeds
+> **Rewards:**
+> - 1 quest point, 13,750 Attack XP and 13,750 Strength XP (fixed, no decision)
+> - 2x diamonds, 2x gold bars and 40x mithril seeds
 
 **Combat table: Visit 5**
 
@@ -384,13 +406,14 @@ These figures come from the standard XP table and exclude anything else you earn
 1. **Food route:** Drafted as Visit 0. Remaining: the `[add which quests need these]` notes on the bread, silver bars and shopping purchases, and the food quantity for the later fights.
 2. **Rune supply:** Wind Strike costs 1 air and 1 mind rune per cast. Mudfoot's package gives 80x of each. Killing the Witch's experiment (144 HP combined) takes at least 18 max-damage hits, and the warlord (170 HP) at least 22, so real fights will need more casts than that.
 3. **Item sources:**
-   - **Rope:** Resolved. Bought in Visit 0 at the Ardougne general store (step `1.24` now keeps it).
-   - **Waterfall runes (6x air, 6x earth, 6x water):** Bought at Aubury's rune shop in Varrock, the only feasible source. Still to decide: where the Varrock stop sits in the route (step `1.25` is a placeholder, and the carry-forward lines for Visits 1 to 3 still list the runes), and the cash budget.
-   - **Leather gloves:** Resolved. Witch's House needs them, but you pick them up during the quest by searching the boxes (step `2.05`), so there is no separate grab step.
+   - **Rope:** Resolved. Bought in Visit 0 at the Ardougne general store. Visit 1 no longer has a step for it.
+   - **Waterfall runes (6x air, 6x earth, 6x water):** Bought at Aubury's rune shop in Varrock, the only feasible source. The Varrock stop is now at the end of Visit 1 (steps `1.48` and `1.49`). The cash budget is still open (see the gold ledger below). The carry-forward lines for Visits 2 to 4 still list the runes, which is correct now.
+   - **Leather gloves:** Resolved. Both sources are kept: Father Urhney's house in Visit 1 and the boxes in Witch's House (step `2.05`). Spare pairs can be sold for bonus gp.
 4. **Pebble prerequisite:** Resolved. The pebble is only given at that specific point in Waterfall Quest, so the Visit 3, 4, 5 order stands.
 5. **Trough safespot:** From your notes. It was not on the wiki pages I read, so confirm it works before relying on it at low HP.
 6. **Combat gates:** Minimum HP and combat level per fight (deferred).
 7. **Merge with the main route:** How Steps 1 and 2 combine with Visit 1, and how Visit 0 sits next to Step 1.
+8. **Gold ledger:** The author is calculating the expected gp across Visits 0 and 1, covering the income (quests, silk and pearl sales) and the spending (shopping, fares, Varrock runes). It is needed before the Varrock purchase and any Stronghold of Security fallback.
 
 ---
 

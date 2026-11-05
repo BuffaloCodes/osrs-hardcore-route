@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lint a guide file against the house style.
+r"""Lint a guide file against the house style.
 
 Usage: python3 lint_guide.py FILE.md
 
@@ -8,10 +8,12 @@ Checks
   2. Every double-bracket quest link points at a wiki Quick Guide URL.
   3. No quest named in an action is left unlinked.
   4. Items grabbed for a later quest are followed by a later Continue/Complete of that quest.
-  5. Every Complete action has a Rewards block, and every Rewards block has a Complete action.
+  5. Every Complete action is followed directly by a `> **Rewards:**` blockquote, and every
+     Rewards blockquote directly follows a Complete action.
   6. Any Rewards block mentioning a lamp has a **Decision:** line.
   7. Numbers of four or more digits have thousands separators, "gp" is lowercase, "XP" is capitalised.
-  8. Every [RISK: enemy] tag appears as a row in that visit's combat table.
+  8. Every [RISK: enemy] tag appears as a row in that visit's combat table. Tags may be written
+     as plain text or in the bold red form $\color{red}{\textbf{[RISK: enemy]}}$.
 """
 import re
 import sys
@@ -23,6 +25,8 @@ ACTION_ID = re.compile(r"^- \[[ xX]\] `(\d+)\.(\d{2})` ")
 VERB = re.compile(r"\b(Start|Continue|Complete)\b")
 PREP = re.compile(r"^(Grab|Keep|Buy|Loot|Chop)\b")
 RISK = re.compile(r"\[RISK: ([^\]]+)\]")
+RISK_WRAP = re.compile(r"\$\\color\{red\}\{\\textbf\{(\[RISK: [^\]]+\])\}\}\$")
+REWARDS_HEAD = re.compile(r"^> \*\*Rewards:\*\*\s*$")
 CODE = re.compile(r"`[^`]*`")
 URL = re.compile(r"https?://\S+")
 
@@ -33,6 +37,7 @@ def strip_code(text):
 
 def main(path):
     lines = Path(path).read_text(encoding="utf-8").splitlines()
+    lines = [RISK_WRAP.sub(r"\1", l) for l in lines]  # treat bold red tags as plain tags
     issues = []
 
     def err(n, msg):
@@ -110,33 +115,42 @@ def main(path):
                 if not later:
                     err(i + 1, f"item tagged for '{q}' but no later Continue/Complete of it")
 
-    # Pass 5: rewards.
-    completes = {}
+    # Pass 5: a Rewards blockquote sits directly after every Complete action.
+    complete_idx = {}
     for i, v, n, text in actions:
-        m = re.match(r"^(?:\(Optional\) )?(?:\[RISK: [^\]]+\] )?Complete ", text)
-        if m:
-            for l in LINK.finditer(text):
-                completes[l.group(1)] = i
-    rewards = {}
-    for i, raw in enumerate(lines):
-        m = re.match(r"^#### Rewards: \[(?:\[)?(.+?)\]\(", raw)
-        if m:
-            rewards[m.group(1).lstrip("[")] = i
-    for q, i in completes.items():
-        if q not in rewards or rewards[q] < i:
-            err(i + 1, f"Complete '{q}' has no Rewards block after it")
-    for q, i in rewards.items():
-        if q not in completes:
-            err(i + 1, f"Rewards block for '{q}' has no Complete action")
+        if re.match(r"^(?:\(Optional\) )?(?:\[RISK: [^\]]+\] )?Complete ", text):
+            names = [m.group(1) for m in LINK.finditer(text)]
+            complete_idx[i] = names[0] if names else "?"
+    reward_heads = [i for i, raw in enumerate(lines) if REWARDS_HEAD.match(raw)]
+
+    def prev_nonblank(i):
+        k = i - 1
+        while k >= 0 and not lines[k].strip():
+            k -= 1
+        return k
+
+    def next_nonblank(i):
+        k = i + 1
+        while k < len(lines) and not lines[k].strip():
+            k += 1
+        return k
+
+    for i, q in complete_idx.items():
+        k = next_nonblank(i)
+        if k >= len(lines) or not REWARDS_HEAD.match(lines[k]):
+            err(i + 1, f"Complete '{q}' has no '> **Rewards:**' block directly after it")
+    for j in reward_heads:
+        if prev_nonblank(j) not in complete_idx:
+            err(j + 1, "'> **Rewards:**' block has no Complete action directly before it")
 
     # Pass 6: lamp decisions.
-    for q, start in rewards.items():
+    for start in reward_heads:
         end = start + 1
-        while end < len(lines) and not lines[end].startswith(("#", "- [ ]", "**Combat", "**Carry", "---")) and not lines[end].startswith("- [x]"):
+        while end < len(lines) and lines[end].startswith(">"):
             end += 1
         block = "\n".join(lines[start:end])
         if re.search(r"lamp", block, re.I) and "**Decision:**" not in block:
-            err(start + 1, f"Rewards for '{q}' mention a lamp but have no **Decision:** line")
+            err(start + 1, "Rewards block mentions a lamp but has no **Decision:** line")
 
     # Pass 7: number and term formatting.
     for i, raw in enumerate(lines):
@@ -174,7 +188,7 @@ def main(path):
         print("\n".join(issues))
         print(f"\n{len(issues)} issue(s) found.")
         return 1
-    print(f"OK: {len(actions)} actions, {len(quests)} quests, {len(rewards)} rewards blocks.")
+    print(f"OK: {len(actions)} actions, {len(quests)} quests, {len(reward_heads)} rewards blocks.")
     return 0
 
 
