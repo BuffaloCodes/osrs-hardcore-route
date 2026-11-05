@@ -22,6 +22,7 @@ All credit for the original ideas and routing belongs to them.
 | `chapters/Step0_Hardening_v0.02.md` | Step 0: hardening block (v0.02). Raises HP, Magic, Attack and Strength before the efficient route begins. |
 | `chapters/Chapter1.md` | Chapter 1 of the route. Placeholder until the cleaned version is added. |
 | `tools/lint_guide.py` | Lints a guide file against the house style. |
+| `CHANGELOG.md` | Chronicle of the work done on the guide, tooling and README, with commit hashes. |
 
 ## Conventions
 
