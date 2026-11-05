@@ -51,7 +51,7 @@ All credit for the original ideas and routing belongs to them.
 | Food | Gathered first, on the author's own route (Visit 0) |
 | Minimum HP / combat level gates | Deferred for now |
 | Witch's House | All four experiment forms can be safespotted |
-| Brutus (Ides of Milk) | Safespot between the feed troughs to the south (from the author's notes) |
+| Brutus (Ides of Milk) | Safespot between the feed troughs to the south (tested in-game: no damage taken, no special-attack dodging needed) |
 
 **Lamp arithmetic:** Magic level 13 needs 1,833 XP in total and each lamp is 500, so you need ceil((1,833 - your current Magic XP) / 500) lamps. With no prior Magic XP that is all four.
 
