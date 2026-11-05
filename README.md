@@ -23,6 +23,10 @@ All credit for the original ideas and routing belongs to them.
 | `chapters/Chapter1.md` | Chapter 1 of the route. Placeholder until the cleaned version is added. |
 | `tools/lint_guide.py` | Lints a guide file against the house style. |
 
+## Quest steps
+
+The guide does not repeat every step of every quest. Each quest links its wiki Quick Guide, and players can follow along with RuneLite's Quest Helper plugin instead. Steps that matter to the route (risks, items, decisions) are spelled out in the chapters.
+
 ## Linting
 
 ```

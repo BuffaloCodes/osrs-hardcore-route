@@ -18,6 +18,7 @@
 | Actions | Every action is a checkbox item. |
 | Quest verbs | Start, Continue, Complete. |
 | Quest references | Every mention of a quest in an action links its Quick Guide, inside brackets: `[[Quest name](Quick Guide URL)]`. |
+| Quest steps | Short quests are not written out step by step. The action points to the quest's Quick Guide link, and players can also use RuneLite's Quest Helper plugin. Only steps that matter to the route (risks, items, decisions) are spelled out. |
 | Items for later quests | The action ends with the quest tag, for example `Grab 6x logs [[Tree Gnome Village](...)]`. |
 | Completion rewards | A `Rewards` block follows every Complete action. Any lamp or XP choice carries a `**Decision:**` line with a recommendation. |
 | Danger | Any action where you can die starts with `[RISK: enemy name]`, and the enemy appears in that visit's combat table. |
@@ -75,7 +76,7 @@ Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble af
 - [ ] `0.07` [RISK: Wilderness level 51] Use the Ardougne lever to teleport back to the Deserted Keep (Ardougne Easy Diary, 1/10 tasks completed)
 - [ ] `0.08` [RISK: Wilderness level 51] Pull the Deserted Keep lever again and choose Ardougne
 - [ ] `0.09` Start [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)]: talk to Ceril Carnillean in East Ardougne, just north of the clock tower
-- [ ] `0.10` Complete [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] in full, siding with Hazeel (detailed steps to be added)
+- [ ] `0.10` Complete [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] in full, siding with Hazeel (follow the Quick Guide link or RuneLite's Quest Helper plugin)
 
 #### Rewards: [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)]
 - 1 quest point and 1,500 Thieving XP
@@ -86,7 +87,7 @@ Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble af
 
 - [ ] `0.11` Take 4x purple dye from the spawn north of the clock tower, near the spirit tree [[Land of the Goblins](https://oldschool.runescape.wiki/w/Land_of_the_Goblins/Quick_guide)] [[Song of the Elves](https://oldschool.runescape.wiki/w/Song_of_the_Elves/Quick_guide)] [[Recipe for Disaster](https://oldschool.runescape.wiki/w/Recipe_for_Disaster/Quick_guide)] [[Ghosts Ahoy](https://oldschool.runescape.wiki/w/Ghosts_Ahoy/Quick_guide)]
 - [ ] `0.12` Start [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)]: talk to Councillor Halgrive outside the East Ardougne church, then buy the plague suit (100 gp) from Doctor Orbon
-- [ ] `0.13` Complete [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)] in full (detailed steps to be added)
+- [ ] `0.13` Complete [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)] in full (follow the Quick Guide link or RuneLite's Quest Helper plugin)
 
 #### Rewards: [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)]
 - 4 quest points and 3,100 gp
@@ -126,7 +127,7 @@ Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble af
 - [ ] `0.34` Buy 7x soda ash, 7x bucket of sand, 1x cake tin and 1x glassblowing pipe from Trader Stan [add which quests need these]
 - [ ] `0.35` Start [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]: head to Kangai Mau in the Shrimp and Parrot
 - [ ] `0.36` [RISK: Sea slug] Start [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)]: return to Witchaven and talk to Caroline, north of the town; do not pick up the sea slugs
-- [ ] `0.37` [RISK: Sea slug] Complete [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)] in full (detailed steps to be added; do not pick up the sea slugs)
+- [ ] `0.37` [RISK: Sea slug] Complete [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)] in full (follow the Quick Guide link or RuneLite's Quest Helper plugin; do not pick up the sea slugs)
 
 #### Rewards: [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)]
 - 1 quest point and 7,175 Fishing XP
@@ -217,7 +218,6 @@ Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble af
 - [ ] `1.23` Keep 5x coins [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)] for the Khali brew
 - [ ] `1.24` Keep 1x rope [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] (bought in Visit 0 from the Ardougne general store)
 - [ ] `1.25` Buy 6x air runes, 6x earth runes and 6x water runes [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] from Aubury's rune shop in Varrock (route placement to be decided)
-- [ ] `1.26` Grab 1x leather gloves [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)] (the main route's Step 3 takes them from Father Urhney's house in Lumbridge Swamp)
 
 **Combat table: Visit 1**
 
@@ -228,7 +228,7 @@ Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble af
 | Final outlaw | 8 | not listed | Uses Protect from Melee after your first hit, so bring Magic or Ranged. Very low levels can run around the graveyard until it aggros Mudfoot instead. | TBD (deferred) |
 | Brutus | not listed | specials up to 19, cannot be prayed against | Feed-trough safespot to the south (from your notes, unverified) | TBD (deferred) |
 
-**Carry-forward after Visit 1:** staff, 80x air runes, 80x mind runes, 6x logs, 5x coins, 1x rope, 6x air runes, 6x earth runes, 6x water runes, 1x leather gloves, food from Visit 0.
+**Carry-forward after Visit 1:** staff, 80x air runes, 80x mind runes, 6x logs, 5x coins, 1x rope, 6x air runes, 6x earth runes, 6x water runes, food from Visit 0.
 
 **Overlap with main-route Steps 1 and 2:** Duke Horacio (Step 1, Rune Mysteries) and the general store (Step 2 purchases) are in the same places as this visit. Fold those errands in when the blocks are merged.
 
@@ -240,7 +240,7 @@ Visit 3 comes before the maze because the wiki's Quick Guide lists the pebble af
 - [ ] `2.02` Talk to the Boy south-east of the long garden in Taverley, next to the members gate, to Start [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]
 - [ ] `2.03` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: walk west, then north, to the Witch's house front door and search the potted plant closest to the door for the key
 - [ ] `2.04` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: enter, read the diary on the table, then climb down the ladder to the north
-- [ ] `2.05` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: equip the leather gloves and open the gate (search the boxes for gloves if you have none)
+- [ ] `2.05` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: search the boxes for the leather gloves, equip them and open the gate
 - [ ] `2.06` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: search the cupboard for a magnet, climb the ladder and go to the small southern room
 - [ ] `2.07` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: drop cheese to lure out a mouse, then use the magnet on the mouse
 - [ ] `2.08` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: cross the garden to the fountain without being caught by the Witch (use the hedges, do not walk on the grass, keep full run energy)
@@ -381,12 +381,12 @@ These figures come from the standard XP table and exclude anything else you earn
 
 ## Open items
 
-1. **Food route:** Detailed steps and quantity (being drafted).
+1. **Food route:** Drafted as Visit 0. Remaining: the `[add which quests need these]` notes on the bread, silver bars and shopping purchases, and the food quantity for the later fights.
 2. **Rune supply:** Wind Strike costs 1 air and 1 mind rune per cast. Mudfoot's package gives 80x of each. Killing the Witch's experiment (144 HP combined) takes at least 18 max-damage hits, and the warlord (170 HP) at least 22, so real fights will need more casts than that.
 3. **Item sources:**
    - **Rope:** Resolved. Bought in Visit 0 at the Ardougne general store (step `1.24` now keeps it).
    - **Waterfall runes (6x air, 6x earth, 6x water):** Bought at Aubury's rune shop in Varrock, the only feasible source. Still to decide: where the Varrock stop sits in the route (step `1.25` is a placeholder, and the carry-forward lines for Visits 1 to 3 still list the runes), and the cash budget.
-   - **Leather gloves:** Step `1.26` takes them from Father Urhney's house in Lumbridge Swamp (the Restless Ghost area), but Step `2.05` says Witch's House has gloves in its boxes. Still to check whether the gloves are needed at that point. If not, drop `1.26` and the glove entry in Visit 1's carry-forward.
+   - **Leather gloves:** Resolved. Witch's House needs them, but you pick them up during the quest by searching the boxes (step `2.05`), so there is no separate grab step.
 4. **Pebble prerequisite:** Resolved. The pebble is only given at that specific point in Waterfall Quest, so the Visit 3, 4, 5 order stands.
 5. **Trough safespot:** From your notes. It was not on the wiki pages I read, so confirm it works before relying on it at low HP.
 6. **Combat gates:** Minimum HP and combat level per fight (deferred).
