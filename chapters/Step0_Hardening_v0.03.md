@@ -292,7 +292,7 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 
 *Visit-specific notes are at the bottom of this section.*
 
-**Goal:** Complete [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)], [[Children of the Sun](https://oldschool.runescape.wiki/w/Children_of_the_Sun/Quick_guide)], [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)] and [[The Ribbiting Tale of a Lily Pad Labour Dispute](https://oldschool.runescape.wiki/w/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute/Quick_guide)], and progress [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)], [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)], [[Shield of Arrav](https://oldschool.runescape.wiki/w/Shield_of_Arrav/Quick_guide)], [[Priest in Peril](https://oldschool.runescape.wiki/w/Priest_in_Peril/Quick_guide)], [[Family Crest](https://oldschool.runescape.wiki/w/Family_Crest/Quick_guide)], [[Vampyre Slayer](https://oldschool.runescape.wiki/w/Vampyre_Slayer/Quick_guide)] and [[The Knight's Sword](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword/Quick_guide)]. Start [[Rag and Bone Man I](https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_I/Quick_guide)]. Buy the runes for [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)], train Firemaking to level 50 on teak in Varlamore, and finish at the Mistrock bank, ready to travel to Taverley for Visit 3.
+**Goal:** Complete [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)], [[Children of the Sun](https://oldschool.runescape.wiki/w/Children_of_the_Sun/Quick_guide)], [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)] and [[The Ribbiting Tale of a Lily Pad Labour Dispute](https://oldschool.runescape.wiki/w/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute/Quick_guide)], and progress [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)], [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)], [[Shield of Arrav](https://oldschool.runescape.wiki/w/Shield_of_Arrav/Quick_guide)], [[Priest in Peril](https://oldschool.runescape.wiki/w/Priest_in_Peril/Quick_guide)], [[Family Crest](https://oldschool.runescape.wiki/w/Family_Crest/Quick_guide)], [[Vampyre Slayer](https://oldschool.runescape.wiki/w/Vampyre_Slayer/Quick_guide)] and [[The Knight's Sword](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword/Quick_guide)]. Start [[Rag and Bone Man I](https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_I/Quick_guide)]. Buy the runes for [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)], train Firemaking to level 50 on teak in Varlamore, and finish at the Mistrock bank.
 
 **Varrock Diary tasks completed in this visit:** Easy 6/14 (browse Thessalia's store, buy a newspaper, feed the stray dog, steal from the tea stall, chop the dying tree and make a plank at the sawmill). The dog is optional, so the count is 5/14 without it.
 
@@ -301,7 +301,7 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 | Enemy | Max hit | Safespot / tactic |
 |-------|---------|-------------------|
 | Dark wizard (outside Varrock) | 6 | Avoid them. Do not fight |
-| Jaguar (Avium Savannah, east of Sunset Coast) | 6 | Aggressive, combat level 67. Avoid them. [TBD: add a safe route or safespot] |
+| Jaguar (Avium Savannah, east of Sunset Coast) | 6 | Aggressive, combat level 67. Avoid them while walking. Minor risk |
 
 - [ ] `2.01` $\color{red}{\textbf{[RISK: Dark wizard (6)]}}$ Get to Varrock. Options: use the Chronicle to teleport to Champion's Guild, use Count Check to teleport to Barbarian Village (see the Visit 2 Notes about Funds), or walk from Lumbridge. The Dark wizards are only a risk on the walking route
 - [ ] `2.02` Go north/east (depending on how you travelled), start [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)] and pick up some doogle leaves behind her house
@@ -333,10 +333,10 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 - [ ] `2.23` Go across the street to the museum and go downstairs. Start and complete the Museum History Quiz
 - [ ] `2.24` Go to Varrock East Bank and withdraw the research package, some runes for casting Wind Strike, and coins
 
-**IMPORTANT:** Make sure you have at least 3,704 gp left after the Aubury shopping at `2.26`. [BUFFALODAD TO CHECK FUNDS AT THIS POINT. Does this match the 5,000 gp target on `0.33`?]
+**IMPORTANT:** Make sure you have at least 3,704 gp left after the Aubury shopping at `2.26`. The gold ledger, to be done once the route is written, will confirm this figure against the 5,000 gp target on `0.33`.
 
 - [ ] `2.25` Go to Aubury, give him the research notes and continue the dialogue until he offers a cup of tea (restores run energy)
-- [ ] `2.26` Buy 100 mind [300 runes?], 100 air, 50 water, 50 earth and 20 fire runes (no rune packs). If you could not get a staff of air, buy 400 additional air runes
+- [ ] `2.26` Buy 400 mind, 100 air, 50 water, 50 earth and 20 fire runes (no rune packs). If you could not get a staff of air, buy 400 additional air runes
 - [ ] `2.27` Speak with Dimintheis in Varrock East to Start [[Family Crest](https://oldschool.runescape.wiki/w/Family_Crest/Quick_guide)]
 - [ ] `2.28` Steal a cup of tea from the tea stall (Varrock Diary, Easy 4/14)
 - [ ] `2.29` Bank the cup of tea, the runes and the research notes
@@ -374,7 +374,7 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 - [ ] `2.50` Go to The Flaming Arrow and buy as many jugs of wine as you expect to need (50 is probably safe). Stock is infinite, they cost 1 coin and heal 11 HP in one action
 - [ ] `2.51` Walk to Auburnvale. It is a very long trek but can be shortened with the Mountain Guide
 - [ ] `2.52` Visit Lunami's Axe Shop and buy a mithril axe (Woodcutting 21) and *(Optional)* an adamant axe (Woodcutting 31)
-- [ ] `2.53` Complete [[The Ribbiting Tale of a Lily Pad Labour Dispute](https://oldschool.runescape.wiki/w/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute/Quick_guide)]: travel south, start the quest (Woodcutting 15 needed) and finish with Gary or Sue
+- [ ] `2.53` Complete [[The Ribbiting Tale of a Lily Pad Labour Dispute](https://oldschool.runescape.wiki/w/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute/Quick_guide)]: travel south, start the quest (Woodcutting 15 needed) and finish the quest
 
 > **Rewards:**
 > - 1 quest point and 2,000 Woodcutting XP
@@ -395,17 +395,14 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 - [ ] `2.66` Bank south and deposit everything
 - [ ] `2.67` Withdraw: 28x Eclipse red
 - [ ] `2.68` Head west and trade Antonius, selling all 28 at once
-- [ ] `2.69` Head east and buy 3x Sunbeam ale from the bartender in the pub. Each gives a temporary +1 Agility boost for the Taverley Dungeon shortcut later [TBD: the wiki's Taverley Dungeon page does not mention Sunbeam ale, confirm the shortcut]
-- [ ] `2.70` Head north-east to the gem store and buy 9x uncut sapphire, 10x uncut emerald and as many uncut rubies as possible. If the shop is out of stock, get a few or skip this and mine a star after unlocking teleports to buy a bag full of gems with stardust
-- [ ] `2.71` Head south to Mistrock and deposit everything there
-- [ ] `2.72` Buy a steel pickaxe
-- [ ] `2.73` Bank at Mistrock and deposit everything
-- [ ] `2.74` [TBD: confirm how the visit ends. Travel from Mistrock to Taverley to begin Visit 3, for example by quetzal back to Varrock and then walking or teleporting]
+- [ ] `2.69` Head south to Mistrock and deposit everything there
+- [ ] `2.70` Buy a steel pickaxe
+- [ ] `2.71` Bank at Mistrock and deposit everything
 
 
 > **Visit 2 Notes:**
 > - **Funds:** Check your gp stack and the rune prices before the trip. *If funds are too low, the fallback is the Count Check teleport to Barbarian Village, where the Stronghold of Security is, for its free 10,000 gp, but going there with low hit points is a worry.* The author tested the Count Check teleport in game on 6 November 2026 and it still works, although the wiki says it is one-time and was removed from main worlds on 3 November 2026. It is not known whether it works again after a death or reset.
-> - **Dark wizards:** The Dark wizards outside Varrock are only a risk on the walking route at `2.01`. The wiki gives a max hit of 2 for the level 7 variant and no figure for the level 20 variant, so the 6 in the combat table is unconfirmed.
+> - **Dark wizards:** The Dark wizards outside Varrock are only a risk on the walking route at `2.01`. The wiki gives a max hit of 2 for the level 7 variant and no figure for the level 20 variant, but 6 is the highest max hit among Dark wizards, so the table uses it.
 > - **Hunter's Guild:** The wiki lists Hunter 46 for the guild's amenities, but the author tested that you can enter Guildmaster Apatura's building and take the Eclipse red without it. Antonius buys each at 700 gp.
 > - **Teak:** Chopping teak needs Woodcutting 35 and burning it needs Firemaking 35. Each log gives 85 Woodcutting XP and 105 Firemaking XP, so Firemaking 36 to 50 takes about 730 logs.
 > - **Quests left open:** [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)], [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)] (finishes in the Varrock crypt after the Apothecary's cadava potion), [[Shield of Arrav](https://oldschool.runescape.wiki/w/Shield_of_Arrav/Quick_guide)] (needs a partner), [[Priest in Peril](https://oldschool.runescape.wiki/w/Priest_in_Peril/Quick_guide)], [[Family Crest](https://oldschool.runescape.wiki/w/Family_Crest/Quick_guide)] and [[Rag and Bone Man I](https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_I/Quick_guide)] are started or advanced here and finished in a later visit.
@@ -420,159 +417,14 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 | Ranged: 1 | Thieving: 25 | Cooking: 11 |
 | Prayer: 9 | Crafting: 7 | Firemaking: 50 |
 | Magic: 13 | Fletching: 7 | Woodcutting: 48 |
-| Runecraft: 1 | Slayer: 1 | Farming: 1 |
-| Construction: 8 | Hunter: 9 | Sailing: 1 |
+| Runecraft: 1 | Slayer: 9 | Farming: 1 |
+| Construction: 8 | Hunter: 13 | Sailing: 1 |
 
-**Quest points:** 19 | **Total level:** 246
+**Quest points:** 19 | **Total level:** 258
 
-Firemaking 50 is the target of `2.54`. Woodcutting 48 assumes the lower end of the Visit 0 estimate (35) plus 2,000 XP from the Lily Pad quest and about 730 teak logs at 85 XP each. Fletching assumes regular logs (15 shafts and 5 XP per log, so 140 logs for 2,100 shafts). Attack 5 comes from the combat dummies. Hitpoints from that Attack XP and any other combat XP are not counted. Quest points include the 1 from Tutorial Island.
-
+Firemaking 50 is the target of `2.54`. Woodcutting 48 assumes the lower end of the Visit 0 estimate (35) plus 2,000 XP from the Lily Pad quest and about 730 teak logs at 85 XP each. Fletching assumes regular logs (15 shafts and 5 XP per log, so 140 logs for 2,100 shafts). Attack 5 comes from the combat dummies. Slayer 9 and Hunter 13 come from the Museum History Quiz (1,000 XP in each). Hitpoints from that Attack XP and any other combat XP are not counted. Quest points include the 1 from Tutorial Island.
 ---
 
-## Visit 3: Taverley (Witch's House) [FROM HERE FORWARD, THE GUIDE DOES NOT CONTAIN BUFFALODAD'S EDITS]
-
-- [ ] `3.01` Grab 2x cheese [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)] (one spare) from Aggie in Draynor Village, on the way west
-- [ ] `3.02` Talk to the Boy south-east of the long garden in Taverley, next to the members gate, to Start [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]
-- [ ] `3.03` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: walk west, then north, to the Witch's house front door and search the potted plant closest to the door for the key
-- [ ] `3.04` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: enter, read the diary on the table, then climb down the ladder to the north
-- [ ] `3.05` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: equip the leather gloves and open the gate (the boxes also hold gloves, *and spare pairs can be sold for bonus gp*)
-- [ ] `3.06` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: search the cupboard for a magnet, climb the ladder and go to the small southern room
-- [ ] `3.07` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: drop cheese to lure out a mouse, then use the magnet on the mouse
-- [ ] `3.08` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: cross the garden to the fountain without being caught by the Witch (use the hedges, do not walk on the grass, keep full run energy)
-- [ ] `3.09` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: check the fountain, then use the key on the shed door on the east side. Do not take the ball yet
-- [ ] `3.10` $\color{red}{\textbf{[RISK: Witch's experiment (5)]}}$ Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: kill the experiment in all four forms (fleeing resets to form 1)
-- [ ] `3.11` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: take the ball and leave by teleport or through the garden and front door
-- [ ] `3.12` Complete [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: give the ball to the Boy
-
-> **Rewards:**
-> - 4 quest points and 6,325 Hitpoints XP (fixed, no decision)
-> - Unlocks the Witch's experiment in the Nightmare Zone, which is an unsafe activity on Hardcore Worlds, so skip it
-> - Required later for Recipe for Disaster and Grim Tales
-
-**Combat table: Visit 3** (combined experiment HP is 144)
-
-| Enemy | Max hit | Safespot / tactic |
-|-------|---------|-------------------|
-| Witch's experiment, form 1 (Skavid) | 2 | Step under it from the north-eastern corner until it moves north, then Magic from one tile south-west |
-| Witch's experiment, form 2 (spider) | 3 | Same as form 1 |
-| Witch's experiment, form 3 (bear) | 4 | Safespot from the south of the shed, past the ball |
-| Witch's experiment, form 4 (wolf) | 5 | Same as form 3 |
-
-**Carry-forward after Visit 3:** staff, 80x air runes, 80x mind runes, 6x logs, 5x coins, 1x rope, 6x air runes, 6x earth runes, 6x water runes, food.
-
----
-
-## Visit 4: Baxtorian Falls, Part 1
-
-- [ ] `4.01` Talk to Almera in her house north-east of Baxtorian Falls (choose "How can I help?") to Start [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]
-- [ ] `4.02` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: board the raft west of her house
-- [ ] `4.03` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: talk to Hudon and go through all of his dialogue, or the book will not spawn
-- [ ] `4.04` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: walk to the southern end of the island and swim in the water, then enter the large building to the north (Hadley)
-- [ ] `4.05` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: go upstairs and search the southernmost bookcase on the eastern wall for the Book on Baxtorian, then read it and close it
-
-**Carry-forward after Visit 4:** staff, 80x air runes, 80x mind runes, 6x logs, 5x coins, 1x rope, 6x air runes, 6x earth runes, 6x water runes, food.
-
----
-
-## Visit 5: Gnome Maze and Ardougne
-
-- [ ] `5.01` Make sure you have 2 empty inventory slots, then talk to Lady Servil just outside the north-east corner of the Gnome Maze (choose "Can I help you?") to Start [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]
-- [ ] `5.02` Talk to King Bolren in the centre of the Gnome Maze (choose "I would be glad to help.") to Start [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]. Starting it lets you follow Elkoy through the maze
-- [ ] `5.03` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: enter the dungeon at the end of the maze, search the off-coloured crate in the east room for a key, unlock the gate in the west room, and talk to Golrie to receive Glarial's pebble
-- [ ] `5.04` Keep Glarial's pebble [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] (talk to Golrie again if you lose it)
-- [ ] `5.05` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: talk to Commander Montai (red hat) at the south-west edge of the battlefield, south of the river (choose "Ok, I'll gather some wood.")
-- [ ] `5.06` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: give Commander Montai the 6x logs, then talk to him a third time (choose "I'll try my best.")
-- [ ] `5.07` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: talk to the three tracker gnomes (tracker 2 in a building on the east side of the Khazard Stronghold, tracker 1 north-west of it, tracker 3 in its south-west corner). Tracker 3 gives the ballista coordinates
-- [ ] `5.08` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: fire the ballista in the south-west corner of the battlefield, past the bridge, and enter the coordinates
-- [ ] `5.09` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: climb over the crumbled wall at the stronghold north of the village *(ignore or kill the Khazard commanders)*, climb the ladder, search the chest, and take the first orb of protection
-- [ ] `5.10` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: leave by the front door, talk to Elkoy, then to King Bolren (choose "I will find the warlord and bring back the orbs.")
-- [ ] `5.11` $\color{red}{\textbf{[RISK: Khazard warlord (10)]}}$ Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: find the warlord north-west of the battlefield, below West Ardougne, and kill him for the remaining orbs
-- [ ] `5.12` Complete [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: return the orbs to King Bolren
-
-> **Rewards:**
-> - 2 quest points and 11,450 Attack XP (fixed, no decision)
-> - Spirit tree transport and the gnome amulet
-> - Unlocks the Khazard warlord in the Nightmare Zone, which is an unsafe activity on Hardcore Worlds, so skip it
-
-- [ ] `5.13` Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: search the chest in the house in the far north-east of the area for the Khazard armour, equip it, and go south into the prison (keep it on inside)
-- [ ] `5.14` Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: enter the south-east room with the jails and talk to the Head Guard in the southernmost jail room, near the staircase. Skipping this removes the Khali brew option later
-- [ ] `5.15` Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: leave the arena, go to the western bar, and buy a Khali brew for 5 coins from the Khazard Barman
-- [ ] `5.16` Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: return to the jail and talk to the guard for the keys, then use the keys on Sammy's cell door (the most north-eastern cell)
-- [ ] `5.17` $\color{red}{\textbf{[RISK: Khazard ogre (8)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill the Khazard ogre (talk to Justin if the fight does not start)
-- [ ] `5.18` $\color{red}{\textbf{[RISK: Khazard scorpion (5)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: talk to your cellmate Hengrad and kill the Khazard scorpion
-- [ ] `5.19` $\color{red}{\textbf{[RISK: Bouncer (13)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill the Bouncer
-- [ ] `5.20` *(Optional)* $\color{red}{\textbf{[RISK: General Khazard (9)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill General Khazard, *or skip him by running through the south-east door of the arena or north until he stops being aggressive*
-- [ ] `5.21` Complete [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: return to Lady Servil
-
-> **Rewards:**
-> - 2 quest points, 12,175 Attack XP and 2,175 Thieving XP (fixed, no decision)
-> - 1,000 gp and the Khazard armour set
-> - Unlocks the Bouncer in the Nightmare Zone, which is an unsafe activity on Hardcore Worlds, so skip it
-
-**Combat table: Visit 5**
-
-| Enemy | Max hit | Safespot / tactic |
-|-------|---------|-------------------|
-| Khazard warlord | 10 | Start the fight, walk west until he de-aggros near the large dead tree, step slightly south and attack from outside his aggro range. He gets caught between the West Ardougne wall and the northern dead tree. Melee: step in and out of his range beside the large skull to the south. |
-| Khazard ogre | 8 | Safespot behind a nearby skeleton with Magic, Ranged or a halberd |
-| Khazard scorpion | 5 | Run to the safespot or use Protect from Melee at once |
-| Bouncer | 13 | Same approach as the scorpion. Once the General Khazard fight starts you cannot re-enter the arena |
-| General Khazard | 9 | Magic safespot (wiki image caption), *or skip him* |
-
-**Carry-forward after Visit 5:** Glarial's pebble, 1x rope, 6x air runes, 6x earth runes, 6x water runes, staff, spare Wind Strike runes, food.
-
----
-
-## Visit 6: Baxtorian Falls, Parts 3 and 4
-
-- [ ] `6.01` Bank everything except Glarial's pebble, food and a transport method [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] (2 free slots, no runes allowed in the tomb)
-- [ ] `6.02` $\color{red}{\textbf{[RISK: Moss Guardians (14)]}}$ Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: use the pebble on Glarial's Tombstone, east of the waterfall, and start a fight with a skeleton inside to keep the guardians off you
-- [ ] `6.03` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: go west and search the chest for Glarial's amulet *(drop and pick it up again if you need extras)*, then go the other way and search the tomb for Glarial's urn
-- [ ] `6.04` Bank, then withdraw the rope, the 6x air, 6x water and 6x earth runes, Glarial's amulet, Glarial's urn and food [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] (weapons and armour are allowed in the dungeon)
-- [ ] `6.05` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: board the raft, use the rope on the rock across the water to the south, then on the dead tree. Do not enter the barrel
-- [ ] `6.06` $\color{red}{\textbf{[RISK: Fire Giants (11)]}}$ Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: with Glarial's amulet carried or equipped, enter the doorway, take the right path and search the northernmost crates for a key
-- [ ] `6.07` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: return to the left side, avoid the fire giants, and use the key on the door
-- [ ] `6.08` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: in the chalice room place 1x air rune, 1x water rune and 1x earth rune on each pillar, then put Glarial's amulet on her statue
-- [ ] `6.09` Complete [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: do not click "Take treasure" (it washes you out). Use Glarial's urn on the chalice with 5 free inventory slots
-
-> **Rewards:**
-> - 1 quest point, 13,750 Attack XP and 13,750 Strength XP (fixed, no decision)
-> - 2x diamonds, 2x gold bars and 40x mithril seeds
-
-**Combat table: Visit 6**
-
-| Enemy | Max hit | Safespot / tactic |
-|-------|---------|-------------------|
-| Moss Guardians | 14 | Glarial's Tomb is single-way combat, so start a fight with a skeleton first |
-| Fire Giants | 11 | Avoid the left side and slip past without engaging. Killing one counts toward a medium Kandarin diary task |
-
----
-
-## Alternative order (safety over space)
-
-*Do Waterfall's combat part before the harder Gnome Maze fights: Visit 4, then a short maze trip for the Tree Gnome Village start and the pebble only, then Visit 6, then back to the maze for the Tree Gnome Village finish and Fight Arena. Waterfall's recommended level (25) is lower than Tree Gnome Village (45) and Fight Arena (50). The cost is an extra round trip, and it breaks the single maze visit in Visit 5.*
-
----
-
-## Rough stat outcome (approximate)
-
-- **Attack:** 11,450 + 12,175 + 13,750 = 37,375 XP, about level 40.
-- **Strength:** 13,750 XP, about level 30.
-- **Hitpoints:** 1,154 base + 1,000 (Ides lamp) + 6,325 (Witch's House) = 8,479 XP, about level 25, before any XP from fights.
-- **Magic:** level 13 from the Mudfoot lamps (Wind Strike max hit 8).
-- **Thieving:** 1,500 XP from Hazeel Cult plus 2,175 XP from Fight Arena, on top of the cake food run.
-
-These figures come from the standard XP table and exclude anything else you earn on the way.
-
----
-
-## Hardcore Worlds check
-
-- None of these quests is on the wiki's unsafe-activity list, but a death during any quest is still a real death.
-- Witch's House, Tree Gnome Village and Fight Arena each unlock a Nightmare Zone encounter. The Nightmare Zone is an unsafe activity, so skip those unlocks.
-- The Hardcore Worlds page lists no quest changes. These quests are assumed to behave normally.
-
----
 
 ## Open items
 
