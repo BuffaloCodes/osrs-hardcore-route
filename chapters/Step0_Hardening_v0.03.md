@@ -16,7 +16,7 @@
 |-------|------|-------------------|--------|
 | 0 | Ardougne, the Monastery, Witchaven and Brimhaven, then home teleport | Wilderness lever, Hazeel Cult, Sheep Herder, Monk's Friend, Sea Slug and Tribal Totem, plus shopping and food and silk thieving | Five quests complete, food and supplies stocked, back in Lumbridge |
 | 1 | Lumbridge, Draynor, Port Sarim, Entrana, the Wizards' Tower and Falador | Mudfoot's Big Adventure, The Ides of Milk, The Restless Ghost, Misthalin Mystery, Sheep Shearer and X Marks the Spot complete, plus Rune Mysteries, A Porcine of Interest, Vampyre Slayer, The Corsair Curse, The Knight's Sword and Black Knights' Fortress started | Lamps applied, ready to teleport to Varrock |
-| 2 | Varrock | Waterfall Quest (runes) | Runes bought |
+| 2 | Varrock and Varlamore | Gertrude's Cat, Children of the Sun, Daddy's Home and The Ribbiting Tale of a Lily Pad Labour Dispute complete, plus Demon Slayer, Romeo & Juliet, Shield of Arrav, Priest in Peril, Family Crest, Vampyre Slayer and The Knight's Sword advanced and Rag and Bone Man I started, with the Waterfall Quest runes bought | Firemaking 50, ending at the Mistrock bank |
 | 3 | Taverley | Witch's House | Complete |
 | 4 | Baxtorian Falls | Waterfall Quest, Part 1 | Book read |
 | 5 | Gnome Maze and Ardougne | Fight Arena and Tree Gnome Village, plus Glarial's pebble | Both complete, pebble in hand |
@@ -288,28 +288,38 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 
 ---
 
-## Visit 2: Varrock (Waterfall runes)
+## Visit 2: Varrock and Varlamore (Gertrude's Cat, Daddy's Home and the Lily Pad quest)
 
-**Goal:** Teleport to Varrock. Options for with the Chronicle and buy the runes for [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]. [THIS WILL GET UPDATED AS THE VISIT STEPS GET POPULATED]
+*Visit-specific notes are at the bottom of this section.*
+
+**Goal:** Complete [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)], [[Children of the Sun](https://oldschool.runescape.wiki/w/Children_of_the_Sun/Quick_guide)], [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)] and [[The Ribbiting Tale of a Lily Pad Labour Dispute](https://oldschool.runescape.wiki/w/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute/Quick_guide)], and progress [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)], [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)], [[Shield of Arrav](https://oldschool.runescape.wiki/w/Shield_of_Arrav/Quick_guide)], [[Priest in Peril](https://oldschool.runescape.wiki/w/Priest_in_Peril/Quick_guide)], [[Family Crest](https://oldschool.runescape.wiki/w/Family_Crest/Quick_guide)], [[Vampyre Slayer](https://oldschool.runescape.wiki/w/Vampyre_Slayer/Quick_guide)] and [[The Knight's Sword](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword/Quick_guide)]. Start [[Rag and Bone Man I](https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_I/Quick_guide)]. Buy the runes for [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)], train Firemaking to level 50 on teak in Varlamore, and finish at the Mistrock bank, ready to travel to Taverley for Visit 3.
+
+**Varrock Diary tasks completed in this visit:** Easy 5/14 (browse Thessalia's store, buy a newspaper, feed the stray dog, chop the dying tree and make a plank at the sawmill). The dog is optional, so the count is 4/14 without it.
 
 **Combat table: Visit 2**
 
 | Enemy | Max hit | Safespot / tactic |
 |-------|---------|-------------------|
 | Dark wizard (outside Varrock) | 6 | Avoid them. Do not fight |
+| Jaguar (Avium Savannah, east of Sunset Coast) | 6 | Aggressive, combat level 67. Avoid them. [TBD: add a safe route or safespot] |
 
 - [ ] `2.01` $\color{red}{\textbf{[RISK: Dark wizard (6)]}}$ Get to Varrock. Options: use the Chronicle to teleport to Champion's Guild, use Count Check to teleport to Barbarian Village (see the Visit 2 Notes about Funds), or walk from Lumbridge. The Dark wizards are only a risk on the walking route
 - [ ] `2.02` Go north/east (depending on how you travelled), start [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)] and pick up some doogle leaves behind her house
 - [ ] `2.03` Go to Varrock square
 - [ ] `2.04` Go to Varrock West Bank and withdraw gp and one set of bones
-- [ ] `2.05` *(Optional)* If you see the stray dog, feed it the bones for a diary step
+- [ ] `2.05` *(Optional)* If you see the stray dog, feed it the bones (Varrock Diary, Easy 1/14)
 - [ ] `2.06` Buy a staff of air from Zaff. Skip if out of stock
 - [ ] `2.07` Talk to Aris Maye to Start [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]
-- [ ] `2.08` Head south and browse Thessalia's store for a diary step. Buy a brown apron
+- [ ] `2.08` Head south and browse Thessalia's store (Varrock Diary, Easy 2/14). Buy a brown apron
 - [ ] `2.09` Talk to Romeo to Start [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)]
 - [ ] `2.10` Talk to Shilop and Wilough to Continue [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)]
-- [ ] `2.11` Buy a newspaper from Benny for a diary step, then drop it
-- [ ] `2.12` Talk to Noah to Start and Complete [[Children of the Sun](https://oldschool.runescape.wiki/w/Children_of_the_Sun/Quick_guide)] in full, finishing with Sergeant Tobyn in the palace roof cell room
+- [ ] `2.11` Buy a newspaper from Benny (Varrock Diary, Easy 3/14), then drop it
+- [ ] `2.12` Complete [[Children of the Sun](https://oldschool.runescape.wiki/w/Children_of_the_Sun/Quick_guide)] in full: talk to Noah to start it and finish with Sergeant Tobyn in the palace roof cell room
+
+> **Rewards:**
+> - 1 quest point
+> - Access to Varlamore through the Quetzal Transport System and fairy rings
+
 - [ ] `2.13` Talk to Sir Prysin downstairs in Varrock Palace to Continue [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]
 - [ ] `2.14` Talk to Captain Rovin upstairs in the palace to Continue [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]
 - [ ] `2.15` Talk to Reldo to Continue [[The Knight's Sword](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword/Quick_guide)] and Start [[Shield of Arrav](https://oldschool.runescape.wiki/w/Shield_of_Arrav/Quick_guide)], then find the book in the library and speak with Reldo again
@@ -335,21 +345,37 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 - [ ] `2.32` Withdraw: [TBD: item list]
 - [ ] `2.33` Head north-east out of Varrock to the lumberyard
 - [ ] `2.34` Continue [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)] until the cat goes home
-- [ ] `2.35` Cut the dying tree inside the lumberyard for a diary step
+- [ ] `2.35` Cut the dying tree inside the lumberyard (Varrock Diary, Easy 4/14)
 - [ ] `2.36` Collect the spawned logs, hopping worlds to refresh the spawns, and fletch 2,100 arrow shafts
-- [ ] `2.37` Collect 10 logs and make them into planks (10 regular planks are needed for [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)]), then make the 3 waxwood planks
+- [ ] `2.37` Collect 10 logs and make them into planks at the sawmill (Varrock Diary, Easy 5/14; 10 regular planks are needed for [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)]), then make the 3 waxwood planks
 - [ ] `2.38` Buy 5x bolt of cloth and 100 steel nails
 - [ ] `2.39` Head east and speak to the Odd Old Man to Start [[Rag and Bone Man I](https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_I/Quick_guide)]
-- [ ] `2.40` Teleport using the Chronicle, speak to Gertrude and Complete [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)]
+- [ ] `2.40` Complete [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)]: teleport using the Chronicle and speak to Gertrude
+
+> **Rewards:**
+> - 1 quest point and 1,525 Cooking XP
+> - Your own kitten, a chocolate cake and a stew
+
 - [ ] `2.41` Speak with Juliet, then give the letter to Romeo
 - [ ] `2.42` Enter the church and speak with Father Lawrence to Continue [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)]
-- [ ] `2.43` Return to Old Man Yarlo to finish the work, then speak to Marlo at the estate agent to Complete [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)]
+- [ ] `2.43` Complete [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)]: return to Old Man Yarlo to finish the work, then speak to Marlo at the estate agent
+
+> **Rewards:**
+> - 1 quest point and 944 Construction XP (400 for the quest and 544 for building the furniture)
+> - A player-owned house in Rimmington, or 1,000 gp if you already own one
+> - Marlo's crate: 25 planks, 50 mithril nails, 5 steel bars, 10 oak planks, 8 bolts of cloth, 5 house teleports and 1 Falador teleport
+
 - [ ] `2.44` Open the crate and store the items at Varrock East Bank
 - [ ] `2.45` At Varrock East Bank grab your steel axe, forestry kit and tinderbox. Run east and speak with Regulus Cento to take the quetzal to Varlamore
 - [ ] `2.46` Go to The Flaming Arrow and buy as many jugs of wine as you expect to need (50 is probably safe). Stock is infinite, they cost 3 coins and heal 11 HP in one action
 - [ ] `2.47` Walk to Auburnvale. It is a very long trek but can be shortened with the Mountain Guide
 - [ ] `2.48` Visit Lunami's Axe Shop and buy a mithril axe (Woodcutting 21) and *(Optional)* an adamant axe (Woodcutting 31)
-- [ ] `2.49` Travel south [TBD: the wiki starts this at Marcellus in the Locus Oasis, confirm the route], then Start and Complete [[The Ribbiting Tale of a Lily Pad Labour Dispute](https://oldschool.runescape.wiki/w/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute/Quick_guide)]
+- [ ] `2.49` Complete [[The Ribbiting Tale of a Lily Pad Labour Dispute](https://oldschool.runescape.wiki/w/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute/Quick_guide)]: travel south [TBD: the wiki starts this at Marcellus in the Locus Oasis, confirm the route], start the quest (Woodcutting 15 needed) and finish with Gary or Sue
+
+> **Rewards:**
+> - 1 quest point and 2,000 Woodcutting XP
+> - Access to a new Hardwood Farming patch
+
 - [ ] `2.50` Chop teak logs (Woodcutting 35) and burn them (Firemaking 35) to level 50 Firemaking on a forestry world
 - [ ] `2.51` Head west towards the Hunter's Guild
 - [ ] `2.52` Collect 1 sweetcorn
@@ -358,7 +384,7 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 - [ ] `2.55` Deposit everything in the bank chest
 - [ ] `2.56` Enter Guildmaster Apatura's building and go up both ladders
 - [ ] `2.57` *(Optional)* Loot 28 Eclipse reds, hopping worlds as needed. This is likely very busy. If you cannot grab any, skip it, since it is purely a moneymaker
-- [ ] `2.58` Head south-west to Sunset Coast. Be careful of the aggressive NPCs along the way, as they can kill you if you do not pay attention [TBD: name the NPCs, add a RISK tag and a combat-table row]
+- [ ] `2.58` $\color{red}{\textbf{[RISK: Jaguar (6)]}}$ Head south-west to Sunset Coast. Be careful of the aggressive jaguars east of the Sunset Coast, as they can kill you if you do not pay attention
 - [ ] `2.59` Travel with Antonia to Aldarin
 - [ ] `2.60` Take a pot of flour
 - [ ] `2.61` Buy 6x onion from the food store
@@ -370,10 +396,32 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 - [ ] `2.67` Head south to Mistrock and deposit everything there
 - [ ] `2.68` Buy a steel pickaxe
 - [ ] `2.69` Bank at Mistrock and deposit everything
+- [ ] `2.70` [TBD: confirm how the visit ends. Travel from Mistrock to Taverley to begin Visit 3, for example by quetzal back to Varrock and then walking or teleporting]
 
 
 > **Visit 2 Notes:**
-> - **Funds:** Check your gp stack and the rune prices before the trip. *If funds are too low, the fallback is the Count Check teleport to the Stronghold of Security for its free 10,000 gp, but going there with low hit points is a worry.*
+> - **Funds:** Check your gp stack and the rune prices before the trip. *If funds are too low, the fallback is the Count Check teleport to Barbarian Village, where the Stronghold of Security is, for its free 10,000 gp, but going there with low hit points is a worry.* The author tested the Count Check teleport in game on 6 November 2026 and it still works, although the wiki says it is one-time and was removed from main worlds on 3 November 2026. It is not known whether it works again after a death or reset.
+> - **Dark wizards:** The Dark wizards outside Varrock are only a risk on the walking route at `2.01`. The wiki gives a max hit of 2 for the level 7 variant and no figure for the level 20 variant, so the 6 in the combat table is unconfirmed.
+> - **Hunter's Guild:** The wiki lists Hunter 46 for the guild's amenities, but the author tested that you can enter Guildmaster Apatura's building and take the Eclipse red without it. Antonius buys each at 700 gp.
+> - **Teak:** Chopping teak needs Woodcutting 35 and burning it needs Firemaking 35. Each log gives 85 Woodcutting XP and 105 Firemaking XP, so Firemaking 36 to 50 takes about 730 logs.
+> - **Quests left open:** [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)], [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)] (finishes in the Varrock crypt after the Apothecary's cadava potion), [[Shield of Arrav](https://oldschool.runescape.wiki/w/Shield_of_Arrav/Quick_guide)] (needs a partner), [[Priest in Peril](https://oldschool.runescape.wiki/w/Priest_in_Peril/Quick_guide)], [[Family Crest](https://oldschool.runescape.wiki/w/Family_Crest/Quick_guide)] and [[Rag and Bone Man I](https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_I/Quick_guide)] are started or advanced here and finished in a later visit.
+
+**Estimated levels after Visit 2:**
+
+| | | |
+|---|---|---|
+| Attack: 5 | Hitpoints: 15 | Mining: 1 |
+| Strength: 1 | Agility: 5 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 24 |
+| Ranged: 1 | Thieving: 25 | Cooking: 11 |
+| Prayer: 9 | Crafting: 7 | Firemaking: 50 |
+| Magic: 13 | Fletching: 7 | Woodcutting: 48 |
+| Runecraft: 1 | Slayer: 1 | Farming: 1 |
+| Construction: 8 | Hunter: 9 | Sailing: 1 |
+
+**Quest points:** 19 | **Total level:** 246
+
+Firemaking 50 is the target of `2.50`. Woodcutting 48 assumes the lower end of the Visit 0 estimate (35) plus 2,000 XP from the Lily Pad quest and about 730 teak logs at 85 XP each. Fletching assumes regular logs (15 shafts and 5 XP per log, so 140 logs for 2,100 shafts). Attack 5 comes from the combat dummies. Hitpoints from that Attack XP and any other combat XP are not counted. Quest points include the 1 from Tutorial Island.
 
 ---
 
@@ -528,7 +576,7 @@ These figures come from the standard XP table and exclude anything else you earn
 2. **Rune supply:** Wind Strike costs 1 air and 1 mind rune per cast. Mudfoot's package gives 80x of each. Killing the Witch's experiment (144 HP combined) takes at least 18 max-damage hits, and the warlord (170 HP) at least 22, so real fights will need more casts than that.
 3. **Item sources:**
    - **Rope:** Resolved. Bought in Visit 0 at the Ardougne general store. Visit 1 no longer has a step for it.
-   - **Waterfall runes (6x air, 6x earth, 6x water):** Bought at Aubury's rune shop in Varrock, the only feasible source. The Varrock stop is Visit 2 (steps `2.01` to `2.03`). The cash budget is still open (see the gold ledger below). The carry-forward lines for Visits 3 to 5 still list the runes, which is correct now.
+   - **Waterfall runes (6x air, 6x earth, 6x water):** Bought at Aubury's rune shop in Varrock, the only feasible source. The Varrock stop is Visit 2 (steps `2.25` and `2.26`). The cash budget is still open (see the gold ledger below). The carry-forward lines for Visits 3 to 5 still list the runes, which is correct now.
    - **Leather gloves:** Resolved. Both sources are kept: Father Urhney's house in Visit 1 and the boxes in Witch's House (step `3.05`). *Spare pairs can be sold for bonus gp.*
 4. **Pebble prerequisite:** Resolved. The pebble is only given at that specific point in Waterfall Quest, so the Visit 4, 5, 6 order stands.
 5. **Trough safespot:** Resolved. Tested in-game by the author: no damage taken at the safespot and no need to dodge the specials.

@@ -13,9 +13,19 @@ Work on `chapters/Step0_Hardening_v0.03.md`, `tools/lint_guide.py` and `README.m
 - Smaller fixes: Thessalia is "browse" (`2.08`), axe levels (`2.48`), teak Woodcutting and Firemaking 35 (`2.50`), and world hopping for log spawns (`2.36`).
 - Added `VISIT2_VERIFICATION.md`, the wiki check of the Visit 2 draft. It includes the in-game test results: Count Check still teleports to Barbarian Village (unknown whether it works again after a death or reset), Varrock has combat dummies, and the Eclipse red can be taken inside Apatura's building.
 
+### Visit 2 completed to the Visit 1 structure
+
+- Retitled Visit 2 "Varrock and Varlamore", rewrote the Goal, added the visit-specific notes line, and updated the itinerary row.
+- Added a Varrock Diary line (Easy 5/14, or 4/14 without the optional dog) and counters on `2.05`, `2.08`, `2.11`, `2.35` and `2.37`.
+- Added Rewards blocks for the four quests completed here: Gertrude's Cat (`2.40`), Children of the Sun (`2.12`), Daddy's Home (`2.43`) and the Lily Pad quest (`2.49`). None gives a lamp. The Complete steps now start with "Complete" so the linter matches them.
+- Added a Jaguar row to the combat table (level 67, max hit 6, aggressive, east of Sunset Coast) and the `[RISK: Jaguar (6)]` tag on `2.58`.
+- Added a `2.70` placeholder for how the visit ends and travels to Taverley, and Visit 2 Notes on Count Check, the Dark wizards, the Hunter's Guild, teak and the quests left open.
+- Added "Estimated levels after Visit 2": 19 quest points and total level 246. Firemaking 50 is the step target. Woodcutting 48, Fletching 7, Cooking 11, Construction 8 and Attack 5 are estimates, with the assumptions listed under the table.
+- Fixed a stale reference to Visit 2 steps `2.01` to `2.03` in the open items (now `2.25` and `2.26`).
+
 ### Open items for Visit 2
 
-- `[TBD]` notes remain at `2.32` (withdraw list), `2.49` (Lily Pad start location), `2.58` (aggressive NPCs near Sunset Coast need a risk tag and table row) and `2.65` (Sunbeam ale and the Taverley shortcut).
+- `[TBD]` notes remain at `2.32` (withdraw list), `2.49` (Lily Pad start location), `2.65` (Sunbeam ale and the Taverley shortcut) and `2.70` (how the visit ends).
 - The `300 runes?` question at `2.26` and the funds check against the 3,704 gp floor are open. The nails and bolts of cloth at `2.38` cost about 3,550 gp.
 - The Romeo & Juliet finish (Apothecary potion, Varrock crypt) is not in Visit 2.
 - Visit 3 onward has not been edited by the author.
