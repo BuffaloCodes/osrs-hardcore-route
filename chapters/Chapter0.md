@@ -527,15 +527,28 @@ Firemaking 50 is the target of `2.54`. Woodcutting 48 assumes the lower end of t
 
 > **Visit 3 Notes:**
 > - **Lamps:** The Demon Slayer lamps are two antique lamps worth 1,000 XP each in any combat skill, including Prayer. The decision is to put both on Hitpoints.
-> - **Construction:** Plan for level 12 from the planks and cloth listed at `3.02`. This was done and checked in game by the author.
+> - **Construction:** Plan for level 12 from the planks and cloth listed at `3.02`. The author tested this in game and ended on 1,666 Construction XP (level 12).
 > - **Plague City:** One bucket is enough. Four buckets are optional.
 > - **Third key:** The third key and the 25 bones are collected at `3.05`, but [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)] is not finished until `3.35`. Do not bank or drop the keys in between.
 > - **Max hits:** The max hits in the combat table are still to be filled in from the wiki.
 > - **Quest rewards:** Checked against the OSRS Wiki on 6 November 2026. The Rune Mysteries and Demon Slayer pages carry an "information may be out-of-date" banner, but their 3 November 2026 change notes confirm the 500 Runecraft XP and the two lamps.
 
-**Estimated levels after Visit 3:** to be calculated once the steps above are final.
+**Estimated levels after Visit 3:**
 
-**Quest points:** 37 (19 after Visit 2, plus 18 from Visit 3)
+| | | |
+|---|---|---|
+| Attack: 41 | Hitpoints: 20 | Mining: 15 |
+| Strength: 7 | Agility: 25 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 24 |
+| Ranged: 1 | Thieving: 28 | Cooking: 11 |
+| Prayer: 9 | Crafting: 7 | Firemaking: 50 |
+| Magic: 19 | Fletching: 7 | Woodcutting: 48 |
+| Runecraft: 5 | Slayer: 9 | Farming: 1 |
+| Construction: 12 | Hunter: 13 | Sailing: 1 |
+
+**Quest points:** 37 | **Total level:** 356
+
+Attack 41 is the Visit 2 figure (about 400 XP) plus 42,025 XP from Tree Gnome Village, Fight Arena and The Grand Tree. Strength 7 is the 800 XP from killing 25 cows, which is 1 XP short of level 8. Hitpoints 20 is the Visit 2 estimate (level 15) plus the two 1,000 XP Demon Slayer lamps and about 267 XP from the cows (a third of the 800 Strength XP). Magic 19 assumes Magic sits at exactly 1,833 XP (level 13) after Visit 2, plus 325 from Witch's Potion and 2,150 from The Grand Tree. Agility 25 is Visit 2's level 5 plus 7,900 XP from The Grand Tree. Mining 15 is 2,425 XP from Plague City, 14 XP over the level 15 threshold. Thieving 28 is the Visit 2 estimate (level 25) plus 2,175 XP from Fight Arena and 1,250 from Biohazard, and could reach 29 if Visit 2 ended near the top of level 25. Runecraft 5 is the 500 XP from Rune Mysteries. Construction 12 is 1,666 XP, tested in game by the author. The gnome agility lap, the Biohazard training dummies, spell casts and other combat XP are not counted. Quest points include the 18 from Visit 3.
 
 ---
 

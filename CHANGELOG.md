@@ -9,7 +9,8 @@ Work on `chapters/Chapter0.md`, `tools/lint_guide.py` and `README.md`. Newest fi
 - Applied the author's answers: Demon Slayer lamps go on Hitpoints, one bucket is enough for Plague City, the eye of newt comes from the bank, Construction ends at level 12, the Castle Wars teleport stays, and the Chronicle is the teleport towards Varrock.
 - Checked the Rewards blocks for Rune Mysteries, Witch's Potion, Tree Gnome Village, Fight Arena, The Grand Tree, Plague City, Biohazard and Demon Slayer against the OSRS Wiki. Corrections to my first draft: Rune Mysteries gives 500 Runecraft XP, and Fight Arena gives 2,175 Thieving XP and the Khazard armour set. Added the other rewards the wiki lists (gnome amulet, glider, Ardougne teleport scroll, Combat Training Camp, West Ardougne gate). Demon Slayer's two 1,000 XP combat lamps are confirmed.
 - Quest points after Visit 3 are 37 (19 + 18).
-- Not done: max hits (all `TBD`), the estimated levels table, diary names and counts, and the order of the steps after `3.40`. `data/risk_data.csv` has no Visit 3 rows yet.
+- Filled in "Estimated levels after Visit 3" (total level 356, 37 quest points) from the checked quest rewards, 800 Strength XP from 25 cows and 1,666 Construction XP (author tested). The assumptions are listed under the table. Strength 7 is 1 XP short of level 8, and Thieving 28 could be 29.
+- Not done: max hits (all `TBD`), diary names and counts, and the order of the steps after `3.40`. `data/risk_data.csv` has no Visit 3 rows yet.
 
 ## 6 November 2026 (notes sweep)
 

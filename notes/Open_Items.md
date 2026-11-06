@@ -82,7 +82,7 @@ Quest points at `2.71`: 19, including the 1 from Tutorial Island.
 ## Visit 3 (drafted 6 November 2026, steps `3.01` to `3.40`)
 
 22. **Max hits:** Every max hit in the Visit 3 combat table and `[RISK: ...]` tag is `TBD`: Hobgoblin, Bear, maze monsters, Khazard commander, Khazard warlord, Fight Arena enemies, Spider, Jogre and Delrith. Fill them in from the wiki and add matching rows to `data/risk_data.csv`.
-23. **Levels table:** "Estimated levels after Visit 3" is a placeholder. It needs the verified quest XP (Attack from Tree Gnome Village, Fight Arena and The Grand Tree, Agility, Magic, Mining, Thieving and Runecraft), the Demon Slayer lamps on Hitpoints, the Construction 12 result and the cow combat XP. Total level is not calculated.
+23. **Levels table:** Filled in (total level 356). It depends on Visit 2's estimated XP, which sits inside a level range for several skills. Strength 7 is 1 XP short of level 8, Thieving 28 could be 29, Magic 19 assumes exactly 1,833 XP after Visit 2, and Hitpoints 20 is close to the level 21 threshold. The gnome agility lap, the Biohazard dummies and spell casts are not counted. Recheck after the first real run.
 24. **Diary tasks:** The diary line names the Gnome Agility Course lap (`3.18`) and the Hunter Emporium (`3.23`), but not the diary or the count. The gnomeball goal (`3.21`) may also be a diary task.
 25. **Castle Wars direction:** `3.14` says head north towards the Tree Gnome Village. The author is verifying the direction.
 26. **Maze risk:** The monsters in the Tree Gnome Village maze (`3.15`) are still to be analysed.
