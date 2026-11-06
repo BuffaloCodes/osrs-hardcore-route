@@ -189,11 +189,11 @@ def main(path):
                 for k in range(lo, hi + 1):
                     if lines[k].startswith("|"):
                         cells = [c.strip().lower() for c in lines[k].split("|")[1:-1]]
-                        if len(cells) >= 3 and enemy in cells[0]:
+                        if len(cells) >= 2 and enemy in cells[0]:
                             matches.append(cells)
             if not matches:
                 err(i + 1, f"[RISK: {m.group(1)}] has no row in visit {v}'s combat table")
-            elif not any(max_hit in r[2] for r in matches):
+            elif not any(max_hit in r[1] for r in matches):
                 err(i + 1, f"[RISK: {m.group(1)}] max hit does not match the combat table ('{matches[0][2]}')")
 
     # Pass 9 and 10: banned boilerplate, optional choices italicised.

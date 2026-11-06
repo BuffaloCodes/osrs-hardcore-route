@@ -1,4 +1,4 @@
-# Step 0: Hardening the Account (v0.02)
+# Step 0: Hardening the Account (v0.03)
 
 **Purpose:** Raise HP, Magic, Attack and Strength before the efficient part of the route begins, on a mode where one death means a reset - transferring is for cowards.
 
@@ -38,17 +38,17 @@ Visit 4 comes before the maze because the wiki's Quick Guide lists the pebble af
 
 **Combat table: Visit 0**
 
-| Enemy | Level | Max hit | Safespot / tactic |
-|-------|-------|---------|-------------------|
-| Wilderness level 51 (Deserted Keep) | n/a | 99 (any hit can be fatal) | None. Pull the lever on arrival and do not move. The Ring of Life does not work here |
-| Ardougne guard | TBD | 3 | Bakery Stall: stand underneath the Baker while stealing. Silk Stall: no safespot |
-| Hero | TBD | 9 | Same as the guard |
-| Paladin | TBD | 8 | Same as the guard |
-| Thieves (stone circle den) | 14 / 14 / 26 | 3 | Run past, do not fight |
-| Sea slug (Fishing Platform) | n/a | 3 (only when picked up) | Do not pick up the sea slugs |
-| Giant rats (Ardougne Sewers, 8x) | TBD | 1 | Only met if the staircase trap is triggered |
-| Zombies (Ardougne Sewers, 3x) | TBD | 3 | Only met if the staircase trap is triggered |
-| Jungle spiders (Brimhaven) | TBD | 6 | Avoid them |
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Wilderness level 51 (Deserted Keep) | 99 (any hit can be fatal) | None. Pull the lever on arrival and do not move. The Ring of Life does not work here |
+| Ardougne guard | 3 | Bakery Stall: stand underneath the Baker while stealing. Silk Stall: no safespot |
+| Hero | 9 | Same as the guard |
+| Paladin | 8 | Same as the guard |
+| Thieves (stone circle den) | 3 | Run past, do not fight |
+| Sea slug (Fishing Platform) | 3 (only when picked up) | Do not pick up the sea slugs |
+| Giant rats (Ardougne Sewers, 8x) | 1 | Only met if the staircase trap is triggered |
+| Zombies (Ardougne Sewers, 3x) | 3 | Only met if the staircase trap is triggered |
+| Jungle spiders (Brimhaven) | 6 | Avoid them |
 
 - [ ] `0.01` Spawn in Death's Office (in Lumbridge if post-Reset), activate your Escape Crystal to function as a Ring of Life, and equip it in your ring slot
 - [ ] `0.02` Bank all items, withdraw the bronze axe, grab 1x log, then go downstairs [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
@@ -151,13 +151,13 @@ Firemaking is the lower end of the 36 to 39 estimate and depends on the log mix 
 
 **Combat table: Visit 1**
 
-| Enemy | Level | Max hit | Safespot / tactic |
-|-------|-------|---------|-------------------|
-| Ranger outlaw | 6 | 2 | none listed |
-| Mage outlaw | 6 | 2 | none listed |
-| Final outlaw | 8 | 2 | Uses Protect from Melee after your first hit, so bring Magic or Ranged. Very low levels can run around the graveyard until it aggros Mudfoot instead. |
-| Failed pickpocket (man or woman) | n/a | 1 | None. Only a failed attempt hurts |
-| Brutus | not listed | specials up to 19, cannot be prayed against | Feed-trough safespot to the south (tested in-game by the author: no damage taken and no need to dodge the specials) |
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Ranger outlaw | 2 | none listed |
+| Mage outlaw | 2 | none listed |
+| Final outlaw | 2 | Uses Protect from Melee after your first hit, so bring Magic or Ranged. Very low levels can run around the graveyard until it aggros Mudfoot instead. |
+| Failed pickpocket (man or woman) | 1 | None. Only a failed attempt hurts |
+| Brutus | specials up to 19, cannot be prayed against | Feed-trough safespot to the south (tested in-game by the author: no damage taken and no need to dodge the specials) |
 
 - [ ] `1.01` Grab 1x knife, 1x jug, 2x bucket, 1x cabbage and 1x leather boots, then fill the jug with water
 - [ ] `1.02` Start [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)]: talk to Duke Horacio upstairs in Lumbridge Castle and take the air talisman he gives you
@@ -294,9 +294,9 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 
 **Combat table: Visit 2**
 
-| Enemy | Level | Max hit | Safespot / tactic |
-|-------|-------|---------|-------------------|
-| Dark wizard (outside Varrock) | TBD | 6 | Avoid them. Do not fight |
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Dark wizard (outside Varrock) | 6 | Avoid them. Do not fight |
 
 - [ ] `2.01` Use the Chronicle to teleport to Varrock (check your gp stack first, see the Visit 2 Notes)
 - [ ] `2.02` $\color{red}{\textbf{[RISK: Dark wizard (6)]}}$ Walk to Aubury's rune shop in Varrock, avoiding the Dark wizards outside the city
@@ -329,12 +329,12 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 
 **Combat table: Visit 3** (combined experiment HP is 144)
 
-| Enemy | Level | Max hit | Safespot / tactic |
-|-------|-------|---------|-------------------|
-| Witch's experiment, form 1 (Skavid) | 19 | 2 | Step under it from the north-eastern corner until it moves north, then Magic from one tile south-west |
-| Witch's experiment, form 2 (spider) | 30 | 3 | Same as form 1 |
-| Witch's experiment, form 3 (bear) | 42 | 4 | Safespot from the south of the shed, past the ball |
-| Witch's experiment, form 4 (wolf) | 53 | 5 | Same as form 3 |
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Witch's experiment, form 1 (Skavid) | 2 | Step under it from the north-eastern corner until it moves north, then Magic from one tile south-west |
+| Witch's experiment, form 2 (spider) | 3 | Same as form 1 |
+| Witch's experiment, form 3 (bear) | 4 | Safespot from the south of the shed, past the ball |
+| Witch's experiment, form 4 (wolf) | 5 | Same as form 3 |
 
 **Carry-forward after Visit 3:** staff, 80x air runes, 80x mind runes, 6x logs, 5x coins, 1x rope, 6x air runes, 6x earth runes, 6x water runes, food.
 
@@ -389,13 +389,13 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 
 **Combat table: Visit 5**
 
-| Enemy | Level | Max hit | Safespot / tactic |
-|-------|-------|---------|-------------------|
-| Khazard warlord | 112 | 10 | Start the fight, walk west until he de-aggros near the large dead tree, step slightly south and attack from outside his aggro range. He gets caught between the West Ardougne wall and the northern dead tree. Melee: step in and out of his range beside the large skull to the south. |
-| Khazard ogre | 63 | 8 | Safespot behind a nearby skeleton with Magic, Ranged or a halberd |
-| Khazard scorpion | 44 | 5 | Run to the safespot or use Protect from Melee at once |
-| Bouncer | 137 | 13 | Same approach as the scorpion. Once the General Khazard fight starts you cannot re-enter the arena |
-| General Khazard | 142 | 9 | Magic safespot (wiki image caption), *or skip him* |
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Khazard warlord | 10 | Start the fight, walk west until he de-aggros near the large dead tree, step slightly south and attack from outside his aggro range. He gets caught between the West Ardougne wall and the northern dead tree. Melee: step in and out of his range beside the large skull to the south. |
+| Khazard ogre | 8 | Safespot behind a nearby skeleton with Magic, Ranged or a halberd |
+| Khazard scorpion | 5 | Run to the safespot or use Protect from Melee at once |
+| Bouncer | 13 | Same approach as the scorpion. Once the General Khazard fight starts you cannot re-enter the arena |
+| General Khazard | 9 | Magic safespot (wiki image caption), *or skip him* |
 
 **Carry-forward after Visit 5:** Glarial's pebble, 1x rope, 6x air runes, 6x earth runes, 6x water runes, staff, spare Wind Strike runes, food.
 
@@ -419,10 +419,10 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 
 **Combat table: Visit 6**
 
-| Enemy | Level | Max hit | Safespot / tactic |
-|-------|-------|---------|-------------------|
-| Moss Guardians | 84 | 14 | Glarial's Tomb is single-way combat, so start a fight with a skeleton first |
-| Fire Giants | 86 | 11 | Avoid the left side and slip past without engaging. Killing one counts toward a medium Kandarin diary task |
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Moss Guardians | 14 | Glarial's Tomb is single-way combat, so start a fight with a skeleton first |
+| Fire Giants | 11 | Avoid the left side and slip past without engaging. Killing one counts toward a medium Kandarin diary task |
 
 ---
 
@@ -462,7 +462,7 @@ These figures come from the standard XP table and exclude anything else you earn
    - **Leather gloves:** Resolved. Both sources are kept: Father Urhney's house in Visit 1 and the boxes in Witch's House (step `3.05`). *Spare pairs can be sold for bonus gp.*
 4. **Pebble prerequisite:** Resolved. The pebble is only given at that specific point in Waterfall Quest, so the Visit 4, 5, 6 order stands.
 5. **Trough safespot:** Resolved. Tested in-game by the author: no damage taken at the safespot and no need to dodge the specials.
-6. **Risk data:** Fill the remaining `TBD` levels in the combat tables.
+6. **Risk data:** Combat tables are filled from `data/risk_data.csv`.
 7. **Merge with the main route:** How Steps 1 and 2 combine with Visit 1, and how Visit 0 sits next to Step 1.
 8. **Gold ledger:** The author is calculating the expected gp across Visits 0 and 1, covering the income (quests, silk and pearl sales) and the spending (shopping, fares, Varrock runes). It is needed before the Varrock purchase and any Stronghold of Security fallback.
 

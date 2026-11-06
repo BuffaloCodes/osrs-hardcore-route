@@ -1,8 +1,13 @@
 # Changelog
 
-Work on `chapters/Step0_Hardening_v0.02.md`, `tools/lint_guide.py` and `README.md`. Newest first. Commit hashes are in brackets. Wiki facts were checked against the OSRS Wiki on 5 November 2026.
+Work on `chapters/Step0_Hardening_v0.03.md`, `tools/lint_guide.py` and `README.md`. Newest first. Commit hashes are in brackets. Wiki facts were checked against the OSRS Wiki on 5 November 2026.
 
 ## 5 November 2026 (v0.02 working draft)
+
+### v0.03: Level column removed and file renamed
+
+- Renamed `chapters/Step0_Hardening_v0.02.md` to `chapters/Step0_Hardening_v0.03.md` (git rename, history kept) and updated the title, README and this file.
+- Removed the Level column from every combat table, which now has Enemy, Max hit and Safespot / tactic. The linter now reads Max hit from the second column. Open item 6 now just notes that the tables come from `data/risk_data.csv`.
 
 ### Risk data synced to the guide
 
@@ -54,7 +59,7 @@ Work on `chapters/Step0_Hardening_v0.02.md`, `tools/lint_guide.py` and `README.m
 
 ### Tooling
 
-- Installed Python 3.12.10 (user scope, via winget). The linter now runs: `python -I tools/lint_guide.py chapters/Step0_Hardening_v0.02.md`.
+- Installed Python 3.12.10 (user scope, via winget). The linter now runs: `python -I tools/lint_guide.py chapters/Step0_Hardening_v0.03.md`.
 
 ### Verified against the wiki
 
