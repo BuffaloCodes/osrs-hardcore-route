@@ -9,6 +9,7 @@ Work on `chapters/Step0_Hardening_v0.03.md`, `tools/lint_guide.py` and `README.m
 - Level table: Slayer 9 and Hunter 13 from the Museum History Quiz, so total level is 258.
 - Deleted `VISIT2_VERIFICATION.md`, now that its open items are settled.
 - Cleaned stale references to the removed visits: itinerary rows for Visits 3 to 6, the Visit 4 order note, the Witch's House, Waterfall, Tree Gnome Village, Fight Arena and pebble sources, and the resolved open items that only concerned those visits (open items renumbered 1 to 6).
+- Removed the Witch's House, Tree Gnome Village and Fight Arena item tags from `1.18` and `1.27` (linter now clean), and moved the open items and sources out of Step 0 into `chapters/Open_Items.md` and `chapters/Sources.md`.
 
 
 ## 6 November 2026 (v0.03 working draft)

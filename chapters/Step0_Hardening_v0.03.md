@@ -169,7 +169,7 @@ Firemaking is the lower end of the 36 to 39 estimate and depends on the log mix 
 - [ ] `1.15` Continue [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]: go to the back exit of Lumbridge Castle and dig
 - [ ] `1.16` Kill a giant rat and collect the raw meat and bones
 - [ ] `1.17` $\color{red}{\textbf{[RISK: Mage outlaw (2)]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the mage outlaw by the H.A.M. hideout and loot the staff and runes
-- [ ] `1.18` Keep the staff and the 80x air runes and 80x mind runes (Wind Strike ammunition) [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)] [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)] [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]
+- [ ] `1.18` Keep the staff and the 80x air runes and 80x mind runes (Wind Strike ammunition)
 - [ ] `1.19` $\color{red}{\textbf{[RISK: Final outlaw (2)]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the final outlaw at the Lumbridge graveyard, south-east of the hideout, with Magic or Ranged gear *(or poison)*
 - [ ] `1.20` Buy 1x steel axe from Bob
 - [ ] `1.21` Continue [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]: dig on the tile north of the north-western window of Bob's house
@@ -190,7 +190,7 @@ Firemaking is the lower end of the 36 to 39 estimate and depends on the log mix 
 > - 1x uncut ruby, 1x uncut emerald and 1x uncut sapphire
 
 - [ ] `1.26` Continue [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]: head west to Father Urhney in Lumbridge Swamp to get the ghostspeak amulet
-- [ ] `1.27` Grab 1x leather gloves [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)] from Father Urhney's house (the quest itself also has gloves in its boxes, see step 3.05, *and spare pairs can be sold for bonus gp*)
+- [ ] `1.27` Grab 1x leather gloves from Father Urhney's house *(spare pairs can be sold for bonus gp)*
 - [ ] `1.28` Run to Draynor Village, grab and wear the forestry kit and buy 26x wine from Fortunato *(skip if out of stock; the wine is cheap, high-healing, one-bite food)*
 - [ ] `1.29` Home teleport to Lumbridge *(optional: minigame teleport to Clan Wars first to restore run energy)*
 - [ ] `1.30` Continue [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]: talk to the restless ghost in the Lumbridge cemetery
@@ -418,24 +418,4 @@ Firemaking 50 is the target of `2.54`. Woodcutting 48 assumes the lower end of t
 
 ---
 
-## Open items
-
-1. **Food route:** Drafted as Visit 0. Remaining: the food quantity for the later fights. Quest tags for bought and picked-up items are deliberately not being added.
-2. **Rune supply:** Wind Strike costs 1 air and 1 mind rune per cast. Mudfoot's package gives 80x of each. Later visits will need more casts for the fights.
-3. **Item sources:**
-   - **Rope:** Resolved. Bought in Visit 0 at the Ardougne general store. Visit 1 no longer has a step for it.
-   - **Waterfall runes (6x air, 6x earth, 6x water):** Bought at Aubury's rune shop in Varrock, the only feasible source. The Varrock stop is Visit 2 (steps `2.25` and `2.26`). The cash budget is still open (see the gold ledger below).
-4. **Risk data:** Combat tables are filled from `data/risk_data.csv`.
-5. **Merge with the main route:** How Steps 1 and 2 combine with Visit 1, and how Visit 0 sits next to Step 1.
-6. **Gold ledger:** The author is calculating the expected gp across Visits 0 and 1, covering the income (quests, silk and pearl sales) and the spending (shopping, fares, Varrock runes). It is needed before the Varrock purchase and any Stronghold of Security fallback.
-
----
-
-## Sources
-
-- Mudfoot's Big Adventure quick guide: https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide
-- The Ides of Milk quick guide: https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide
-- Hazeel Cult quick guide: https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide
-- Cowbell amulet: https://oldschool.runescape.wiki/w/Cowbell_amulet
-- Wind Strike: https://oldschool.runescape.wiki/w/Wind_Strike
-- Hardcore Worlds: https://oldschool.runescape.wiki/w/Hardcore_main
+Open items are tracked in `Open_Items.md` and sources in `Sources.md`.
