@@ -2,6 +2,24 @@
 
 Work on `chapters/Step0_Hardening_v0.03.md`, `tools/lint_guide.py` and `README.md`. Newest first. Commit hashes are in brackets. Wiki facts were checked against the OSRS Wiki on 5 November 2026.
 
+## 6 November 2026 (v0.03 working draft)
+
+### Visit 2 draft converted to numbered steps
+
+- Converted the author's Visit 2 draft (Varrock, then Varlamore as far as Mistrock) into 69 checkbox steps, `2.01` to `2.69`, in the Visit 1 format, with quest Start, Continue and Complete links and italic `*(Optional)*` steps.
+- Removed the two old Visit 2 steps (Aubury rune purchase, `2.02` and `2.03`), which duplicated the new steps. The Visit 2 Notes Funds block stays.
+- Added `[RISK: Dark wizard (6)]` to `2.01` for the walking route. The max hit of 6 is not confirmed on the wiki.
+- Quest label fixes from the wiki check: Children of the Sun finishes with Sergeant Tobyn (`2.12`), the manhole key is a Demon Slayer step (`2.20`), Daddy's Home completes with Marlo (`2.43`), Rag and Bone Man I starts with the Odd Old Man (`2.39`), and the 10 planks are for Daddy's Home (`2.37`).
+- Smaller fixes: Thessalia is "browse" (`2.08`), axe levels (`2.48`), teak Woodcutting and Firemaking 35 (`2.50`), and world hopping for log spawns (`2.36`).
+- Added `VISIT2_VERIFICATION.md`, the wiki check of the Visit 2 draft. It includes the in-game test results: Count Check still teleports to Barbarian Village (unknown whether it works again after a death or reset), Varrock has combat dummies, and the Eclipse red can be taken inside Apatura's building.
+
+### Open items for Visit 2
+
+- `[TBD]` notes remain at `2.32` (withdraw list), `2.49` (Lily Pad start location), `2.58` (aggressive NPCs near Sunset Coast need a risk tag and table row) and `2.65` (Sunbeam ale and the Taverley shortcut).
+- The `300 runes?` question at `2.26` and the funds check against the 3,704 gp floor are open. The nails and bolts of cloth at `2.38` cost about 3,550 gp.
+- The Romeo & Juliet finish (Apothecary potion, Varrock crypt) is not in Visit 2.
+- Visit 3 onward has not been edited by the author.
+
 ## 5 November 2026 (v0.02 working draft)
 
 ### v0.03: Level column removed and file renamed

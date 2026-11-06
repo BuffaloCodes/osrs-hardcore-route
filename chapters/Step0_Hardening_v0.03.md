@@ -290,7 +290,7 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 
 ## Visit 2: Varrock (Waterfall runes)
 
-**Goal:** Teleport to Varrock with the Chronicle and buy the runes for [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)].
+**Goal:** Teleport to Varrock. Options for with the Chronicle and buy the runes for [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]. [THIS WILL GET UPDATED AS THE VISIT STEPS GET POPULATED]
 
 **Combat table: Visit 2**
 
@@ -298,9 +298,79 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 |-------|---------|-------------------|
 | Dark wizard (outside Varrock) | 6 | Avoid them. Do not fight |
 
-- [ ] `2.01` Use the Chronicle to teleport to Varrock (check your gp stack first, see the Visit 2 Notes)
-- [ ] `2.02` $\color{red}{\textbf{[RISK: Dark wizard (6)]}}$ Walk to Aubury's rune shop in Varrock, avoiding the Dark wizards outside the city
-- [ ] `2.03` Buy 6x air runes, 6x earth runes and 6x water runes [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] from Aubury's rune shop
+- [ ] `2.01` $\color{red}{\textbf{[RISK: Dark wizard (6)]}}$ Get to Varrock. Options: use the Chronicle to teleport to Champion's Guild, use Count Check to teleport to Barbarian Village (see the Visit 2 Notes about Funds), or walk from Lumbridge. The Dark wizards are only a risk on the walking route
+- [ ] `2.02` Go north/east (depending on how you travelled), start [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)] and pick up some doogle leaves behind her house
+- [ ] `2.03` Go to Varrock square
+- [ ] `2.04` Go to Varrock West Bank and withdraw gp and one set of bones
+- [ ] `2.05` *(Optional)* If you see the stray dog, feed it the bones for a diary step
+- [ ] `2.06` Buy a staff of air from Zaff. Skip if out of stock
+- [ ] `2.07` Talk to Aris Maye to Start [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]
+- [ ] `2.08` Head south and browse Thessalia's store for a diary step. Buy a brown apron
+- [ ] `2.09` Talk to Romeo to Start [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)]
+- [ ] `2.10` Talk to Shilop and Wilough to Continue [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)]
+- [ ] `2.11` Buy a newspaper from Benny for a diary step, then drop it
+- [ ] `2.12` Talk to Noah to Start and Complete [[Children of the Sun](https://oldschool.runescape.wiki/w/Children_of_the_Sun/Quick_guide)] in full, finishing with Sergeant Tobyn in the palace roof cell room
+- [ ] `2.13` Talk to Sir Prysin downstairs in Varrock Palace to Continue [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]
+- [ ] `2.14` Talk to Captain Rovin upstairs in the palace to Continue [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]
+- [ ] `2.15` Talk to Reldo to Continue [[The Knight's Sword](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword/Quick_guide)] and Start [[Shield of Arrav](https://oldschool.runescape.wiki/w/Shield_of_Arrav/Quick_guide)], then find the book in the library and speak with Reldo again
+- [ ] `2.16` Grab the pie dish in the kitchen
+- [ ] `2.17` Go up the stairs in the kitchen, grab both buckets, then go back downstairs
+- [ ] `2.18` Continue [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]: fill a bucket with water and use it on the drain outside the kitchen to flush the key
+- [ ] `2.19` Speak with King Roald to Start [[Priest in Peril](https://oldschool.runescape.wiki/w/Priest_in_Peril/Quick_guide)]
+- [ ] `2.20` Continue [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]: head east down the manhole and collect the key
+- [ ] `2.21` Go back out and north to the estate agent, collect a saw and Start [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)]
+- [ ] `2.22` Go across the street to the museum and go downstairs. Start and complete the Museum History Quiz
+- [ ] `2.23` Leave the museum and hit the nearby combat dummies to reach 5 Attack so you can equip your steel axe later
+- [ ] `2.24` Go to Varrock East Bank and withdraw the research package, hammer, saw, some runes for casting Wind Strike, and coins
+
+**IMPORTANT:** Make sure you have at least 3,704 gp left after the Aubury shopping at `2.26`. [BUFFALODAD TO CHECK FUNDS AT THIS POINT. Does this match the 5,000 gp target on `0.33`?]
+
+- [ ] `2.25` Go to Aubury, give him the research notes and continue the dialogue until he offers a cup of tea (restores run energy)
+- [ ] `2.26` Buy 100 mind [300 runes?], 100 air, 50 water, 50 earth and 20 fire runes (no rune packs). If you could not get a staff of air, buy 400 additional air runes
+- [ ] `2.27` Speak with Dimintheis in Varrock East to Start [[Family Crest](https://oldschool.runescape.wiki/w/Family_Crest/Quick_guide)]
+- [ ] `2.28` Head to Old Man Yarlo and Continue [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)] up to the point where you collect the waxwood logs from the crates in the kitchen
+- [ ] `2.29` Head to the Blue Moon Inn and talk to Dr Harlow to Continue [[Vampyre Slayer](https://oldschool.runescape.wiki/w/Vampyre_Slayer/Quick_guide)]. Buy him a beer, and buy an extra beer for later
+- [ ] `2.30` Go across the street to the sword shop, go up the ladder and grab the lit candle
+- [ ] `2.31` Head north-east to Varrock East Bank and bank everything
+- [ ] `2.32` Withdraw: [TBD: item list]
+- [ ] `2.33` Head north-east out of Varrock to the lumberyard
+- [ ] `2.34` Continue [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)] until the cat goes home
+- [ ] `2.35` Cut the dying tree inside the lumberyard for a diary step
+- [ ] `2.36` Collect the spawned logs, hopping worlds to refresh the spawns, and fletch 2,100 arrow shafts
+- [ ] `2.37` Collect 10 logs and make them into planks (10 regular planks are needed for [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)]), then make the 3 waxwood planks
+- [ ] `2.38` Buy 5x bolt of cloth and 100 steel nails
+- [ ] `2.39` Head east and speak to the Odd Old Man to Start [[Rag and Bone Man I](https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_I/Quick_guide)]
+- [ ] `2.40` Teleport using the Chronicle, speak to Gertrude and Complete [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)]
+- [ ] `2.41` Speak with Juliet, then give the letter to Romeo
+- [ ] `2.42` Enter the church and speak with Father Lawrence to Continue [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)]
+- [ ] `2.43` Return to Old Man Yarlo to finish the work, then speak to Marlo at the estate agent to Complete [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)]
+- [ ] `2.44` Open the crate and store the items at Varrock East Bank
+- [ ] `2.45` At Varrock East Bank grab your steel axe, forestry kit and tinderbox. Run east and speak with Regulus Cento to take the quetzal to Varlamore
+- [ ] `2.46` Go to The Flaming Arrow and buy as many jugs of wine as you expect to need (50 is probably safe). Stock is infinite, they cost 3 coins and heal 11 HP in one action
+- [ ] `2.47` Walk to Auburnvale. It is a very long trek but can be shortened with the Mountain Guide
+- [ ] `2.48` Visit Lunami's Axe Shop and buy a mithril axe (Woodcutting 21) and *(Optional)* an adamant axe (Woodcutting 31)
+- [ ] `2.49` Travel south [TBD: the wiki starts this at Marcellus in the Locus Oasis, confirm the route], then Start and Complete [[The Ribbiting Tale of a Lily Pad Labour Dispute](https://oldschool.runescape.wiki/w/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute/Quick_guide)]
+- [ ] `2.50` Chop teak logs (Woodcutting 35) and burn them (Firemaking 35) to level 50 Firemaking on a forestry world
+- [ ] `2.51` Head west towards the Hunter's Guild
+- [ ] `2.52` Collect 1 sweetcorn
+- [ ] `2.53` Collect the needle
+- [ ] `2.54` Collect a bucket of water by the bank chest
+- [ ] `2.55` Deposit everything in the bank chest
+- [ ] `2.56` Enter Guildmaster Apatura's building and go up both ladders
+- [ ] `2.57` *(Optional)* Loot 28 Eclipse reds, hopping worlds as needed. This is likely very busy. If you cannot grab any, skip it, since it is purely a moneymaker
+- [ ] `2.58` Head south-west to Sunset Coast. Be careful of the aggressive NPCs along the way, as they can kill you if you do not pay attention [TBD: name the NPCs, add a RISK tag and a combat-table row]
+- [ ] `2.59` Travel with Antonia to Aldarin
+- [ ] `2.60` Take a pot of flour
+- [ ] `2.61` Buy 6x onion from the food store
+- [ ] `2.62` Bank south and deposit everything
+- [ ] `2.63` Withdraw: 28x Eclipse red
+- [ ] `2.64` Head west and trade Antonius, selling all 28 at once
+- [ ] `2.65` Head east and buy 3x Sunbeam ale from the bartender in the pub. Each gives a temporary +1 Agility boost for the Taverley Dungeon shortcut later [TBD: the wiki's Taverley Dungeon page does not mention Sunbeam ale, confirm the shortcut]
+- [ ] `2.66` Head north-east to the gem store and buy 9x uncut sapphire, 10x uncut emerald and as many uncut rubies as possible. If the shop is out of stock, get a few or skip this and mine a star after unlocking teleports to buy a bag full of gems with stardust
+- [ ] `2.67` Head south to Mistrock and deposit everything there
+- [ ] `2.68` Buy a steel pickaxe
+- [ ] `2.69` Bank at Mistrock and deposit everything
+
 
 > **Visit 2 Notes:**
 > - **Funds:** Check your gp stack and the rune prices before the trip. *If funds are too low, the fallback is the Count Check teleport to the Stronghold of Security for its free 10,000 gp, but going there with low hit points is a worry.*
