@@ -1,9 +1,10 @@
 # Changelog
 
-Work on `chapters/Step0_Hardening_v0.03.md`, `tools/lint_guide.py` and `README.md`. Newest first. Commit hashes are in brackets. Wiki facts were checked against the OSRS Wiki on 5 November 2026.
+Work on `chapters/Chapter0.md`, `tools/lint_guide.py` and `README.md`. Newest first. Commit hashes are in brackets. Wiki facts were checked against the OSRS Wiki on 5 November 2026.
 
 ## 6 November 2026 (answers applied)
 
+- Restructured the repo: `Step0_Hardening_v0.03.md` is now `chapters/Chapter0.md` (version lives in its header and this changelog), and the working notes moved to `notes/` (`CLAUDE_Qs` is now `notes/Questions.md`, plus `Open_Items.md` and `Sources.md`). Older entries below use the old filenames.
 - Removed everything after Visit 2 (Visits 3 to 6, the alternative order, the stat outcome and the Hardcore Worlds check), because that text did not contain the author's edits.
 - Applied the author's answers to Visit 2: removed the Sunbeam ale, gem store and visit-ending steps (the visit now ends at `2.71`, and `2.71`+ renumbered), set 400 mind runes at `2.26`, dropped the Gary or Sue wording at `2.53`, and replaced the jaguar and funds TBDs.
 - Level table: Slayer 9 and Hunter 13 from the Museum History Quiz, so total level is 258.

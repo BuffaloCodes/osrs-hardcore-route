@@ -1,6 +1,6 @@
 # Sources
 
-Running list for `Step0_Hardening_v0.03.md`.
+Running list for `chapters/Chapter0.md`.
 
 - Mudfoot's Big Adventure quick guide: https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide
 - The Ides of Milk quick guide: https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide

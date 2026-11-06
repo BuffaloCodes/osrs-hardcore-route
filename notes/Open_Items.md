@@ -1,6 +1,6 @@
 # Open items
 
-Running list for `Step0_Hardening_v0.03.md`.
+Running list for `chapters/Chapter0.md`.
 
 1. **Food route:** Drafted as Visit 0. Remaining: the food quantity for the later fights. Quest tags for bought and picked-up items are deliberately not being added.
 2. **Rune supply:** Wind Strike costs 1 air and 1 mind rune per cast. Mudfoot's package gives 80x of each. Later visits will need more casts for the fights.

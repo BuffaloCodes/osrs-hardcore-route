@@ -418,4 +418,4 @@ Firemaking 50 is the target of `2.54`. Woodcutting 48 assumes the lower end of t
 
 ---
 
-Open items are tracked in `Open_Items.md` and sources in `Sources.md`.
+Open items are tracked in `notes/Open_Items.md` and sources in `notes/Sources.md`.

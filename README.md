@@ -19,8 +19,9 @@ All credit for the original ideas and routing belongs to them.
 
 | File | Purpose |
 |------|---------|
-| `chapters/Step0_Hardening_v0.03.md` | Step 0: hardening block (v0.03). Raises HP, Magic, Attack and Strength before the efficient route begins. |
+| `chapters/Chapter0.md` | Chapter 0: the hardening block (v0.03). Raises HP, Magic, Attack and Strength before the efficient route begins. |
 | `chapters/Chapter1.md` | Chapter 1 of the route. Placeholder until the cleaned version is added. |
+| `notes/Open_Items.md`, `notes/Sources.md`, `notes/Questions.md` | Running working notes: open items, sources, and questions for the author. |
 | `data/risk_data.csv` | Intake form for enemy and hazard max hits and safespots (see `data/README.md`). |
 | `tools/lint_guide.py` | Lints a guide file against the house style. |
 | `CHANGELOG.md` | Chronicle of the work done on the guide, tooling and README, with commit hashes. |
@@ -59,7 +60,7 @@ All credit for the original ideas and routing belongs to them.
 ## Linting
 
 ```
-python3 tools/lint_guide.py chapters/Step0_Hardening_v0.03.md
+python3 tools/lint_guide.py chapters/Chapter0.md
 ```
 
 The linter takes one file at a time and checks:
