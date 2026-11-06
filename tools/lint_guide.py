@@ -194,7 +194,7 @@ def main(path):
             if not matches:
                 err(i + 1, f"[RISK: {m.group(1)}] has no row in visit {v}'s combat table")
             elif not any(max_hit in r[1] for r in matches):
-                err(i + 1, f"[RISK: {m.group(1)}] max hit does not match the combat table ('{matches[0][2]}')")
+                err(i + 1, f"[RISK: {m.group(1)}] max hit does not match the combat table ('{matches[0][1]}')")
 
     # Pass 9 and 10: banned boilerplate, optional choices italicised.
     for i, raw in enumerate(lines):
