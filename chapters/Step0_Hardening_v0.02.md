@@ -163,7 +163,7 @@ Firemaking is the lower end of the 36 to 39 estimate and depends on the log mix 
 - [ ] `1.01` Grab 1x knife, 1x jug, 2x bucket, 1x cabbage and 1x leather boots, then fill the jug with water
 - [ ] `1.02` Start [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)]: talk to Duke Horacio upstairs in Lumbridge Castle and take the air talisman he gives you
 - [ ] `1.03` Talk to Hans to learn your age (Lumbridge & Draynor Diary, Easy 1/12)
-- [ ] `1.04` $\color{red}{	extbf{[RISK: Failed pickpocket (1)]}}$ Pickpocket a man or woman in Lumbridge (Lumbridge & Draynor Diary, Easy 2/12)
+- [ ] `1.04` $\color{red}{\textbf{[RISK: Failed pickpocket (1)]}}$ Pickpocket a man or woman in Lumbridge (Lumbridge & Draynor Diary, Easy 2/12)
 - [ ] `1.05` Talk to Veos in The Sheared Ram pub to Start [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]
 - [ ] `1.06` Talk to Captain Harlan outside the Lumbridge General Store to Start [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]
 - [ ] `1.07` *(Optional)* Claim the bronze shortsword and wooden shield from Captain Harlan
