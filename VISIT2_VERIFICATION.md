@@ -1,6 +1,6 @@
 # Visit 2 wiki verification (5 November 2026)
 
-Checked against the OSRS Wiki by three fetch agents. Nothing in the guide was changed. Items marked "not found" were not confirmed either way. Step numbers refer to `chapters/Step0_Hardening_v0.03.md`.
+Checked against the OSRS Wiki by three fetch agents. Nothing in the guide was changed. Items marked "not found" were not confirmed either way. Step numbers refer to `chapters/Step0_Hardening_v0.03.md` as it stood on 5 November 2026. Steps from `2.13` onward were renumbered on 6 November, so see the CHANGELOG for current IDs. Most label fixes below have since been applied.
 
 ## Resolved by in-game testing (6 November 2026)
 

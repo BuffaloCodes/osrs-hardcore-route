@@ -23,10 +23,25 @@ Work on `chapters/Step0_Hardening_v0.03.md`, `tools/lint_guide.py` and `README.m
 - Added "Estimated levels after Visit 2": 19 quest points and total level 246. Firemaking 50 is the step target. Woodcutting 48, Fletching 7, Cooking 11, Construction 8 and Attack 5 are estimates, with the assumptions listed under the table.
 - Fixed a stale reference to Visit 2 steps `2.01` to `2.03` in the open items (now `2.25` and `2.26`).
 
+### Visit 2 route changes from the author's notes
+
+- Moved the combat dummy step to straight after Children of the Sun (`2.13`), since finishing the quest leaves you on the Varrock Castle roof where the dummies are.
+- Added steps after Family Crest: steal a cup of tea at the tea stall (Varrock Diary, `2.28`), bank the tea, runes and research notes (`2.29`), and withdraw the hammer and saw (`2.30`). The hammer and saw are no longer in the earlier bank withdrawal (`2.24`).
+- Filled the withdraw list at `2.35`: bucket of milk, raw sardine, Chronicle, axe, knife, gp stack, doogle leaf and 3x waxwood logs.
+- `2.40` now makes 1 normal plank for the diary task and 3 waxwood planks. The 10 regular planks are already banked from Entrana.
+- Jugs of wine cost 1 coin (`2.49`). Daddy's Home gives 1 quest point (confirmed). The Lily Pad quest start location is confirmed, so its TBD note was removed (`2.52`).
+- Tea stall at `2.28` confirmed safe (no guards), so its guard TBD was removed. Added `2.46` to withdraw the 10x planks for Daddy's Home from the bank passed on the way back to Old Man Yarlo, which renumbered `2.46` onward by one (the Sunbeam ale step is now `2.69`, the visit ending `2.74`).
+- Varrock Diary is now Easy 6/14, or 5/14 without the dog. Steps after `2.27` renumbered, so every Visit 2 step ID from `2.13` onward changed; the step numbers in the entries above this one and in `VISIT2_VERIFICATION.md` are from before this change.
+
+### CLAUDE_Qs and risk data
+
+- Replaced the old contents of `chapters/CLAUDE_Qs` with the current input needed and questions: Visit 2 runes and funds, the Sunbeam ale shortcut, the visit ending, the jaguar and Dark wizard data, the quests left open, the level table assumptions and a few housekeeping questions.
+- `data/risk_data.csv`: the Dark wizard row now points at step `2.01` (was `2.02`) and a Jaguar row was added for step `2.62`.
+
 ### Open items for Visit 2
 
-- `[TBD]` notes remain at `2.32` (withdraw list), `2.49` (Lily Pad start location), `2.65` (Sunbeam ale and the Taverley shortcut) and `2.70` (how the visit ends).
-- The `300 runes?` question at `2.26` and the funds check against the 3,704 gp floor are open. The nails and bolts of cloth at `2.38` cost about 3,550 gp.
+- `[TBD]` notes remain at `2.69` (Sunbeam ale and the Taverley shortcut) and `2.74` (how the visit ends).
+- The `300 runes?` question at `2.26` and the funds check against the 3,704 gp floor are open. The nails and bolts of cloth at `2.41` cost about 3,550 gp.
 - The Romeo & Juliet finish (Apothecary potion, Varrock crypt) is not in Visit 2.
 - Visit 3 onward has not been edited by the author.
 
