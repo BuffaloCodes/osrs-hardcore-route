@@ -17,12 +17,6 @@
 | 0 | Ardougne, the Monastery, Witchaven and Brimhaven, then home teleport | Wilderness lever, Hazeel Cult, Sheep Herder, Monk's Friend, Sea Slug and Tribal Totem, plus shopping and food and silk thieving | Five quests complete, food and supplies stocked, back in Lumbridge |
 | 1 | Lumbridge, Draynor, Port Sarim, Entrana, the Wizards' Tower and Falador | Mudfoot's Big Adventure, The Ides of Milk, The Restless Ghost, Misthalin Mystery, Sheep Shearer and X Marks the Spot complete, plus Rune Mysteries, A Porcine of Interest, Vampyre Slayer, The Corsair Curse, The Knight's Sword and Black Knights' Fortress started | Lamps applied, ready to teleport to Varrock |
 | 2 | Varrock and Varlamore | Gertrude's Cat, Children of the Sun, Daddy's Home and The Ribbiting Tale of a Lily Pad Labour Dispute complete, plus Demon Slayer, Romeo & Juliet, Shield of Arrav, Priest in Peril, Family Crest, Vampyre Slayer and The Knight's Sword advanced and Rag and Bone Man I started, with the Waterfall Quest runes bought | Firemaking 50, ending at the Mistrock bank |
-| 3 | Taverley | Witch's House | Complete |
-| 4 | Baxtorian Falls | Waterfall Quest, Part 1 | Book read |
-| 5 | Gnome Maze and Ardougne | Fight Arena and Tree Gnome Village, plus Glarial's pebble | Both complete, pebble in hand |
-| 6 | Baxtorian Falls | Waterfall Quest, Parts 3 and 4 | Complete |
-
-Visit 4 comes before the maze because the wiki's Quick Guide lists the pebble after Part 1 and the main route also does Waterfall up to the pebble first. Glarial's pebble is only given at that specific point in Waterfall Quest (confirmed), so Visits 4 and 6 cannot merge into one trip.
 
 ---
 
@@ -137,7 +131,6 @@ Visit 4 comes before the maze because the wiki's Quick Guide lists the pebble af
 **Quest points:** 9 | **Total level:** 157
 
 Firemaking is the lower end of the 36 to 39 estimate and depends on the log mix burned in step `0.23`. Thieving is before the gold top-up. Quest points include the 1 from Tutorial Island.
-
 
 ---
 
@@ -399,7 +392,6 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 - [ ] `2.70` Buy a steel pickaxe
 - [ ] `2.71` Bank at Mistrock and deposit everything
 
-
 > **Visit 2 Notes:**
 > - **Funds:** Check your gp stack and the rune prices before the trip. *If funds are too low, the fallback is the Count Check teleport to Barbarian Village, where the Stronghold of Security is, for its free 10,000 gp, but going there with low hit points is a worry.* The author tested the Count Check teleport in game on 6 November 2026 and it still works, although the wiki says it is one-time and was removed from main worlds on 3 November 2026. It is not known whether it works again after a death or reset.
 > - **Dark wizards:** The Dark wizards outside Varrock are only a risk on the walking route at `2.01`. The wiki gives a max hit of 2 for the level 7 variant and no figure for the level 20 variant, but 6 is the highest max hit among Dark wizards, so the table uses it.
@@ -423,22 +415,19 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 **Quest points:** 19 | **Total level:** 258
 
 Firemaking 50 is the target of `2.54`. Woodcutting 48 assumes the lower end of the Visit 0 estimate (35) plus 2,000 XP from the Lily Pad quest and about 730 teak logs at 85 XP each. Fletching assumes regular logs (15 shafts and 5 XP per log, so 140 logs for 2,100 shafts). Attack 5 comes from the combat dummies. Slayer 9 and Hunter 13 come from the Museum History Quiz (1,000 XP in each). Hitpoints from that Attack XP and any other combat XP are not counted. Quest points include the 1 from Tutorial Island.
----
 
+---
 
 ## Open items
 
 1. **Food route:** Drafted as Visit 0. Remaining: the food quantity for the later fights. Quest tags for bought and picked-up items are deliberately not being added.
-2. **Rune supply:** Wind Strike costs 1 air and 1 mind rune per cast. Mudfoot's package gives 80x of each. Killing the Witch's experiment (144 HP combined) takes at least 18 max-damage hits, and the warlord (170 HP) at least 22, so real fights will need more casts than that.
+2. **Rune supply:** Wind Strike costs 1 air and 1 mind rune per cast. Mudfoot's package gives 80x of each. Later visits will need more casts for the fights.
 3. **Item sources:**
    - **Rope:** Resolved. Bought in Visit 0 at the Ardougne general store. Visit 1 no longer has a step for it.
-   - **Waterfall runes (6x air, 6x earth, 6x water):** Bought at Aubury's rune shop in Varrock, the only feasible source. The Varrock stop is Visit 2 (steps `2.25` and `2.26`). The cash budget is still open (see the gold ledger below). The carry-forward lines for Visits 3 to 5 still list the runes, which is correct now.
-   - **Leather gloves:** Resolved. Both sources are kept: Father Urhney's house in Visit 1 and the boxes in Witch's House (step `3.05`). *Spare pairs can be sold for bonus gp.*
-4. **Pebble prerequisite:** Resolved. The pebble is only given at that specific point in Waterfall Quest, so the Visit 4, 5, 6 order stands.
-5. **Trough safespot:** Resolved. Tested in-game by the author: no damage taken at the safespot and no need to dodge the specials.
-6. **Risk data:** Combat tables are filled from `data/risk_data.csv`.
-7. **Merge with the main route:** How Steps 1 and 2 combine with Visit 1, and how Visit 0 sits next to Step 1.
-8. **Gold ledger:** The author is calculating the expected gp across Visits 0 and 1, covering the income (quests, silk and pearl sales) and the spending (shopping, fares, Varrock runes). It is needed before the Varrock purchase and any Stronghold of Security fallback.
+   - **Waterfall runes (6x air, 6x earth, 6x water):** Bought at Aubury's rune shop in Varrock, the only feasible source. The Varrock stop is Visit 2 (steps `2.25` and `2.26`). The cash budget is still open (see the gold ledger below).
+4. **Risk data:** Combat tables are filled from `data/risk_data.csv`.
+5. **Merge with the main route:** How Steps 1 and 2 combine with Visit 1, and how Visit 0 sits next to Step 1.
+6. **Gold ledger:** The author is calculating the expected gp across Visits 0 and 1, covering the income (quests, silk and pearl sales) and the spending (shopping, fares, Varrock runes). It is needed before the Varrock purchase and any Stronghold of Security fallback.
 
 ---
 
@@ -447,11 +436,6 @@ Firemaking 50 is the target of `2.54`. Woodcutting 48 assumes the lower end of t
 - Mudfoot's Big Adventure quick guide: https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide
 - The Ides of Milk quick guide: https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide
 - Hazeel Cult quick guide: https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide
-- Witch's House quick guide: https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide
-- Waterfall Quest quick guide: https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide
-- Tree Gnome Village quick guide: https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide
-- Fight Arena quick guide: https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide
 - Cowbell amulet: https://oldschool.runescape.wiki/w/Cowbell_amulet
 - Wind Strike: https://oldschool.runescape.wiki/w/Wind_Strike
-- Glarial's pebble: https://oldschool.runescape.wiki/w/Glarial%27s_pebble
 - Hardcore Worlds: https://oldschool.runescape.wiki/w/Hardcore_main

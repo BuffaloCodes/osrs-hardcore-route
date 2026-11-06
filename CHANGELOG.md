@@ -8,6 +8,7 @@ Work on `chapters/Step0_Hardening_v0.03.md`, `tools/lint_guide.py` and `README.m
 - Applied the author's answers to Visit 2: removed the Sunbeam ale, gem store and visit-ending steps (the visit now ends at `2.71`, and `2.71`+ renumbered), set 400 mind runes at `2.26`, dropped the Gary or Sue wording at `2.53`, and replaced the jaguar and funds TBDs.
 - Level table: Slayer 9 and Hunter 13 from the Museum History Quiz, so total level is 258.
 - Deleted `VISIT2_VERIFICATION.md`, now that its open items are settled.
+- Cleaned stale references to the removed visits: itinerary rows for Visits 3 to 6, the Visit 4 order note, the Witch's House, Waterfall, Tree Gnome Village, Fight Arena and pebble sources, and the resolved open items that only concerned those visits (open items renumbered 1 to 6).
 
 
 ## 6 November 2026 (v0.03 working draft)
