@@ -4,6 +4,14 @@ Work on `chapters/Step0_Hardening_v0.02.md`, `tools/lint_guide.py` and `README.m
 
 ## 5 November 2026 (v0.02 working draft)
 
+### Risk data synced to the guide
+
+- `data/risk_data.csv` is populated by the author and now has only `id`, `visit`, `enemy`, `context`, `max_hit` and `safespot_or_tactic` (dropped `level`, `hp_gate`, `source_url`, `status`).
+- Every `[RISK: ...]` tag and combat-table Max hit cell now carries the CSV number. Wilderness level 51 is 99, meaning any hit can be fatal. The Witch's experiment tag uses 5, the worst form.
+- Added a failed pickpocket tag at `1.04` and rows for failed pickpockets and the Draynor rooftop course to the Visit 1 table.
+- Linter: a risk tag now passes if any matching combat-table row has its max hit, so one tag can cover several rows.
+- The Level and Food / HP gate columns in the guide tables are unchanged. Remaining `TBD` levels and gates are still open.
+
 ### Cleanup from CLAUDE_Qs answers
 
 - Cut bloat: struck-through text, the Ring of Life note, the Visit 1 notes that repeated other text, the five non-route rewards lines, and the Visit 0 and Visit 1 carry-forward blocks. Merged the gold text and shortened the Thieving note and footnotes.

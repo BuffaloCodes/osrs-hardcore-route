@@ -13,7 +13,7 @@ Checks
   6. Any Rewards block mentioning a lamp has a **Decision:** line.
   7. Numbers of four or more digits have thousands separators, "gp" is lowercase, "XP" is capitalised.
   8. Every [RISK: enemy (max hit)] tag appears as a row in that visit's combat table, and its
-     max hit matches that row's Max hit cell. Tags may be written as plain text or in the bold red
+     max hit matches the Max hit cell of a matching row. Tags may be written as plain text or in the bold red
      form $\color{red}{\textbf{[RISK: enemy (max hit)]}}$.
   9. No "Quest Helper" or "follow the Quick Guide" boilerplate.
  10. Every "(Optional)" / "(optional ...)" mention is italicised.
@@ -184,18 +184,17 @@ def main(path):
             max_hit = parsed.group(2).strip().lower()
             lo = next((k for k in range(len(lines)) if visit_of.get(k) == v), None)
             hi = max((k for k in range(len(lines)) if visit_of.get(k) == v), default=None)
-            row = None
+            matches = []
             if lo is not None:
                 for k in range(lo, hi + 1):
                     if lines[k].startswith("|"):
                         cells = [c.strip().lower() for c in lines[k].split("|")[1:-1]]
                         if len(cells) >= 3 and enemy in cells[0]:
-                            row = cells
-                            break
-            if row is None:
+                            matches.append(cells)
+            if not matches:
                 err(i + 1, f"[RISK: {m.group(1)}] has no row in visit {v}'s combat table")
-            elif max_hit not in row[2]:
-                err(i + 1, f"[RISK: {m.group(1)}] max hit does not match the combat table ('{row[2]}')")
+            elif not any(max_hit in r[2] for r in matches):
+                err(i + 1, f"[RISK: {m.group(1)}] max hit does not match the combat table ('{matches[0][2]}')")
 
     # Pass 9 and 10: banned boilerplate, optional choices italicised.
     for i, raw in enumerate(lines):

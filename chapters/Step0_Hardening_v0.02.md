@@ -40,24 +40,24 @@ Visit 4 comes before the maze because the wiki's Quick Guide lists the pebble af
 
 | Enemy | Level | Max hit | Safespot / tactic | Food / HP gate |
 |-------|-------|---------|-------------------|----------------|
-| Wilderness level 51 (Deserted Keep) | n/a | TBD | None. Pull the lever on arrival and do not move. The Ring of Life does not work here | TBD (deferred) |
+| Wilderness level 51 (Deserted Keep) | n/a | 99 (any hit can be fatal) | None. Pull the lever on arrival and do not move. The Ring of Life does not work here | TBD (deferred) |
 | Ardougne guard | TBD | 3 | Bakery Stall: stand underneath the Baker while stealing. Silk Stall: no safespot | TBD (deferred) |
 | Hero | TBD | 9 | Same as the guard | TBD (deferred) |
 | Paladin | TBD | 8 | Same as the guard | TBD (deferred) |
-| Thieves (stone circle den) | 14 / 14 / 26 | TBD | Run past, do not fight | TBD (deferred) |
+| Thieves (stone circle den) | 14 / 14 / 26 | 3 | Run past, do not fight | TBD (deferred) |
 | Sea slug (Fishing Platform) | n/a | 3 (only when picked up) | Do not pick up the sea slugs | TBD (deferred) |
 | Giant rats (Ardougne Sewers, 8x) | TBD | 1 | Only met if the staircase trap is triggered | TBD (deferred) |
 | Zombies (Ardougne Sewers, 3x) | TBD | 3 | Only met if the staircase trap is triggered | TBD (deferred) |
-| Jungle spiders (Brimhaven) | TBD | 6 | TBD | TBD (deferred) |
+| Jungle spiders (Brimhaven) | TBD | 6 | Avoid them | TBD (deferred) |
 
 - [ ] `0.01` Spawn in Death's Office (in Lumbridge if post-Reset), activate your Escape Crystal to function as a Ring of Life, and equip it in your ring slot
 - [ ] `0.02` Bank all items, withdraw the bronze axe, grab 1x log, then go downstairs [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
 - [ ] `0.03` Take the empty jug from the kitchen and fill it with water [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
 - [ ] `0.04` Minigame teleport to Soul Wars and leave through the Edgeville portal
-- [ ] `0.05` $\color{red}{\textbf{[RISK: Wilderness level 51 (TBD)]}}$ Use the Edgeville Wilderness lever to be transported to the Deserted Keep (level 51 Wilderness). This is the riskiest step in the visit, so it goes first, before more time is invested in the account
-- [ ] `0.06` $\color{red}{\textbf{[RISK: Wilderness level 51 (TBD)]}}$ Pull the Deserted Keep lever straight away and choose Ardougne
-- [ ] `0.07` $\color{red}{\textbf{[RISK: Wilderness level 51 (TBD)]}}$ Use the Ardougne lever to teleport back to the Deserted Keep (Ardougne Diary, Easy 1/10)
-- [ ] `0.08` $\color{red}{\textbf{[RISK: Wilderness level 51 (TBD)]}}$ Pull the Deserted Keep lever again and choose Ardougne
+- [ ] `0.05` $\color{red}{\textbf{[RISK: Wilderness level 51 (99)]}}$ Use the Edgeville Wilderness lever to be transported to the Deserted Keep (level 51 Wilderness). This is the riskiest step in the visit, so it goes first, before more time is invested in the account
+- [ ] `0.06` $\color{red}{\textbf{[RISK: Wilderness level 51 (99)]}}$ Pull the Deserted Keep lever straight away and choose Ardougne
+- [ ] `0.07` $\color{red}{\textbf{[RISK: Wilderness level 51 (99)]}}$ Use the Ardougne lever to teleport back to the Deserted Keep (Ardougne Diary, Easy 1/10)
+- [ ] `0.08` $\color{red}{\textbf{[RISK: Wilderness level 51 (99)]}}$ Pull the Deserted Keep lever again and choose Ardougne
 - [ ] `0.09` Start [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)]: talk to Ceril Carnillean in East Ardougne, just north of the clock tower
 - [ ] `0.10` Complete [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] in full, siding with Hazeel
 
@@ -81,7 +81,7 @@ Visit 4 comes before the maze because the wiki's Quick Guide lists the pebble af
 - [ ] `0.19` $\color{red}{\textbf{[RISK: Ardougne guard (3)]}}$ $\color{red}{\textbf{[RISK: Hero (9)]}}$ $\color{red}{\textbf{[RISK: Paladin (8)]}}$ Keep stealing from the Bakery Stall until you have banked at least 14x bread and as many cakes as you get up to level 20 Thieving, then bank all the food *(steal extra cakes here if you chose cakes for the gold top-up)*
 - [ ] `0.20` $\color{red}{\textbf{[RISK: Ardougne guard (3)]}}$ $\color{red}{\textbf{[RISK: Hero (9)]}}$ $\color{red}{\textbf{[RISK: Paladin (8)]}}$ Steal 84x silk from the Silk Stall (there is no safespot here), *plus extra silk if you chose silk for the gold top-up* (leaves you at about level 23 Thieving, see the Visit 0 Notes)
 - [ ] `0.21` Run to the Ardougne Monastery and Start [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: talk to Brother Omad
-- [ ] `0.22` $\color{red}{\textbf{[RISK: Thieves (TBD)]}}$ Complete [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)] in full
+- [ ] `0.22` $\color{red}{\textbf{[RISK: Thieves (3)]}}$ Complete [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)] in full
 
 > **Rewards:**
 > - 1 quest point and 2,000 Woodcutting XP
@@ -153,15 +153,17 @@ Firemaking is the lower end of the 36 to 39 estimate and depends on the log mix 
 
 | Enemy | Level | Max hit | Safespot / tactic | Food / HP gate |
 |-------|-------|---------|-------------------|----------------|
-| Ranger outlaw | 6 | not listed | none listed | TBD (deferred) |
-| Mage outlaw | 6 | not listed | none listed | TBD (deferred) |
-| Final outlaw | 8 | not listed | Uses Protect from Melee after your first hit, so bring Magic or Ranged. Very low levels can run around the graveyard until it aggros Mudfoot instead. | TBD (deferred) |
+| Ranger outlaw | 6 | 2 | none listed | TBD (deferred) |
+| Mage outlaw | 6 | 2 | none listed | TBD (deferred) |
+| Final outlaw | 8 | 2 | Uses Protect from Melee after your first hit, so bring Magic or Ranged. Very low levels can run around the graveyard until it aggros Mudfoot instead. | TBD (deferred) |
+| Failed pickpocket (man or woman) | n/a | 1 | None. Only a failed attempt hurts | TBD (deferred) |
+| Draynor Village Rooftop Course fall | n/a | 0 | The course cannot be failed | TBD (deferred) |
 | Brutus | not listed | specials up to 19, cannot be prayed against | Feed-trough safespot to the south (tested in-game by the author: no damage taken and no need to dodge the specials) | TBD (deferred) |
 
 - [ ] `1.01` Grab 1x knife, 1x jug, 2x bucket, 1x cabbage and 1x leather boots, then fill the jug with water
 - [ ] `1.02` Start [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)]: talk to Duke Horacio upstairs in Lumbridge Castle and take the air talisman he gives you
 - [ ] `1.03` Talk to Hans to learn your age (Lumbridge & Draynor Diary, Easy 1/12)
-- [ ] `1.04` Pickpocket a man or woman in Lumbridge (Lumbridge & Draynor Diary, Easy 2/12)
+- [ ] `1.04` $\color{red}{	extbf{[RISK: Failed pickpocket (1)]}}$ Pickpocket a man or woman in Lumbridge (Lumbridge & Draynor Diary, Easy 2/12)
 - [ ] `1.05` Talk to Veos in The Sheared Ram pub to Start [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]
 - [ ] `1.06` Talk to Captain Harlan outside the Lumbridge General Store to Start [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]
 - [ ] `1.07` *(Optional)* Claim the bronze shortsword and wooden shield from Captain Harlan
@@ -171,12 +173,12 @@ Firemaking is the lower end of the 36 to 39 estimate and depends on the log mix 
 - [ ] `1.11` Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: return to the general store and confront the outlaw roaming outside (cutscene)
 - [ ] `1.12` Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: walk north along the road to the chicken field (second meeting, Mudfoot is south of the windmill)
 - [ ] `1.13` Talk to Cassius at the Lumbridge pond, just south of the windmill, to Start [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]
-- [ ] `1.14` $\color{red}{\textbf{[RISK: Ranger outlaw (not listed)]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the ranger outlaw and loot the shortbow and bronze arrows
+- [ ] `1.14` $\color{red}{\textbf{[RISK: Ranger outlaw (2)]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the ranger outlaw and loot the shortbow and bronze arrows
 - [ ] `1.15` Continue [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]: go to the back exit of Lumbridge Castle and dig
 - [ ] `1.16` Kill a giant rat and collect the raw meat and bones
-- [ ] `1.17` $\color{red}{\textbf{[RISK: Mage outlaw (not listed)]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the mage outlaw by the H.A.M. hideout and loot the staff and runes
+- [ ] `1.17` $\color{red}{\textbf{[RISK: Mage outlaw (2)]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the mage outlaw by the H.A.M. hideout and loot the staff and runes
 - [ ] `1.18` Keep the staff and the 80x air runes and 80x mind runes (Wind Strike ammunition) [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)] [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)] [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]
-- [ ] `1.19` $\color{red}{\textbf{[RISK: Final outlaw (not listed)]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the final outlaw at the Lumbridge graveyard, south-east of the hideout, with Magic or Ranged gear *(or poison)*
+- [ ] `1.19` $\color{red}{\textbf{[RISK: Final outlaw (2)]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the final outlaw at the Lumbridge graveyard, south-east of the hideout, with Magic or Ranged gear *(or poison)*
 - [ ] `1.20` Buy 1x steel axe from Bob
 - [ ] `1.21` Continue [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]: dig on the tile north of the north-western window of Bob's house
 - [ ] `1.22` Complete [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: report to Captain Harlan at the general store
@@ -295,10 +297,10 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 
 | Enemy | Level | Max hit | Safespot / tactic | Food / HP gate |
 |-------|-------|---------|-------------------|----------------|
-| Dark wizard (outside Varrock) | TBD | TBD | Avoid them. Do not fight | TBD (deferred) |
+| Dark wizard (outside Varrock) | TBD | 6 | Avoid them. Do not fight | TBD (deferred) |
 
 - [ ] `2.01` Use the Chronicle to teleport to Varrock (check your gp stack first, see the Visit 2 Notes)
-- [ ] `2.02` $\color{red}{\textbf{[RISK: Dark wizard (TBD)]}}$ Walk to Aubury's rune shop in Varrock, avoiding the Dark wizards outside the city
+- [ ] `2.02` $\color{red}{\textbf{[RISK: Dark wizard (6)]}}$ Walk to Aubury's rune shop in Varrock, avoiding the Dark wizards outside the city
 - [ ] `2.03` Buy 6x air runes, 6x earth runes and 6x water runes [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] from Aubury's rune shop
 
 > **Visit 2 Notes:**
@@ -317,7 +319,7 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 - [ ] `3.07` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: drop cheese to lure out a mouse, then use the magnet on the mouse
 - [ ] `3.08` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: cross the garden to the fountain without being caught by the Witch (use the hedges, do not walk on the grass, keep full run energy)
 - [ ] `3.09` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: check the fountain, then use the key on the shed door on the east side. Do not take the ball yet
-- [ ] `3.10` $\color{red}{\textbf{[RISK: Witch's experiment (not listed)]}}$ Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: kill the experiment in all four forms (fleeing resets to form 1)
+- [ ] `3.10` $\color{red}{\textbf{[RISK: Witch's experiment (5)]}}$ Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: kill the experiment in all four forms (fleeing resets to form 1)
 - [ ] `3.11` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: take the ball and leave by teleport or through the garden and front door
 - [ ] `3.12` Complete [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: give the ball to the Boy
 
@@ -330,10 +332,10 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 
 | Enemy | Level | Max hit | Safespot / tactic | Food / HP gate |
 |-------|-------|---------|-------------------|----------------|
-| Witch's experiment, form 1 (Skavid) | 19 | not listed | Step under it from the north-eastern corner until it moves north, then Magic from one tile south-west | TBD (deferred) |
-| Witch's experiment, form 2 (spider) | 30 | not listed | Same as form 1 | TBD (deferred) |
-| Witch's experiment, form 3 (bear) | 42 | not listed | Safespot from the south of the shed, past the ball | TBD (deferred) |
-| Witch's experiment, form 4 (wolf) | 53 | not listed | Same as form 3 | TBD (deferred) |
+| Witch's experiment, form 1 (Skavid) | 19 | 2 | Step under it from the north-eastern corner until it moves north, then Magic from one tile south-west | TBD (deferred) |
+| Witch's experiment, form 2 (spider) | 30 | 3 | Same as form 1 | TBD (deferred) |
+| Witch's experiment, form 3 (bear) | 42 | 4 | Safespot from the south of the shed, past the ball | TBD (deferred) |
+| Witch's experiment, form 4 (wolf) | 53 | 5 | Same as form 3 | TBD (deferred) |
 
 **Carry-forward after Visit 3:** staff, 80x air runes, 80x mind runes, 6x logs, 5x coins, 1x rope, 6x air runes, 6x earth runes, 6x water runes, food.
 
@@ -363,7 +365,7 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 - [ ] `5.08` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: fire the ballista in the south-west corner of the battlefield, past the bridge, and enter the coordinates
 - [ ] `5.09` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: climb over the crumbled wall at the stronghold north of the village *(ignore or kill the Khazard commanders)*, climb the ladder, search the chest, and take the first orb of protection
 - [ ] `5.10` Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: leave by the front door, talk to Elkoy, then to King Bolren (choose "I will find the warlord and bring back the orbs.")
-- [ ] `5.11` $\color{red}{\textbf{[RISK: Khazard warlord (not listed)]}}$ Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: find the warlord north-west of the battlefield, below West Ardougne, and kill him for the remaining orbs
+- [ ] `5.11` $\color{red}{\textbf{[RISK: Khazard warlord (10)]}}$ Continue [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: find the warlord north-west of the battlefield, below West Ardougne, and kill him for the remaining orbs
 - [ ] `5.12` Complete [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]: return the orbs to King Bolren
 
 > **Rewards:**
@@ -375,10 +377,10 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 - [ ] `5.14` Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: enter the south-east room with the jails and talk to the Head Guard in the southernmost jail room, near the staircase. Skipping this removes the Khali brew option later
 - [ ] `5.15` Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: leave the arena, go to the western bar, and buy a Khali brew for 5 coins from the Khazard Barman
 - [ ] `5.16` Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: return to the jail and talk to the guard for the keys, then use the keys on Sammy's cell door (the most north-eastern cell)
-- [ ] `5.17` $\color{red}{\textbf{[RISK: Khazard ogre (not listed)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill the Khazard ogre (talk to Justin if the fight does not start)
-- [ ] `5.18` $\color{red}{\textbf{[RISK: Khazard scorpion (not listed)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: talk to your cellmate Hengrad and kill the Khazard scorpion
-- [ ] `5.19` $\color{red}{\textbf{[RISK: Bouncer (not listed)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill the Bouncer
-- [ ] `5.20` *(Optional)* $\color{red}{\textbf{[RISK: General Khazard (not listed)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill General Khazard, *or skip him by running through the south-east door of the arena or north until he stops being aggressive*
+- [ ] `5.17` $\color{red}{\textbf{[RISK: Khazard ogre (8)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill the Khazard ogre (talk to Justin if the fight does not start)
+- [ ] `5.18` $\color{red}{\textbf{[RISK: Khazard scorpion (5)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: talk to your cellmate Hengrad and kill the Khazard scorpion
+- [ ] `5.19` $\color{red}{\textbf{[RISK: Bouncer (13)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill the Bouncer
+- [ ] `5.20` *(Optional)* $\color{red}{\textbf{[RISK: General Khazard (9)]}}$ Continue [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: kill General Khazard, *or skip him by running through the south-east door of the arena or north until he stops being aggressive*
 - [ ] `5.21` Complete [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: return to Lady Servil
 
 > **Rewards:**
@@ -390,11 +392,11 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 
 | Enemy | Level | Max hit | Safespot / tactic | Food / HP gate |
 |-------|-------|---------|-------------------|----------------|
-| Khazard warlord | 112 | not listed | Start the fight, walk west until he de-aggros near the large dead tree, step slightly south and attack from outside his aggro range. He gets caught between the West Ardougne wall and the northern dead tree. Melee: step in and out of his range beside the large skull to the south. | TBD (deferred) |
-| Khazard ogre | 63 | not listed | Safespot behind a nearby skeleton with Magic, Ranged or a halberd | TBD (deferred) |
-| Khazard scorpion | 44 | not listed | Run to the safespot or use Protect from Melee at once | TBD (deferred) |
-| Bouncer | 137 | not listed | Same approach as the scorpion. Once the General Khazard fight starts you cannot re-enter the arena | TBD (deferred) |
-| General Khazard | 142 | not listed | Magic safespot (wiki image caption), *or skip him* | TBD (deferred) |
+| Khazard warlord | 112 | 10 | Start the fight, walk west until he de-aggros near the large dead tree, step slightly south and attack from outside his aggro range. He gets caught between the West Ardougne wall and the northern dead tree. Melee: step in and out of his range beside the large skull to the south. | TBD (deferred) |
+| Khazard ogre | 63 | 8 | Safespot behind a nearby skeleton with Magic, Ranged or a halberd | TBD (deferred) |
+| Khazard scorpion | 44 | 5 | Run to the safespot or use Protect from Melee at once | TBD (deferred) |
+| Bouncer | 137 | 13 | Same approach as the scorpion. Once the General Khazard fight starts you cannot re-enter the arena | TBD (deferred) |
+| General Khazard | 142 | 9 | Magic safespot (wiki image caption), *or skip him* | TBD (deferred) |
 
 **Carry-forward after Visit 5:** Glarial's pebble, 1x rope, 6x air runes, 6x earth runes, 6x water runes, staff, spare Wind Strike runes, food.
 
@@ -407,7 +409,7 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 - [ ] `6.03` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: go west and search the chest for Glarial's amulet *(drop and pick it up again if you need extras)*, then go the other way and search the tomb for Glarial's urn
 - [ ] `6.04` Bank, then withdraw the rope, the 6x air, 6x water and 6x earth runes, Glarial's amulet, Glarial's urn and food [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)] (weapons and armour are allowed in the dungeon)
 - [ ] `6.05` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: board the raft, use the rope on the rock across the water to the south, then on the dead tree. Do not enter the barrel
-- [ ] `6.06` $\color{red}{\textbf{[RISK: Fire Giants (not listed)]}}$ Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: with Glarial's amulet carried or equipped, enter the doorway, take the right path and search the northernmost crates for a key
+- [ ] `6.06` $\color{red}{\textbf{[RISK: Fire Giants (11)]}}$ Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: with Glarial's amulet carried or equipped, enter the doorway, take the right path and search the northernmost crates for a key
 - [ ] `6.07` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: return to the left side, avoid the fire giants, and use the key on the door
 - [ ] `6.08` Continue [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: in the chalice room place 1x air rune, 1x water rune and 1x earth rune on each pillar, then put Glarial's amulet on her statue
 - [ ] `6.09` Complete [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)]: do not click "Take treasure" (it washes you out). Use Glarial's urn on the chalice with 5 free inventory slots
@@ -421,7 +423,7 @@ Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws,
 | Enemy | Level | Max hit | Safespot / tactic | Food / HP gate |
 |-------|-------|---------|-------------------|----------------|
 | Moss Guardians | 84 | 14 | Glarial's Tomb is single-way combat, so start a fight with a skeleton first | TBD (deferred) |
-| Fire Giants | 86 | not listed | Avoid the left side and slip past without engaging. Killing one counts toward a medium Kandarin diary task | TBD (deferred) |
+| Fire Giants | 86 | 11 | Avoid the left side and slip past without engaging. Killing one counts toward a medium Kandarin diary task | TBD (deferred) |
 
 ---
 
