@@ -10,7 +10,7 @@ Work on `chapters/Step0_Hardening_v0.02.md`, `tools/lint_guide.py` and `README.m
 - Every `[RISK: ...]` tag and combat-table Max hit cell now carries the CSV number. Wilderness level 51 is 99, meaning any hit can be fatal. The Witch's experiment tag uses 5, the worst form.
 - Added a failed pickpocket tag at `1.04` and rows for failed pickpockets and the Draynor rooftop course to the Visit 1 table.
 - Linter: a risk tag now passes if any matching combat-table row has its max hit, so one tag can cover several rows.
-- The Level and Food / HP gate columns in the guide tables are unchanged. Remaining `TBD` levels and gates are still open.
+- Removed the Food / HP gate column from every combat table, and the Draynor rooftop row from the Visit 1 table and the CSV, since the course cannot hurt you. The Level column stays, with some `TBD` levels still open.
 
 ### Cleanup from CLAUDE_Qs answers
 
@@ -71,7 +71,7 @@ Work on `chapters/Step0_Hardening_v0.02.md`, `tools/lint_guide.py` and `README.m
 - Confirm the 5,000 gp target covers the Varrock runes (note left on `0.33`), and finish the gold ledger.
 - Decide whether to keep the carry-forward sections.
 - Fill the 17 `[add which quests need these]` placeholders in Visits 0 and 1.
-- Fill the TBD levels and max hits and the whole "Food / HP gate" column in the combat tables. Idea: a separate NPC data file that fills the tables.
+- Fill the remaining TBD levels in the combat tables.
 - Move Varrock (`1.71`, `1.72`) into Visit 2 and update the Visit 1 Goal, itinerary row and notes. Taverley moves to a later visit.
 - Add a risk tag and combat-table row for the Dark wizards outside Varrock (`1.71`).
 - Convert the pending bracket notes (`BUFFALODAD...`, `UNSURE...`, `THIS SHOULD END VISIT 1...`) once resolved.
