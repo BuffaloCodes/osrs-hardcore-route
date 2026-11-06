@@ -2,6 +2,15 @@
 
 Work on `chapters/Chapter0.md`, `tools/lint_guide.py` and `README.md`. Newest first. Commit hashes are in brackets. Wiki facts were checked against the OSRS Wiki on 5 November 2026.
 
+## 6 November 2026 (Visit 3 draft)
+
+- Converted the author's rough Visit 3 draft into the standard Visit structure in `chapters/Chapter0.md`: Goal, diary line, combat table, 40 checkbox steps (`3.01` to `3.40`), Rewards blocks and Visit 3 Notes. Added a Visit 3 row to the itinerary table.
+- Fixed typos (spade, peninsula, glider, Wizards' Tower, Gypsy Aris) and put every risk tag in the `[RISK: Enemy (max hit)]` form. The `DANGEROUS` and bare `RISK` variants are gone.
+- Applied the author's answers: Demon Slayer lamps go on Hitpoints, one bucket is enough for Plague City, the eye of newt comes from the bank, Construction ends at level 12, the Castle Wars teleport stays, and the Chronicle is the teleport towards Varrock.
+- Checked the Rewards blocks for Rune Mysteries, Witch's Potion, Tree Gnome Village, Fight Arena, The Grand Tree, Plague City, Biohazard and Demon Slayer against the OSRS Wiki. Corrections to my first draft: Rune Mysteries gives 500 Runecraft XP, and Fight Arena gives 2,175 Thieving XP and the Khazard armour set. Added the other rewards the wiki lists (gnome amulet, glider, Ardougne teleport scroll, Combat Training Camp, West Ardougne gate). Demon Slayer's two 1,000 XP combat lamps are confirmed.
+- Quest points after Visit 3 are 37 (19 + 18).
+- Not done: max hits (all `TBD`), the estimated levels table, diary names and counts, and the order of the steps after `3.40`. `data/risk_data.csv` has no Visit 3 rows yet.
+
 ## 6 November 2026 (notes sweep)
 
 - Swept `chapters/Chapter0.md` end to end and rewrote the three notes files. `notes/Open_Items.md` now has 21 numbered items (guide fixes, author decisions, supplies, data) plus a table of every quest's state at `2.71`. `notes/Sources.md` lists every wiki page the guide cites, the author-tested facts and the reference guides. `notes/Questions.md` is split into 10 open questions and the answered ones.

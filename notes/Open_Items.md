@@ -79,6 +79,32 @@ Running list for `chapters/Chapter0.md`. Last swept against the guide on 6 Novem
 
 Quest points at `2.71`: 19, including the 1 from Tutorial Island.
 
+## Visit 3 (drafted 6 November 2026, steps `3.01` to `3.40`)
+
+22. **Max hits:** Every max hit in the Visit 3 combat table and `[RISK: ...]` tag is `TBD`: Hobgoblin, Bear, maze monsters, Khazard commander, Khazard warlord, Fight Arena enemies, Spider, Jogre and Delrith. Fill them in from the wiki and add matching rows to `data/risk_data.csv`.
+23. **Levels table:** "Estimated levels after Visit 3" is a placeholder. It needs the verified quest XP (Attack from Tree Gnome Village, Fight Arena and The Grand Tree, Agility, Magic, Mining, Thieving and Runecraft), the Demon Slayer lamps on Hitpoints, the Construction 12 result and the cow combat XP. Total level is not calculated.
+24. **Diary tasks:** The diary line names the Gnome Agility Course lap (`3.18`) and the Hunter Emporium (`3.23`), but not the diary or the count. The gnomeball goal (`3.21`) may also be a diary task.
+25. **Castle Wars direction:** `3.14` says head north towards the Tree Gnome Village. The author is verifying the direction.
+26. **Maze risk:** The monsters in the Tree Gnome Village maze (`3.15`) are still to be analysed.
+27. **Purchases with no consumer yet:** Feathers and arrow shafts (`3.02`), and the swamp toad (`3.20`) are not used in Visit 3. Check them against later visits.
+28. **After `3.40`:** The next quest is not named, and the list of steps after it (Agility 50 and Bull Sharks, 36,512 Thieving XP, Death on the Isle, Brutus training, Black Knights' Fortress, Witch's House, The Feud, Thieving 50 and the Rogue outfit) is unordered. Death on the Isle and Brutus training have requirements to check first.
+29. **Stale risk data:** The old Visit 3 rows in `data/risk_data.csv` (Witch's experiment) belong to the removed Visit 3, not this one. Item 20 covers them.
+
+### Quests completed in Visit 3
+
+| Quest | Started | Complete |
+|-------|---------|----------|
+| Rune Mysteries | `1.02` | `3.06` |
+| Witch's Potion | `3.08` | `3.08` |
+| Tree Gnome Village | `3.15` | `3.16` |
+| Fight Arena | `3.24` | `3.24` |
+| The Grand Tree | `3.22` | `3.38` |
+| Plague City | `3.31` | `3.31` |
+| Biohazard | `3.32` | `3.39` |
+| Demon Slayer | `2.07` | `3.35` |
+
+Quest points after Visit 3: 37. Quest rewards were checked against the wiki on 6 November 2026.
+
 ## Resolved
 
 - **Combat tables:** Filled from `data/risk_data.csv` for Visits 0 to 2.
