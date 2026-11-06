@@ -1,0 +1,28 @@
+id,visit,enemy,context,level,max_hit,hp_gate,safespot_or_tactic,source_url,status
+wilderness-51,0,Wilderness level 51 (Deserted Keep),Steps 0.05-0.08,n/a,,,Pull the lever on arrival and do not move. Ring of Life does not work here,,needs max hit
+ardougne-guard,0,Ardougne guard,Bakery and Silk stalls,,3,,Bakery Stall: stand under the Baker. Silk Stall: no safespot,,needs level and gate
+hero,0,Hero,Bakery and Silk stalls,,9,,Same as the guard,,needs level and gate
+paladin,0,Paladin,Bakery and Silk stalls,,8,,Same as the guard,,needs level and gate
+thieves-den,0,Thieves (stone circle den),Monk's Friend,14 / 14 / 26,,,Run past and do not fight,,needs max hit and gate
+sea-slug,0,Sea slug (Fishing Platform),Sea Slug,n/a,3,,Do not pick up the sea slugs,,needs gate
+giant-rat-sewer,0,Giant rats (Ardougne Sewers x8),Tribal Totem staircase trap,,1,,Only met if the staircase trap is triggered,,needs level and gate
+zombie-sewer,0,Zombies (Ardougne Sewers x3),Tribal Totem staircase trap,,3,,Only met if the staircase trap is triggered,,needs level and gate
+jungle-spider,0,Jungle spiders (Brimhaven),Tribal Totem,,6,,,,needs level and safespot
+ranger-outlaw,1,Ranger outlaw,Mudfoot's Big Adventure,6,,,,,needs max hit and gate
+mage-outlaw,1,Mage outlaw,Mudfoot's Big Adventure,6,,,,,needs max hit and gate
+final-outlaw,1,Final outlaw,Mudfoot's Big Adventure,8,,,Protects from Melee after your first hit so use Magic or Ranged,,needs max hit and gate
+brutus,1,Brutus,The Ides of Milk,,19,,Feed-trough safespot to the south (tested in-game),,needs level and gate
+draynor-rooftop-fall,1,Draynor Village Rooftop Course fall,Step 1.36 (Agility 1 to 5),n/a,,,,,needs max hit and gate
+pickpocket-failure,1,Failed pickpocket (man or woman),Step 1.04,n/a,,,,,needs max hit and gate
+dark-wizard,2,Dark wizard (outside Varrock),Step 2.02,,,,Avoid them,,needs level and max hit
+witch-experiment-1,3,Witch's experiment form 1 (Skavid),Witch's House,19,,,Step under it from the north-eastern corner until it moves north then Magic from one tile south-west,,needs max hit and gate
+witch-experiment-2,3,Witch's experiment form 2 (spider),Witch's House,30,,,Same as form 1,,needs max hit and gate
+witch-experiment-3,3,Witch's experiment form 3 (bear),Witch's House,42,,,Safespot from the south of the shed past the ball,,needs max hit and gate
+witch-experiment-4,3,Witch's experiment form 4 (wolf),Witch's House,53,,,Same as form 3,,needs max hit and gate
+khazard-warlord,5,Khazard warlord,Tree Gnome Village,112,,,See the combat table,,needs max hit and gate
+khazard-ogre,5,Khazard ogre,Fight Arena,63,,,Safespot behind a nearby skeleton,,needs max hit and gate
+khazard-scorpion,5,Khazard scorpion,Fight Arena,44,,,Run to the safespot or Protect from Melee,,needs max hit and gate
+bouncer,5,Bouncer,Fight Arena,137,,,Same approach as the scorpion,,needs max hit and gate
+general-khazard,5,General Khazard,Fight Arena (optional),142,,,Magic safespot or skip him,,needs max hit and gate
+moss-guardian,6,Moss Guardians,Waterfall Quest,84,14,,Start a fight with a skeleton first,,needs gate
+fire-giant,6,Fire Giants,Waterfall Quest,86,,,Avoid the left side and slip past,,needs max hit and gate

@@ -10,53 +10,60 @@ Lines 1–310 currently have 17 [add which quests need these] placeholders, 27 T
 Bloat to cut
 
 
-"Visit-specific notes are at the bottom" (30, 153): delete both. It isn't true, and the notes are obvious.
-Visit 0 gold text: the Gold paragraph (34), the Clock Tower removed note (124) and the Gold top-up note (125-127) cover the same ground. The Clock Tower reasoning is now in the changelog, so cut line 124, merge the other two, and keep the 500 gp fact in one place.
-Thieving note (123) and the Estimated levels footnote (146): the XP maths is long and repeats itself. Keep the 21 Thieving gate for Tribal Totem and the level 20 target, and drop the rest.
+"Visit-specific notes are at the bottom" (30, 153): delete both. It isn't true, and the notes are obvious. [VISIT SPECIFIC NOTES ARE AT THE BOTTOM OF EACH VISIT SECTION // I WILL INSTEAD TRIM THE NOTES DOWN THAN REMOVE THIS SUB-HEADING]
+Visit 0 gold text: the Gold paragraph (34), the Clock Tower removed note (124) and the Gold top-up note (125-127) cover the same ground. The Clock Tower reasoning is now in the changelog, so cut line 124, merge the other two, and keep the 500 gp fact in one place. [LINE 124 CUT // CLAUDE TO MAKE THE OTHER ADJUSTMENTS]
+Thieving note (123) and the Estimated levels footnote (146): the XP maths is long and repeats itself. Keep the 21 Thieving gate for Tribal Totem and the level 20 target, and drop the rest. [CLAUDE TO MAKE THESE CHANGES]
+
 Visit 1 notes that repeat other text:
-Air talisman (281) is trivial.
-Unfinished quests (282) repeats the Goal.
-Leather gloves (283) repeats 1.27, 2.05 and open item 3.
-Gold ledger (287), Merge with main route (288) and Risk review pending (289) duplicate open items 7 and 8.
-The home teleport note (285) duplicates the text of 1.56.
-Rewards bullets that don't affect the route: 5 Kudos (67), goats on Wyrmscraig (76), Omad's parties (91), Hazeel's mark (66), the ghostspeak "keep it" line (246).
-0.33 (109) is one huge step. Split it into sell silk, sell pearls and cakes, and the gold target. It currently holds two bracket notes.
-Duplicates: the Ring of Life note (120) repeats the combat-table row (42). The ~~Block~~ and struck-through Status text (1, 9) look like leftovers.
-Carry-forward lists (129, 291): your call. The Visit 1 one is about 700 characters.
+Air talisman (281) is trivial. [CLAUDE REMOVE]
+Unfinished quests (282) repeats the Goal. [CLAUDE REMOVE]
+Leather gloves (283) repeats 1.27, 2.05 and open item 3. [CLAUDE REMOVE]
+Gold ledger (287), Merge with main route (288) and Risk review pending (289) duplicate open items 7 and 8. [CLAUDE TO FIX]
+The home teleport note (285) duplicates the text of 1.56. [CLAUDE TO FIX // KEEP THE STEP, REMOVE THE NOTE]
+Rewards bullets that don't affect the route: 5 Kudos (67), goats on Wyrmscraig (76), Omad's parties (91), Hazeel's mark (66), the ghostspeak "keep it" line (246). [CLAUDE TO REMOVE THOSE REWARDS LINES]
+0.33 (109) is one huge step. Split it into sell silk, sell pearls and cakes, and the gold target. It currently holds two bracket notes. [THE LENGTH OF THE STEPS IS OKAY]
+Duplicates: the Ring of Life note (120) repeats the combat-table row (42). The ~~Block~~ and struck-through Status text (1, 9) look like leftovers. [CLAUDE TO REMOVE]
+Carry-forward lists (129, 291): your call. The Visit 1 one is about 700 characters. [MAKING THE DECISION NOW // LETS REMOVE THE CARRY FORWARD TEXT BLOCKS]
 
 
 Things you can work on
 
 
-Max hits and levels: replace the TBD and "not listed" values so the tags show numbers (Wilderness, Thieves, three Visit 1 outlaws, the guard, hero, paladin, rats, zombies and spiders), and define the "Food / HP gate" column. The NPC data-file idea would fix all of these at once.
-Quest tags: fill the 17 placeholders at lines 81, 83, 96, 107, 168, 183, 187, 216, 225-228, 230, 235, 236, 238 and 260. Also tag the hammer and chisel at 1.08.
+Max hits and levels: replace the TBD and "not listed" values so the tags show numbers (Wilderness, Thieves, three Visit 1 outlaws, the guard, hero, paladin, rats, zombies and spiders), and define the "Food / HP gate" column. The NPC data-file idea would fix all of these at once. [CLAUDE TO GENERATE AN NPC DATA-FILE THAT BUFFALODAD WILL POPULATE // TELL ME WHERE IN THE REPO YOU PLACE IT]
+
+Quest tags: fill the 17 placeholders at lines 81, 83, 96, 107, 168, 183, 187, 216, 225-228, 230, 235, 236, 238 and 260. Also tag the hammer and chisel at 1.08. [I THINK MANAGING WHICH QUESTS ARE AFFECTED BY THE ITEMS WE PICK UP IS GOING TO BE TOO BIG OF AN ENDEAVOR // COMTEMPLATING REMOVING THE NAMED QUESTS THAT NEED THE ITEMS WE PICK UP // THOUGHTS?]
+
 Missing risk coverage:
-Dark wizards at 1.71 have no tag or table row.
-Draynor rooftop falls and failed pickpockets at 10 Hitpoints are untagged.
-Visit 1 and 2 boundary: move 1.71 and 1.72 to Visit 2 (line 274 marker), then update the Visit 1 title, Goal, itinerary row, Varrock funds note and carry-forward runes.
-Wording: 1.37 and 1.52 don't say which bank, 1.42 doesn't say where the range is, and the eggs wording at 1.45 is unclear.
-Brutus rune cost: 1.67 says "use air strike" but not how many casts. Add the cast count so the 80 runes still cover the Witch's House and warlord fights.
+Dark wizards at 1.71 have no tag or table row. [CLAUDE TO ADD]
+
+Draynor rooftop falls and failed pickpockets at 10 Hitpoints are untagged. [NOTED, WILL ADD TO NPC DATA-FILE // LET'S RENAME THE FILE TO "RISK DATA FILE"]
+
+Visit 1 and 2 boundary: move 1.71 and 1.72 to Visit 2 (line 274 marker), then update the Visit 1 title, Goal, itinerary row, Varrock funds note and carry-forward runes. [CLAUDE TO EXECUTE]
+
+Wording: 1.37 and 1.52 don't say which bank, 1.42 doesn't say where the range is, and the eggs wording at 1.45 is unclear. [1.37 IS DRAYNOR BANK, 1.52 IS FALADOR EAST BANK, 1.42 RANGE IS IN THE HOUSE NORTH OF THE RAT PITS ENTRANCE, 1.45 MEANS RUN TO THE LAW ALTAR FOUND ON THE OVERWORLD OF ENTRANA, NEAR THERE IS AN EGG SPAWN AND PLANK SPAWNS, PICK THEM UP]
+
+Brutus rune cost: 1.67 says "use air strike" but not how many casts. Add the cast count so the 80 runes still cover the Witch's House and warlord fights. [IT WILL NOT TAKE MORE THAN 80 CASTS TO DEFEAT BRUTUS AND THERE IS A RUN BUYING STEP BETWEEN BRUTUS AND THE NEXT BATCH OF FIGHTS]
 
 
 Questions
 
 
-Why 28 cakes? What is the food plan behind that number, and which quests need the 14x bread?
-Which quests need the silver bars (0.17), soda ash, sand, cake tin and pipe (0.26), and Lovecraft's purchases (0.31)?
-Which quests need the new Port Sarim and Falador purchases: feather packs, planks, eggs, sacks, farm tools, woad, eye of newt and flour?
-Keep or drop the two carry-forward sections?
-Should the estimate tables list only the skills that changed, or stay at 24 rows each?
-Does the Visit 1 leg stay in one visit, or should Falador and Black Knights' Fortress split off?
-What is the intended end of the block, given the Chronicle and sardine come out at 1.52? You said you'd investigate.
+Why 28 cakes? What is the food plan behind that number, and which quests need the 14x bread? [28 CAKES IS NEARLY 33X YOUR BASE HP AND SHOULD BE PLENTY OF FOOD FOR THE MINIMAL DANGEROUS ENCOUNTERS BEFORE WE GET A BETTER FOOD SOURCE // PRIMARY BETTER SOURCE = DRAYNOR WINES // SECONDARY BETTER SOURCE = VARLAMORE WINES IN A LATER VISIT // GONNA SKIP ADDING THE QUESTS THAT NEED WHICH ITEMS]
+Which quests need the silver bars (0.17), soda ash, sand, cake tin and pipe (0.26), and Lovecraft's purchases (0.31)? [SKIPPING ADDING THAT INFORMATION]
+Which quests need the new Port Sarim and Falador purchases: feather packs, planks, eggs, sacks, farm tools, woad, eye of newt and flour? [SKIPPING]
+Keep or drop the two carry-forward sections? [DROP]
+Should the estimate tables list only the skills that changed, or stay at 24 rows each? [STAY IN THE 24 ROWS FOR EACH TABLE]
+Does the Visit 1 leg stay in one visit, or should Falador and Black Knights' Fortress split off? [THEY STAY IN ONE VISIT SINCE THESES FEW STEPS ARE SO SHORT]
+What is the intended end of the block, given the Chronicle and sardine come out at 1.52? You said you'd investigate. [THE INTENDED END OF THIS VISIT IS TO DEFEAT BRUTUS, RETURN TO THE BANK FOR YOUR CHRONICLE (OR BRING IT WITH YOU TO THE BRUTUS FIGHT), AND TELEPROT TO VARROCK TO BEGIN THAT VISIT]
 
 
 Assets that would help
 
 
-Gold ledger: prices for cakes (general store buy price), silver bars, rune purchases and Visit 0 shopping, or a screenshot of your inventory and bank after a test run.
-In-game tests: safespot or tile screenshots for the Brutus trough and the Bakery Stall, Draynor rooftop fall damage, pickpocket failure damage, and timing for the home teleport window.
-NPC data: max hits, levels and hitpoints for Visit 0 and 1 enemies, or tell me to pull them from the wiki.
-Main route chapters: Steps 1 and 2 (Chapter1.md is a placeholder), so I can resolve the merge notes and the quest-tag placeholders.
+Gold ledger: prices for cakes (general store buy price), silver bars, rune purchases and Visit 0 shopping, or a screenshot of your inventory and bank after a test run. [I NEED TO FIGURE OUT HOW BEST TO SUPPLY THIS AS STORE STOCK PRICES CHANGE BASED ON QUANTITY IN STOCK AND BASED ON EACH INDIVIDUAL STORE // THOUGHTS?]
+In-game tests: safespot or tile screenshots for the Brutus trough and the Bakery Stall, Draynor rooftop fall damage, pickpocket failure damage, and timing for the home teleport window. [WE DONT NEED THIS]
+NPC data: max hits, levels and hitpoints for Visit 0 and 1 enemies, or tell me to pull them from the wiki. [I'LL SUPPLY THE NPC DATA IN AN IN-TAKE FORM YOU CREATE]
+Main route chapters: Steps 1 and 2 (Chapter1.md is a placeholder), so I can resolve the merge notes and the quest-tag placeholders. [WHAT WE ARE WORKING ON IS THE MAIN ROUTE // THE INSPIRATION I AM DRAWING ON COMES FROM MULTIPLE OTHER USER-CREATED GUIDES, AS STATED IN THE ATTRIBUTION // I CAN PROVIDE LINKS TO THOSE GUIDES IF NEEDED]
 
 
 

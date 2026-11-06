@@ -4,6 +4,15 @@ Work on `chapters/Step0_Hardening_v0.02.md`, `tools/lint_guide.py` and `README.m
 
 ## 5 November 2026 (v0.02 working draft)
 
+### Cleanup from CLAUDE_Qs answers
+
+- Cut bloat: struck-through text, the Ring of Life note, the Visit 1 notes that repeated other text, the five non-route rewards lines, and the Visit 0 and Visit 1 carry-forward blocks. Merged the gold text and shortened the Thieving note and footnotes.
+- Removed all 17 `[add which quests need these]` placeholders (item quest tags are not being added to bought or picked-up items).
+- Wording: bank names at `1.37` and `1.52`, range location at `1.42`, Entrana law altar and spawns at `1.45`, Brutus capped at 80 Wind Strike casts at `1.67`.
+- Visit 1 now ends after Brutus. Varrock is the new Visit 2 (Chronicle teleport, walk with a Dark wizard risk tag, buy runes). Old Visits 2 to 5 are now Visits 3 to 6, with IDs, references and the itinerary renumbered.
+- Added `data/risk_data.csv` and `data/README.md` as the risk data intake form, pre-filled from the combat tables.
+- Not yet done: fill the risk data and push it into the combat tables, and the gold ledger.
+
 ### Visit 1: Draynor, Port Sarim and Falador leg [`af26fb7`]
 
 - Added steps `1.33` to `1.56`: start A Porcine of Interest, Vampyre Slayer, The Corsair Curse, The Knight's Sword and Black Knights' Fortress, complete X Marks the Spot, a Draynor Rooftop Course lap to Agility 5, Wydin's, Gerrant and Betty purchases, Entrana, Sarah's farm shop, and Falador.

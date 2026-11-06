@@ -21,6 +21,7 @@ All credit for the original ideas and routing belongs to them.
 |------|---------|
 | `chapters/Step0_Hardening_v0.02.md` | Step 0: hardening block (v0.02). Raises HP, Magic, Attack and Strength before the efficient route begins. |
 | `chapters/Chapter1.md` | Chapter 1 of the route. Placeholder until the cleaned version is added. |
+| `data/risk_data.csv` | Intake form for enemy and hazard levels, max hits and HP gates (see `data/README.md`). |
 | `tools/lint_guide.py` | Lints a guide file against the house style. |
 | `CHANGELOG.md` | Chronicle of the work done on the guide, tooling and README, with commit hashes. |
 
@@ -37,8 +38,7 @@ All credit for the original ideas and routing belongs to them.
 | Completion rewards | A `> **Rewards:**` blockquote follows every Complete action. Any lamp or XP choice carries a `**Decision:**` line with a recommendation. |
 | Danger | Any action where you can die starts with a bold red tag carrying the enemy's max hit, written `$\color{red}{\textbf{[RISK: enemy name (max hit)]}}$`. The enemy appears in that visit's combat table, and the max hit matches the table's Max hit cell (`TBD` or `not listed` where the table says so). The colour shows where maths rendering is supported, such as GitHub and the VS Code preview. |
 | Optional choices | Any text that offers an optional choice, including `(Optional)` steps, is italicised. |
-| Visit layout | Each visit opens with its combat table, then the steps, then a notes block, the carry-forward line and the estimated levels. |
-| Carry-forward | Each visit ends with the items you must still hold for later quests. |
+| Visit layout | Each visit opens with its combat table, then the steps, then a notes block and the estimated levels. |
 | Numbers | `gp` in lowercase, thousands separators (`1,833`), quantities as `6x`, `XP` in capitals, times as `1h 23m`. |
 
 ## Step 0 decisions
