@@ -2,6 +2,11 @@
 
 Work on `chapters/Chapter0.md`, `tools/lint_guide.py` and `README.md`. Newest first. Commit hashes are in brackets. Wiki facts were checked against the OSRS Wiki on 5 November 2026.
 
+## 6 November 2026 (notes sweep)
+
+- Swept `chapters/Chapter0.md` end to end and rewrote the three notes files. `notes/Open_Items.md` now has 21 numbered items (guide fixes, author decisions, supplies, data) plus a table of every quest's state at `2.71`. `notes/Sources.md` lists every wiki page the guide cites, the author-tested facts and the reference guides. `notes/Questions.md` is split into 10 open questions and the answered ones.
+- No change to `Chapter0.md` or `data/risk_data.csv`: the guide inconsistencies found are listed, not fixed.
+
 ## 6 November 2026 (answers applied)
 
 - Restructured the repo: `Step0_Hardening_v0.03.md` is now `chapters/Chapter0.md` (version lives in its header and this changelog), and the working notes moved to `notes/` (`CLAUDE_Qs` is now `notes/Questions.md`, plus `Open_Items.md` and `Sources.md`). Older entries below use the old filenames.
@@ -10,7 +15,7 @@ Work on `chapters/Chapter0.md`, `tools/lint_guide.py` and `README.md`. Newest fi
 - Level table: Slayer 9 and Hunter 13 from the Museum History Quiz, so total level is 258.
 - Deleted `VISIT2_VERIFICATION.md`, now that its open items are settled.
 - Cleaned stale references to the removed visits: itinerary rows for Visits 3 to 6, the Visit 4 order note, the Witch's House, Waterfall, Tree Gnome Village, Fight Arena and pebble sources, and the resolved open items that only concerned those visits (open items renumbered 1 to 6).
-- Removed the Witch's House, Tree Gnome Village and Fight Arena item tags from `1.18` and `1.27` (linter now clean), and moved the open items and sources out of Step 0 into `chapters/Open_Items.md` and `chapters/Sources.md`.
+- Removed the Witch's House, Tree Gnome Village and Fight Arena item tags from `1.18` and `1.27` (linter now clean), and moved the open items and sources out of Step 0 into `notes/Open_Items.md` and `notes/Sources.md`.
 
 
 ## 6 November 2026 (v0.03 working draft)
