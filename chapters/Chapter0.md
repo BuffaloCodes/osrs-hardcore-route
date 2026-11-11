@@ -15,7 +15,7 @@
 | Visit | Area | Quests progressed | Result |
 |-------|------|-------------------|--------|
 | 0 | Ardougne and Brimhaven, then home teleport | Wilderness lever, Hazeel Cult, Sheep Herder and Tribal Totem, plus food and silk thieving | Three quests complete, food stocked and gold earned, back in Lumbridge |
-| 1 | Lumbridge, Draynor, Port Sarim, Entrana, the Wizards' Tower and Falador | Mudfoot's Big Adventure, The Ides of Milk, The Restless Ghost, Misthalin Mystery, Sheep Shearer and X Marks the Spot complete, plus Rune Mysteries, A Porcine of Interest, Vampyre Slayer, The Corsair Curse, The Knight's Sword and Black Knights' Fortress started | Lamps applied, ready to teleport to Varrock |
+| 1 | Lumbridge, Draynor and Port Sarim | Mudfoot's Big Adventure, The Ides of Milk and X Marks the Spot complete, plus Draynor Agility laps | Lamps applied, ready for Varrock |
 | 2 | Varrock and Varlamore | Gertrude's Cat, Children of the Sun, Daddy's Home and The Ribbiting Tale of a Lily Pad Labour Dispute complete, plus Demon Slayer, Romeo & Juliet, Shield of Arrav, Priest in Peril, Family Crest, Vampyre Slayer and The Knight's Sword advanced and Rag and Bone Man I started, with the Waterfall Quest runes bought | Firemaking 50, ending at the Mistrock bank |
 | 3 | Draynor, Rimmington, Ardougne and the Tree Gnome Stronghold | Rune Mysteries, Witch's Potion, Tree Gnome Village, Fight Arena, The Grand Tree, Plague City, Biohazard and Demon Slayer complete | Construction 12, Demon Slayer lamps on Hitpoints, next quest started at King Lathas |
 
@@ -97,13 +97,11 @@ Thieving is the old estimate and has not been recalculated for the removed steps
 
 ---
 
-## Visit 1: Lumbridge, Draynor, Port Sarim and Falador (Mudfoot, Ides of Milk and the early quests)
+## Visit 1: Lumbridge, Draynor and Port Sarim (Mudfoot, X Marks the Spot, Ides of Milk and Agility)
 
 *Visit-specific notes are at the bottom of this section.*
 
-**Goal:** Complete [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)], [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)], [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)], [[Misthalin Mystery](https://oldschool.runescape.wiki/w/Misthalin_Mystery/Quick_guide)], [[Sheep Shearer](https://oldschool.runescape.wiki/w/Sheep_Shearer/Quick_guide)] and [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)], start [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)], [[A Porcine of Interest](https://oldschool.runescape.wiki/w/A_Porcine_of_Interest/Quick_guide)], [[Vampyre Slayer](https://oldschool.runescape.wiki/w/Vampyre_Slayer/Quick_guide)], [[The Corsair Curse](https://oldschool.runescape.wiki/w/The_Corsair_Curse/Quick_guide)], [[The Knight's Sword](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword/Quick_guide)] and [[Black Knights' Fortress](https://oldschool.runescape.wiki/w/Black_Knights%27_Fortress/Quick_guide)]. The visit ends by defeating Brutus, collecting your Chronicle from the bank (or bringing it to the fight), and teleporting to Varrock to begin Visit 2.
-
-**Lumbridge & Draynor Diary tasks completed in this visit:** Easy 3/12 (learn your age from Hans, pickpocket a man or woman, and a lap of the Draynor Village Rooftop Course).
+**Goal:** Complete [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)], [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)] and [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)], and train Agility to level 25 on the Draynor Village rooftop course. The visit ends by defeating Brutus and putting the lamps on Hitpoints.
 
 **Combat table: Visit 1**
 
@@ -112,29 +110,21 @@ Thieving is the old estimate and has not been recalculated for the removed steps
 | Ranger outlaw | 2 | none listed |
 | Mage outlaw | 2 | none listed |
 | Final outlaw | 2 | Uses Protect from Melee after your first hit, so bring Magic or Ranged. Very low levels can run around the graveyard until it aggros Mudfoot instead. |
-| Failed pickpocket (man or woman) | 1 | None. Only a failed attempt hurts |
 | Brutus | specials up to 19, cannot be prayed against | Feed-trough safespot to the south (tested in-game by the author: no damage taken and no need to dodge the specials) |
 
-- [ ] `1.01` Grab 1x knife, 1x jug, 2x bucket, 1x cabbage and 1x leather boots, then fill the jug with water
-- [ ] `1.02` Start [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)]: talk to Duke Horacio upstairs in Lumbridge Castle and take the air talisman he gives you
-- [ ] `1.03` Talk to Hans to learn your age (Lumbridge & Draynor Diary, Easy 1/12)
-- [ ] `1.04` $\color{red}{\textbf{[RISK: Failed pickpocket (1)]}}$ Pickpocket a man or woman in Lumbridge (Lumbridge & Draynor Diary, Easy 2/12)
 - [ ] `1.05` Talk to Veos in The Sheared Ram pub to Start [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]
 - [ ] `1.06` Talk to Captain Harlan outside the Lumbridge General Store to Start [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]
 - [ ] `1.07` *(Optional)* Claim the bronze shortsword and wooden shield from Captain Harlan
-- [ ] `1.08` Buy 1x spade, 1x hammer and 1x chisel in the general store [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]
-- [ ] `1.09` Talk to Father Aereck to Start [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]
+- [ ] `1.08` Buy 1x spade in the general store [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]
 - [ ] `1.10` Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: cross the River Lum to the building just south of the cow field (first meeting with Mudfoot)
 - [ ] `1.11` Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: return to the general store and confront the outlaw roaming outside (cutscene)
 - [ ] `1.12` Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: walk north along the road to the chicken field (second meeting, Mudfoot is south of the windmill)
 - [ ] `1.13` Talk to Cassius at the Lumbridge pond, just south of the windmill, to Start [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]
 - [ ] `1.14` $\color{red}{\textbf{[RISK: Ranger outlaw (2)]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the ranger outlaw and loot the shortbow and bronze arrows
 - [ ] `1.15` Continue [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]: go to the back exit of Lumbridge Castle and dig
-- [ ] `1.16` Kill a giant rat and collect the raw meat and bones
 - [ ] `1.17` $\color{red}{\textbf{[RISK: Mage outlaw (2)]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the mage outlaw by the H.A.M. hideout and loot the staff and runes
 - [ ] `1.18` Keep the staff and the 80x air runes and 80x mind runes (Wind Strike ammunition)
 - [ ] `1.19` $\color{red}{\textbf{[RISK: Final outlaw (2)]}}$ Continue [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: kill the final outlaw at the Lumbridge graveyard, south-east of the hideout, with Magic or Ranged gear *(or poison)*
-- [ ] `1.20` Buy 1x steel axe from Bob
 - [ ] `1.21` Continue [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]: dig on the tile north of the north-western window of Bob's house
 - [ ] `1.22` Complete [[Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure/Quick_guide)]: report to Captain Harlan at the general store
 
@@ -145,25 +135,12 @@ Thieving is the old estimate and has not been recalculated for the removed steps
 > - **Decision:** Magic until level 13 (1,833 XP in total), any remaining lamps on Hitpoints. At Magic 13 Wind Strike hits for up to 8.
 
 - [ ] `1.23` Use the Mudfoot antique lamps as decided above
-- [ ] `1.24` Start [[Misthalin Mystery](https://oldschool.runescape.wiki/w/Misthalin_Mystery/Quick_guide)]: head south of Lumbridge
-- [ ] `1.25` Complete [[Misthalin Mystery](https://oldschool.runescape.wiki/w/Misthalin_Mystery/Quick_guide)] in full
-
-> **Rewards:**
-> - 1 quest point and 600 Crafting XP
-> - 1x uncut ruby, 1x uncut emerald and 1x uncut sapphire
-
-- [ ] `1.26` Continue [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]: head west to Father Urhney in Lumbridge Swamp to get the ghostspeak amulet
-- [ ] `1.27` Grab 1x leather gloves from Father Urhney's house *(spare pairs can be sold for bonus gp)*
-- [ ] `1.28` Run to Draynor Village, grab and wear the forestry kit and buy 26x wine from Fortunato *(skip if out of stock; the wine is cheap, high-healing, one-bite food)*
+- [ ] `1.28` Run to Draynor Village and buy 26x wine from Fortunato *(skip if out of stock; the wine is cheap, high-healing, one-bite food)*
 - [ ] `1.29` Home teleport to Lumbridge *(optional: minigame teleport to Clan Wars first to restore run energy)*
-- [ ] `1.30` Continue [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]: talk to the restless ghost in the Lumbridge cemetery
 - [ ] `1.31` Continue [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]: run to Draynor and progress the quest (twice)
-- [ ] `1.32` Buy 1x Chronicle, 3x teleport cards and 1x rainbow scarf from Diango, then put the cards in the Chronicle
-- [ ] `1.33` Start [[A Porcine of Interest](https://oldschool.runescape.wiki/w/A_Porcine_of_Interest/Quick_guide)]: read the notice board behind Fortunato's Wine Shop in Draynor Village
-- [ ] `1.34` Start [[Vampyre Slayer](https://oldschool.runescape.wiki/w/Vampyre_Slayer/Quick_guide)]: talk to Morgan in his house in Draynor Village, just north of Ned's house
-- [ ] `1.35` Take 4x garlic from the cupboard upstairs in Morgan's house [[Vampyre Slayer](https://oldschool.runescape.wiki/w/Vampyre_Slayer/Quick_guide)]
-- [ ] `1.36` Run a lap of the Draynor Village Rooftop Course (Lumbridge & Draynor Diary, Easy 3/12), then keep running laps until you reach level 25 Agility
-- [ ] `1.37` Grab your coins and 1x empty bucket from Draynor Bank
+- [ ] `1.32` Buy 1x Chronicle and 3x teleport cards from Diango, then put the cards in the Chronicle
+- [ ] `1.36` Run a lap of the Draynor Village Rooftop Course, then keep running laps until you reach level 25 Agility
+- [ ] `1.37` Grab your coins from Draynor Bank
 - [ ] `1.38` Complete [[X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot/Quick_guide)]: walk to Port Sarim and talk to Veos at the docks, south of the Rusty Anchor Inn
 
 > **Rewards:**
@@ -172,42 +149,11 @@ Thieving is the old estimate and has not been recalculated for the removed steps
 > - **Decision:** Put the lamp on Hitpoints.
 
 - [ ] `1.39` Use the antique lamp as decided above
-- [ ] `1.40` Buy 1x raw chicken, 3x raw beef, 2x cheese, 8x redberries, 1x banana and 3x pot of flour from Wydin's Food Store, *depositing items (not the raw meat) in the deposit box if you need inventory space*. Wydin's stock is limited, so world hop for a fresh stock to buy the full amount
-- [ ] `1.41` Buy 16x feather pack from Gerrant, one at a time
-- [ ] `1.42` Leave 1x raw beef as it is, then cook 1x raw beef and burn 1x raw beef on the range in the house north of the rat pits entrance (cook a second time if needed to burn it)
-- [ ] `1.43` Buy 1x eye of newt from Betty
-- [ ] `1.44` Deposit everything except the empty bucket, your coins and the air talisman in the Port Sarim deposit box (the monks of Entrana refuse weapons and armour)
-- [ ] `1.45` Take the boat to Entrana, then run to the law altar on the Entrana overworld and pick up 10x plank and 2x egg from the spawns nearby
-- [ ] `1.46` Start [[The Corsair Curse](https://oldschool.runescape.wiki/w/The_Corsair_Curse/Quick_guide)]: return to Port Sarim and talk to Captain Tock at the crossroads north of the town, just south of the Falador farm entrance
-- [ ] `1.47` Continue [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)]: head to the Wizards' Tower with the air talisman, talk to Archmage Sedridor and trade the air talisman for a research package
-- [ ] `1.48` Continue [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]: take the ghost's skull from the altar in the Wizards' Tower basement
-- [ ] `1.49` Continue [[A Porcine of Interest](https://oldschool.runescape.wiki/w/A_Porcine_of_Interest/Quick_guide)]: talk to Sarah at the Falador farm
-- [ ] `1.50` Buy 9x sack, 1x secateurs, 1x seed dibber, 1x rake, 1x trowel, 3x plant pot, 1x watering can and 2x plant cure from Sarah
-- [ ] `1.51` Use the empty bucket on the dairy cow at the Falador farm to get a bucket of milk
-- [ ] `1.52` Head to Falador and grab your coins, 1x raw sardine and the Chronicle from Falador East Bank
-- [ ] `1.53` Buy 2x woad leaf from Wyson the gardener in Falador Park (offer 20 gp)
-- [ ] `1.54` Start [[The Knight's Sword](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword/Quick_guide)]: talk to the Squire in the White Knights' Castle, who sends you to talk to Reldo
-- [ ] `1.55` Start [[Black Knights' Fortress](https://oldschool.runescape.wiki/w/Black_Knights%27_Fortress/Quick_guide)]: talk to Sir Amik Varze upstairs in the White Knights' Castle (needs 12 quest points, see the Visit 1 Notes)
-- [ ] `1.56` Home teleport to Lumbridge (home teleports share a 30-minute cooldown, so step `1.29` must be at least 30 minutes old, otherwise walk from Falador)
-- [ ] `1.57` Complete [[The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost/Quick_guide)]: return to Lumbridge
-
-> **Rewards:**
-> - 1 quest point and 1,125 Prayer XP
-> - Ghostspeak amulet
-
+- [ ] `1.56` Home teleport to Lumbridge (home teleports share a 30-minute cooldown, so if step `1.29` is less than 30 minutes old, walk instead)
 - [ ] `1.58` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: talk to Gillie Groats in the cow field, just north of the entrance (option 3)
 - [ ] `1.59` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: talk to Seth Groats in the farmhouse by the chicken coop, north-west of the cow field, and search the shelves on the south wall for The groats principles
 - [ ] `1.60` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: return the book to Cassius for a milk sample, drink it in front of him, then talk to him again for a second sample
 - [ ] `1.61` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: talk to Duke Horacio upstairs in Lumbridge Castle about the permit
-- [ ] `1.62` Bank at Lumbridge Castle and grab 20x balls of wool [[Sheep Shearer](https://oldschool.runescape.wiki/w/Sheep_Shearer/Quick_guide)]
-- [ ] `1.63` Start [[Sheep Shearer](https://oldschool.runescape.wiki/w/Sheep_Shearer/Quick_guide)]: run north to Fred the Farmer
-- [ ] `1.64` Complete [[Sheep Shearer](https://oldschool.runescape.wiki/w/Sheep_Shearer/Quick_guide)]: hand in the 20x balls of wool
-
-> **Rewards:**
-> - 1 quest point and 150 Crafting XP
-> - 60 gp
-
-- [ ] `1.65` Grab 7x onion
 - [ ] `1.66` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: return to Gillie Groats and drink the milk sample when prompted
 - [ ] `1.67` $\color{red}{\textbf{[RISK: Brutus (19)]}}$ Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: open the gate north-east of Gillie and fight Brutus from the safespot between the feed troughs to the south. Use Wind Strike; Brutus takes no more than 80 casts, and you restock runes before the next batch of fights.
 - [ ] `1.68` Continue [[The Ides of Milk](https://oldschool.runescape.wiki/w/The_Ides_of_Milk/Quick_guide)]: speak to Gillie about the bull, then confront Cassius at the pond
@@ -223,24 +169,23 @@ Thieving is the old estimate and has not been recalculated for the removed steps
 
 > **Visit 1 Notes:**
 > - **Outlaw order:** The ranger outlaw (shortbow and arrows) comes first, where the quest puts it. The mage outlaw (staff and runes) comes straight before the final outlaw, because both are at the H.A.M. hideout and the final outlaw needs Magic or Ranged gear.
-> - **Black Knights' Fortress:** [[Black Knights' Fortress](https://oldschool.runescape.wiki/w/Black_Knights%27_Fortress/Quick_guide)] needs 12 quest points to start. You have exactly 12 at that step (1 from Tutorial Island, 8 from Visit 0, then Mudfoot's Big Adventure, Misthalin Mystery and X Marks the Spot), so do not skip any of them before it.
 
 **Estimated levels after Visit 1:**
 
 | | | |
 |---|---|---|
 | Attack: 1 | Hitpoints: 15 | Mining: 1 |
-| Strength: 1 | Agility: 5 | Smithing: 1 |
-| Defence: 1 | Herblore: 1 | Fishing: 24 |
+| Strength: 1 | Agility: 25 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 25 | Cooking: 1 |
-| Prayer: 9 | Crafting: 7 | Firemaking: 36 |
-| Magic: 13 | Fletching: 1 | Woodcutting: 35 |
+| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Magic: 13 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 15 | **Total level:** 192
+**Quest points:** 10 | **Total level:** 106
 
-Firemaking is the lower end of the Visit 0 estimate. Combat XP from the outlaws, Brutus and other fights is not counted.
+Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 is the target of the laps at `1.36`.
 
 ---
 
