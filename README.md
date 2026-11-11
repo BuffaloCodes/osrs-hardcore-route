@@ -1,6 +1,6 @@
 # OSRS Hardcore Route
 
-A step-by-step Old School RuneScape hardcore ironman guide, split into chapters.
+A starter guide for Old School RuneScape Hardcore Worlds accounts. It hardens a fresh account so one mistake will not easily kill it, then ends with the Rogue outfit so the account can start a free route or any larger route.
 
 ## Attribution
 
@@ -15,16 +15,16 @@ This guide takes inspiration from the guides and routes of the following creator
 
 All credit for the original ideas and routing belongs to them.
 
-## How the guide is organized
+## How the repo is organized
 
 | File | Purpose |
 |------|---------|
-| `chapters/Chapter0.md` | Chapter 0: the hardening block (v0.03). Raises HP, Magic, Attack and Strength before the efficient route begins. |
-| `chapters/Chapter1.md` | Chapter 1 of the route. Placeholder until the cleaned version is added. |
-| `notes/Open_Items.md`, `notes/Sources.md`, `notes/Questions.md` | Running working notes: open items, sources, and questions for the author. |
+| `starter-guide.md` | The guide: Visits 0 to 10, from a fresh account to the Rogue outfit. |
+| `notes/open-items.md` | Running list of decisions, numbers to fill in and checks still open. |
+| `notes/sources.md` | Wiki pages the guide cites, author-tested facts and other guides to cross-check. |
 | `data/risk_data.csv` | Intake form for enemy and hazard max hits and safespots (see `data/README.md`). |
-| `tools/lint_guide.py` | Lints a guide file against the house style. |
-| `CHANGELOG.md` | Chronicle of the work done on the guide, tooling and README, with commit hashes. |
+| `tools/lint_guide.py` | Lints the guide against the house style. |
+| `changelog.md` | Milestones in the work on the guide, with commit hashes. |
 
 ## Conventions
 
@@ -35,32 +35,34 @@ All credit for the original ideas and routing belongs to them.
 | Quest verbs | Start, Continue, Complete. |
 | Quest references | Every mention of a quest in an action links its Quick Guide, inside brackets: `[[Quest name](Quick Guide URL)]`. |
 | Quest steps | Short quests are not written out step by step. The quest link is the guide, and the player is expected to use it. Only steps that matter to the route (risks, items, decisions) are spelled out. |
-| Items for later quests | The action ends with the quest tag, for example `Grab 6x logs [[Tree Gnome Village](...)]`. |
+| Quest items | The account is not an ironman, so quest items can be bought on the GE. The guide does not collect items early for later quests. |
 | Completion rewards | A `> **Rewards:**` blockquote follows every Complete action. Any lamp or XP choice carries a `**Decision:**` line with a recommendation. |
 | Danger | Any action where you can die starts with a bold red tag carrying the enemy's max hit, written `$\color{red}{\textbf{[RISK: enemy name (max hit)]}}$`. The enemy appears in that visit's combat table, and the max hit matches the table's Max hit cell (`TBD` or `not listed` where the table says so). The colour shows where maths rendering is supported, such as GitHub and the VS Code preview. |
 | Optional choices | Any text that offers an optional choice, including `(Optional)` steps, is italicised. |
-| Visit layout | Each visit opens with its combat table, then the steps, then a notes block and the estimated levels. |
+| Visit layout | Each visit opens with its goal and combat table (where enemies can hurt you), then the steps, then a notes block. |
+| Unknowns | `[missing]` marks a fact not yet known. `[CHECK]` and `[CHECK ROUTE]` mark a claim or path that still needs confirming. All of them are listed in `notes/open-items.md`. |
 | Numbers | `gp` in lowercase, thousands separators (`1,833`), quantities as `6x`, `XP` in capitals, times as `1h 23m`. |
 
-## Step 0 decisions
+## Decisions
 
 | Topic | Decision |
 |-------|----------|
 | Mudfoot lamps (4 x 500 XP) | Magic until level 13. Any lamps left over go on Hitpoints. |
 | Ides of Milk lamp (1,000 XP) | Hitpoints |
+| Demon Slayer lamps (2 x 1,000 XP) | Hitpoints |
 | Lamps on Hitpoints | Confirmed possible (tested in-game) |
 | Wind Strike damage | Only the unlock matters. At Magic 13+ Wind Strike's base max hit is 8 (2 at levels 1-4, 4 at 5-8, 6 at 9-12). Cost is 1 air rune and 1 mind rune. |
-| Food | Gathered first, on the author's own route (Visit 0) |
 | Minimum HP / combat level gates | Deferred for now |
 | Witch's House | All four experiment forms can be safespotted |
 | Brutus (Ides of Milk) | Safespot between the feed troughs to the south (tested in-game: no damage taken, no special-attack dodging needed) |
+| Bull sharks | Mage them from the shore north of the Karamja volcano (tested in-game by the author) |
 
 **Lamp arithmetic:** Magic level 13 needs 1,833 XP in total and each lamp is 500, so you need ceil((1,833 - your current Magic XP) / 500) lamps. With no prior Magic XP that is all four.
 
 ## Linting
 
 ```
-python3 tools/lint_guide.py chapters/Chapter0.md
+python tools/lint_guide.py starter-guide.md
 ```
 
 The linter takes one file at a time and checks:
