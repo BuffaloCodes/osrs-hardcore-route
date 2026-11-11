@@ -124,7 +124,7 @@ def main(path):
     # Pass 5: a Rewards blockquote sits directly after every Complete action.
     complete_idx = {}
     for i, v, n, text in actions:
-        if re.match(r"^(?:\*\(Optional\)\* )?(?:\[RISK: [^\]]+\] )?Complete ", text):
+        if re.match(r"^(?:\*\(Optional\)\* )?(?:\[RISK: [^\]]+\] )*Complete", text):
             names = [m.group(1) for m in LINK.finditer(text)]
             complete_idx[i] = names[0] if names else "?"
     reward_heads = [i for i, raw in enumerate(lines) if REWARDS_HEAD.match(raw)]

@@ -17,7 +17,7 @@
 | 0 | Ardougne and Brimhaven, then home teleport | Wilderness lever, Hazeel Cult, Sheep Herder and Tribal Totem, plus food and silk thieving | Three quests complete, food stocked and gold earned, back in Lumbridge |
 | 1 | Lumbridge, Draynor and Port Sarim | Mudfoot's Big Adventure, The Ides of Milk and X Marks the Spot complete, plus Draynor Agility laps | Lamps applied, ready for Varrock |
 | 2 | Varrock and Varlamore | Children of the Sun complete, Demon Slayer started, Eclipse reds sold | Keys collected and mind runes bought, ending at the Mistrock bank |
-| 3 | Draynor, Rimmington, Ardougne and the Tree Gnome Stronghold | Rune Mysteries, Witch's Potion, Tree Gnome Village, Fight Arena, The Grand Tree, Plague City, Biohazard and Demon Slayer complete | Construction 12, Demon Slayer lamps on Hitpoints, next quest started at King Lathas |
+| 3 | Draynor, Ardougne and the Tree Gnome Stronghold | Tree Gnome Village, Fight Arena, The Grand Tree and Demon Slayer complete | Demon Slayer lamps on Hitpoints, large Attack, Agility and Magic XP |
 
 ---
 
@@ -267,65 +267,45 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 
 ---
 
-## Visit 3: Draynor, Rimmington, Ardougne and the Tree Gnome Stronghold (Tree Gnome Village, The Grand Tree, Plague City, Biohazard and Demon Slayer)
+## Visit 3: Draynor, Ardougne and the Tree Gnome Stronghold (Tree Gnome Village, Fight Arena, The Grand Tree and Demon Slayer)
 
 *Visit-specific notes are at the bottom of this section.*
 
-**Goal:** Complete [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)], [[Witch's Potion](https://oldschool.runescape.wiki/w/Witch%27s_Potion/Quick_guide)], [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)], [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)], [[The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree/Quick_guide)], [[Plague City](https://oldschool.runescape.wiki/w/Plague_City/Quick_guide)], [[Biohazard](https://oldschool.runescape.wiki/w/Biohazard/Quick_guide)] and [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]. Train Construction to level 12, bank 25 bones, and apply the Demon Slayer lamps to Hitpoints.
-
-**Diary tasks completed in this visit:** the Tree Gnome Stronghold agility lap and browsing the Hunter Emporium in Yanille. Diary names and counts are still to be filled in.
+**Goal:** Complete [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)], [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)], [[The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree/Quick_guide)] and [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)], collecting 25 bones for Demon Slayer and applying its lamps to Hitpoints.
 
 **Combat table: Visit 3**
 
 | Enemy | Max hit | Safespot / tactic |
 |-------|---------|-------------------|
-| Hobgoblin (peninsula west of the Crafting Guild) | TBD | Aggressive. Grab the snape grass and leave |
 | Bear (route to the Tree Gnome Village maze) | TBD | Avoid them while walking |
 | Maze monsters (Tree Gnome Village) | TBD | Risk to be decided after analysis |
 | Khazard commander (during Tree Gnome Village) | TBD | Quest fight. Come with combat gear and food |
 | Khazard warlord (end of Tree Gnome Village) | TBD | Quest fight. Come with combat gear and food |
+| Prison enemies (Fight Arena: scorpion level 44, ogre level 63, Bouncer level 137) | TBD | Can all be safespotted |
 | Spider (route to Hazelmere) | TBD | Avoid them while walking |
 | Jogre (Karamja, after the glider escape) | TBD | Aggressive. Be prepared to run away or eat |
+| Black demon (end of The Grand Tree, level 172) | TBD | Can be safespotted |
 | Delrith (Demon Slayer) | TBD | Quest fight with Silverlight. You will have roughly 30 to 40 Attack and Strength by then |
 
 - [ ] `3.01` Use the Home Teleport to Lumbridge and run to Draynor Village
-- [ ] `3.02` Bank and withdraw: bucket, feathers, arrow shafts, spade, rope, gp, onion, burnt meat, eye of newt (bought from Betty earlier), 23 noted planks, hammer, saw, steel nails, 5 noted bolts of cloth and some food
-- [ ] `3.03` Milk a cow at Sarah's farm
+- [ ] `3.02` Bank and withdraw: gp and some food
 - [ ] `3.04` Kill cows until you have 25 bones, and bank them
 - [ ] `3.05` Run to the Wizards' Tower. Talk to Wizard Traiborn to get the third key for [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)] (the 25 bones are for him)
-- [ ] `3.06` Complete [[Rune Mysteries](https://oldschool.runescape.wiki/w/Rune_Mysteries/Quick_guide)]: give Aubury's research notes to Sedridor
-
-> **Rewards:**
-> - 1 quest point and 500 Runecraft XP
-> - Air talisman and the ability to mine rune essence
-
-- [ ] `3.07` $\color{red}{\textbf{[RISK: Hobgoblin (TBD)]}}$ Run to the peninsula west of the Crafting Guild and pick up the snape grass on the ground
-- [ ] `3.08` Talk to Hetty in Rimmington to Start [[Witch's Potion](https://oldschool.runescape.wiki/w/Witch%27s_Potion/Quick_guide)], kill a rat, then return to Hetty to complete the quest
-
-> **Rewards:**
-> - 1 quest point and 325 Magic XP
-
-- [ ] `3.09` Unnote the planks and bolts of cloth at Phials in Rimmington
-- [ ] `3.10` Train Construction to level 12 in your house: build 6 wooden chairs, 1 crude wooden chair, 1 brown rug and 1 pair of torn curtains
-- [ ] `3.11` Take the boat to Ardougne
-- [ ] `3.12` Bank at Ardougne and withdraw: 6x logs, combat equipment, a staff (or staff of air) to mage, mind runes (and air runes), and wine for the rest of the inventory
+- [ ] `3.11` Travel to Ardougne [CHECK ROUTE: this step followed the Rimmington house build]
+- [ ] `3.12` Bank at Ardougne and withdraw: 6x logs [CHECK: logs used to come from Visit 0 woodcutting], combat equipment, a staff (or staff of air) to mage, mind runes (and air runes), and wine for the rest of the inventory
 - [ ] `3.13` Use the Castle Wars minigame teleport
-- [ ] `3.14` $\color{red}{\textbf{[RISK: Bear (TBD)]}}$ Head north towards the Tree Gnome Village, watching for bears on the route to the maze
+- [ ] `3.14` $\color{red}{\textbf{[RISK: Bear (TBD)]}}$ Head north towards the gnome village, watching for bears on the route to the maze
 - [ ] `3.15` $\color{red}{\textbf{[RISK: Maze monsters (TBD)]}}$ Follow the maze to the centre to Start [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]. The risk from monsters in the maze is still to be analysed
-- [ ] `3.16` $\color{red}{\textbf{[RISK: Khazard commander (TBD), Khazard warlord (TBD)]}}$ Complete [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]. The Khazard commanders attack mid-quest and the Khazard warlord at the end
+- [ ] `3.16` $\color{red}{\textbf{[RISK: Khazard commander (TBD)]}}$ $\color{red}{\textbf{[RISK: Khazard warlord (TBD)]}}$ Complete [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]. The Khazard commanders attack mid-quest and the Khazard warlord at the end
 
 > **Rewards:**
 > - 2 quest points and 11,450 Attack XP
 > - Gnome amulet and use of spirit trees for transportation
 
 - [ ] `3.17` Use the spirit tree to teleport to the Tree Gnome Stronghold
-- [ ] `3.18` Complete a lap of the Gnome Agility Course for the diary
-- [ ] `3.19` Buy chocolate bar or chocolate dust from Hudo, and buy dwellberries
-- [ ] `3.20` Collect a swamp toad from the north-west of the tree
-- [ ] `3.21` Score a goal in a gnomeball match
 - [ ] `3.22` Start [[The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree/Quick_guide)]
-- [ ] `3.23` Use the Fishing Trawler minigame teleport. Run into Yanille and browse the Hunter Emporium for the diary
-- [ ] `3.24` $\color{red}{\textbf{[RISK: Fight Arena enemies (TBD)]}}$ Travel north and complete [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]
+- [ ] `3.23` Use the Fishing Trawler minigame teleport
+- [ ] `3.24` $\color{red}{\textbf{[RISK: Prison enemies (TBD)]}}$ Complete [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: travel north and finish the quest
 
 > **Rewards:**
 > - 2 quest points, 12,175 Attack XP, 2,175 Thieving XP and 1,000 gp
@@ -335,18 +315,8 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 - [ ] `3.26` Run to the Khazard Battlefield spirit tree and take it to the Stronghold, then Continue [[The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree/Quick_guide)]
 - [ ] `3.27` $\color{red}{\textbf{[RISK: Jogre (TBD)]}}$ Escape on the gnome glider. It spawns you near aggressive Jogres, so be prepared to run away or eat
 - [ ] `3.28` Continue [[The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree/Quick_guide)] until you have the lumber order
-- [ ] `3.29` Use the Fishing Trawler minigame teleport and run north to the bank
-- [ ] `3.30` Withdraw: dwellberries, rope, spade, chocolate dust (or a chocolate bar and a mortar and pestle to make it), bucket of milk and snape grass
-- [ ] `3.31` Complete [[Plague City](https://oldschool.runescape.wiki/w/Plague_City/Quick_guide)] in full
-
-> **Rewards:**
-> - 1 quest point and 2,425 Mining XP
-> - Ardougne teleport scroll
-
-- [ ] `3.32` Start [[Biohazard](https://oldschool.runescape.wiki/w/Biohazard/Quick_guide)] and Continue it until you need to return to Rimmington
-- [ ] `3.33` Run through Ardougne and take the boat to Rimmington, then Continue [[Biohazard](https://oldschool.runescape.wiki/w/Biohazard/Quick_guide)]
-- [ ] `3.34` Use the Chronicle to teleport to the Champions' Guild (the best teleport towards Varrock at this point), then Continue [[Biohazard](https://oldschool.runescape.wiki/w/Biohazard/Quick_guide)] until you need to return to Elena
-- [ ] `3.35` Bank and complete [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]
+- [ ] `3.34` Use the Chronicle to teleport to the Champions' Guild
+- [ ] `3.35` Complete [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]: bank first, then finish the quest
 
 > **Rewards:**
 > - 3 quest points
@@ -356,7 +326,7 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 
 - [ ] `3.36` Return to Aris and take the 2 antique lamps (1,000 XP each in any combat skill, including Prayer). Put both lamps on Hitpoints
 - [ ] `3.37` Use the Castle Wars minigame teleport and navigate through the maze
-- [ ] `3.38` Teleport to the Tree Gnome Stronghold and complete [[The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree/Quick_guide)]
+- [ ] `3.38` $\color{red}{\textbf{[RISK: Black demon (TBD)]}}$ Complete [[The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree/Quick_guide)]: teleport to the Tree Gnome Stronghold and finish the quest
 
 > **Rewards:**
 > - 5 quest points
@@ -364,22 +334,12 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 > - Access to the mine under the Grand Tree and to the gnome glider transportation system
 > - An Agility shortcut from the Grand Tree to the Barbarian Outpost (37 Agility)
 
-- [ ] `3.39` Use the Fishing Trawler minigame teleport, then run to Northern Ardougne and complete [[Biohazard](https://oldschool.runescape.wiki/w/Biohazard/Quick_guide)]
-
-> **Rewards:**
-> - 3 quest points and 1,250 Thieving XP
-> - Use of the Combat Training Camp north of Ardougne (six training dummies, 50 Attack XP per hit)
-> - Free travel through the West Ardougne gate
-
-- [ ] `3.40` While at King Lathas, Start the next quest
-
 > **Visit 3 Notes:**
 > - **Lamps:** The Demon Slayer lamps are two antique lamps worth 1,000 XP each in any combat skill, including Prayer. The decision is to put both on Hitpoints.
-> - **Construction:** Plan for level 12 from the planks and cloth listed at `3.02`. The author tested this in game and ended on 1,666 Construction XP (level 12).
-> - **Plague City:** One bucket is enough. Four buckets are optional.
 > - **Third key:** The third key and the 25 bones are collected at `3.05`, but [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)] is not finished until `3.35`. Do not bank or drop the keys in between.
+> - **Agility:** [[The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree/Quick_guide)] needs Agility 25 later in the quest. Level 25 comes from the Draynor laps at `1.36`.
 > - **Max hits:** The max hits in the combat table are still to be filled in from the wiki.
-> - **Quest rewards:** Checked against the OSRS Wiki on 6 November 2026. The Rune Mysteries and Demon Slayer pages carry an "information may be out-of-date" banner, but their 3 November 2026 change notes confirm the 500 Runecraft XP and the two lamps.
+> - **Quest rewards:** Checked against the OSRS Wiki on 6 November 2026. The Demon Slayer page carries an "information may be out-of-date" banner, but its 3 November 2026 change note confirms the two lamps.
 
 **Estimated levels after Visit 3:**
 
@@ -397,8 +357,6 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 **Quest points:** 37 | **Total level:** 356
 
 *[Stale: recalculate after the route is final.]*
-
-Attack 41 is the Visit 2 figure (about 400 XP) plus 42,025 XP from Tree Gnome Village, Fight Arena and The Grand Tree. Strength 7 is the 800 XP from killing 25 cows, which is 1 XP short of level 8. Hitpoints 20 is the Visit 2 estimate (level 15) plus the two 1,000 XP Demon Slayer lamps and about 267 XP from the cows (a third of the 800 Strength XP). Magic 19 assumes Magic sits at exactly 1,833 XP (level 13) after Visit 2, plus 325 from Witch's Potion and 2,150 from The Grand Tree. Agility 25 is Visit 2's level 5 plus 7,900 XP from The Grand Tree. Mining 15 is 2,425 XP from Plague City, 14 XP over the level 15 threshold. Thieving 28 is the Visit 2 estimate (level 25) plus 2,175 XP from Fight Arena and 1,250 from Biohazard, and could reach 29 if Visit 2 ended near the top of level 25. Runecraft 5 is the 500 XP from Rune Mysteries. Construction 12 is 1,666 XP, tested in game by the author. The gnome agility lap, the Biohazard training dummies, spell casts and other combat XP are not counted. Quest points include the 18 from Visit 3.
 
 ---
 
