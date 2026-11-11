@@ -18,6 +18,13 @@
 | 1 | Lumbridge, Draynor and Port Sarim | Mudfoot's Big Adventure, The Ides of Milk and X Marks the Spot complete, plus Draynor Agility laps | Lamps applied, ready for Varrock |
 | 2 | Varrock and Varlamore | Children of the Sun complete, Demon Slayer started, Eclipse reds sold | Keys collected and mind runes bought, ending at the Mistrock bank |
 | 3 | Draynor, Ardougne and the Tree Gnome Stronghold | Tree Gnome Village, Fight Arena, The Grand Tree and Demon Slayer complete | Demon Slayer lamps on Hitpoints, large Attack, Agility and Magic XP |
+| 4 | Hosidius | Fruit stall Thieving | 36,512 Thieving XP |
+| 5 | Karamja | Brimhaven Agility Arena and Bull Sharks | Agility trained, Magic XP and gold from the sharks |
+| 6 | Lumbridge | Brutus training | Magic and Prayer XP |
+| 7 | Taverley | Witch's House complete | 6,325 Hitpoints XP |
+| 8 | Aldarin | Death on the Isle complete | 10,000 Thieving XP and 7,500 Agility XP |
+| 9 | Al Kharid and Pollnivneach | The Feud complete, then blackjacking | Thieving 50 |
+| 10 | Burthorpe | Rogues' Den | Full Rogue outfit, guide complete |
 
 ---
 
@@ -360,17 +367,191 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 
 ---
 
-[AUTHOR DECIDING HOW TO SEQUENCE THE NEXT STEPS]
+## Visit 4: Hosidius (Thieving)
 
-- 50 Agility and Bull Sharks
-- 36,512 XP Thieving
-- Death on the Isle
-- Brutus training
-- Black Knights' Fortress
-- Witch's House
-- The Feud
-- 50 Thieving
-- Rogue Outfit
+*Visit-specific notes are at the bottom of this section.*
 
+**Goal:** Steal fruit in Hosidius until you have 36,512 Thieving XP. Death on the Isle (Visit 8) and The Feud (Visit 9) then add 25,000 XP between them and take you to Thieving 45, which blackjacking needs.
+
+**Combat table: Visit 4**
+
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Guard dogs (Hosidius main square, level 44) | TBD | Do not steal from the main square stalls. Use the two stalls in the building east of the market |
+
+- [ ] `4.01` Talk to Veos in Port Sarim and take the free trip to Port Piscarilius [CHECK: the author recalls this trip is free]
+- [ ] `4.02` Walk south from Port Piscarilius to Hosidius [CHECK ROUTE: exact path]
+- [ ] `4.03` Go to the building just east of Hosidius market, north of the two magic trees
+- [ ] `4.04` Steal from the two fruit stalls (Thieving 25, 28.5 XP per steal) until you have 36,512 Thieving XP
+- [ ] `4.05` Home teleport to Lumbridge
+
+> **Visit 4 Notes:**
+> - **Guard dogs:** The four stalls in the main square are watched by level 44 guard dogs, which attack if they see you steal. The two stalls in the building east of the market are not guarded.
+> - **Steal count:** The number of steals is (36,512 minus your current Thieving XP) divided by 28.5. Your current XP is [missing] until the levels are recalculated.
+> - **Target:** 36,512 plus 10,000 (Death on the Isle) plus 15,000 (The Feud) is 61,512 XP, the XP for Thieving 45.
+> - **Strange fruit:** It restores 30% run energy and cures poison.
+
+---
+
+## Visit 5: Karamja (Agility and Bull Sharks)
+
+*Visit-specific notes are at the bottom of this section.*
+
+**Goal:** Train Agility from level 25 at the Brimhaven Agility Arena, using Bull Sharks as a break for Magic XP and gold. Death on the Isle (Visit 8) adds 7,500 Agility XP, so this visit stops short of Agility 50. The target level is [missing] until the levels are recalculated.
+
+**Combat table: Visit 5**
+
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Bull shark (level 65, 81 HP) | 5 | Safespot on the shore north of the Karamja volcano (tested by the author). Exact spot: [missing] |
+
+- [ ] `5.01` Bank and withdraw: gp (200 gp per arena entry), food, your staff and mind runes
+- [ ] `5.02` Travel to Brimhaven on Karamja [CHECK ROUTE]
+- [ ] `5.03` Pay Cap'n Izzy No-Beard 200 gp and enter the Brimhaven Agility Arena
+- [ ] `5.04` Run the arena, tagging the active dispenser each time for an Agility arena ticket. Pressure pads and floor spikes need Agility 20, and hand holds, spinning blades and darts need Agility 40. Failing the darts drains 2 Agility levels
+- [ ] `5.05` Exchange your tickets with Pirate Jackie the Fruit for 345 Agility XP each
+- [ ] `5.06` $\color{red}{\textbf{[RISK: Bull shark (5)]}}$ *(Optional)* Take a break from the arena: go to the shore north of the Karamja volcano [missing: exact spot] and cast Wind Strike at bull sharks from the safespot
+- [ ] `5.07` Repeat `5.03` to `5.06` until Agility reaches level [missing]
+- [ ] `5.08` Home teleport to Lumbridge
+
+> **Visit 5 Notes:**
+> - **Arena fee:** Each entry costs 200 gp, and logging out means paying again. Karamja gloves 2, 3 or 4 add a 10% bonus to arena XP.
+> - **Bull sharks:** The wiki says they will follow you onto land but only attack in retaliation. It does not mention the volcano safespot, so that spot comes from the author's own testing.
+> - **Gold:** What the bull sharks drop and how much gp they bring in is [missing].
+
+---
+
+## Visit 6: Lumbridge (Brutus)
+
+*Visit-specific notes are at the bottom of this section.*
+
+**Goal:** Train Magic and Prayer on Brutus. This is faster Magic XP than the Bull Sharks, and it trains Prayer too.
+
+**Combat table: Visit 6**
+
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Brutus | specials up to 19, cannot be prayed against | Feed-trough safespot to the south (tested in-game by the author: no damage taken and no need to dodge the specials) |
+
+- [ ] `6.01` Bank and withdraw: your staff, mind runes and food
+- [ ] `6.02` Use the cowbell amulet to teleport to the Lumbridge cow field
+- [ ] `6.03` $\color{red}{\textbf{[RISK: Brutus (19)]}}$ Fight Brutus from the safespot between the feed troughs to the south, using Wind Strike. A fight takes no more than 80 casts
+- [ ] `6.04` Repeat `6.03`, restocking runes between fights, until Magic reaches level [missing]
+
+> **Visit 6 Notes:**
+> - **Magic and Prayer XP:** The XP per kill is [missing].
+
+---
+
+## Visit 7: Taverley (Witch's House)
+
+*Visit-specific notes are at the bottom of this section.*
+
+**Goal:** Complete [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)] for 6,325 Hitpoints XP, before the tanking in The Feud.
+
+**Combat table: Visit 7**
+
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Witch's experiment (four forms: skavid level 19, spider level 30, bear level 42, wolf level 53; 144 HP in total) | TBD | Forms 1 and 2: safespot with Magic or Ranged, or flinch in melee from the north-east corner. Forms 3 and 4: safespot from the south wall of the shed, between the sacks and the crate with the ball, with Ranged or Magic |
+
+- [ ] `7.01` Bank and withdraw: several cheese, food, your staff and mind runes, and 4 free inventory slots
+- [ ] `7.02` Run to Taverley [CHECK ROUTE]
+- [ ] `7.03` Start [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: talk to the boy near the gate
+- [ ] `7.04` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: go west, then north around the hedge, to the front door of the house
+- [ ] `7.05` $\color{red}{\textbf{[RISK: Witch's experiment (TBD)]}}$ Complete [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: kill the experiment's four forms from the safespots in the combat table
+
+> **Rewards:**
+> - 4 quest points and 6,325 Hitpoints XP
+
+> **Visit 7 Notes:**
+> - **The witch:** Nora T. Hagg teleports you out of the house if she sees you, and the ball is lost.
+> - **Gloves:** Leather gloves, or another listed pair, are found in the boxes in the basement during the quest.
+
+---
+
+## Visit 8: Aldarin (Death on the Isle)
+
+*Visit-specific notes are at the bottom of this section.*
+
+**Goal:** Complete [[Death on the Isle](https://oldschool.runescape.wiki/w/Death_on_the_Isle/Quick_guide)] for 10,000 Thieving XP and 7,500 Agility XP. It needs Thieving 34 and Agility 32, which cannot be boosted.
+
+**Combat table: Visit 8**
+
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Jaguar (Avium Savannah, east of Sunset Coast) | 6 | Aggressive, combat level 67. Avoid them while walking. Minor risk |
+| Adala (level 49) | TBD | No special attacks |
+| Two low-level enemies (fought without equipment) | TBD | Quest fights |
+
+- [ ] `8.01` $\color{red}{\textbf{[RISK: Jaguar (6)]}}$ Take the quetzal to Varlamore, then head south-west to Sunset Coast [CHECK ROUTE]. Be careful of the aggressive jaguars east of the Sunset Coast
+- [ ] `8.02` Travel with Antonia to Aldarin (20 gp)
+- [ ] `8.03` Talk to Patzi at the entrance to Villa Lucens to Start [[Death on the Isle](https://oldschool.runescape.wiki/w/Death_on_the_Isle/Quick_guide)]
+- [ ] `8.04` $\color{red}{\textbf{[RISK: Adala (TBD)]}}$ $\color{red}{\textbf{[RISK: Two low-level enemies (TBD)]}}$ Complete [[Death on the Isle](https://oldschool.runescape.wiki/w/Death_on_the_Isle/Quick_guide)] in full
+
+> **Rewards:**
+> - 2 quest points
+> - 10,000 Thieving XP, 7,500 Agility XP and 5,000 Crafting XP
+> - Costume needle, butler's tray, animal masks and the North Aldarin teleport on the Pendant of Ates
+
+> **Visit 8 Notes:**
+> - **Eclipse reds:** The sale at `2.68` is also on Aldarin. It may move into this visit once the gold ledger is done.
+
+---
+
+## Visit 9: Al Kharid and Pollnivneach (The Feud)
+
+*Visit-specific notes are at the bottom of this section.*
+
+**Goal:** Complete [[The Feud](https://oldschool.runescape.wiki/w/The_Feud/Quick_guide)] for 15,000 Thieving XP and the blackjack, then blackjack in Pollnivneach to Thieving 50. It needs Thieving 30 to start and enough Magic and Hitpoints to kill a level 70 bandit champion and a level 75 Tough Guy, both from safespots.
+
+**Combat table: Visit 9**
+
+| Enemy | Max hit | Safespot / tactic |
+|-------|---------|-------------------|
+| Bandit champion (level 70) | TBD | Safespot from the house directly east of the bandit leader |
+| Tough Guy (level 75) | TBD | Safespot from behind the table inside the Menaphite Tent |
+| Bearded Pollnivnian bandit (level 41) | TBD | Lure into an empty house, knock out with the blackjack, then pickpocket while it is unconscious |
+
+- [ ] `9.01` Bank and withdraw: 701 gp or more (501 gp for the quest and 200 gp for the carpet), working gloves (not Barrows gloves, ice gloves, vambraces or Slayer gloves), 3x beer, 1x bucket or Ugthanki dung, food, your staff and mind runes, and a waterskin
+- [ ] `9.02` Go to Al Kharid and talk to Ali Morrisane, just south-west of the Emir's Arena teleport, to Start [[The Feud](https://oldschool.runescape.wiki/w/The_Feud/Quick_guide)]
+- [ ] `9.03` Continue [[The Feud](https://oldschool.runescape.wiki/w/The_Feud/Quick_guide)]: get the Kharidian headpiece and fake beard from Ali Morrisane and combine them into the desert disguise
+- [ ] `9.04` Walk to Shantay Pass [CHECK ROUTE: the wiki does not give the way from Al Kharid] and take the magic carpet to Pollnivneach (200 gp)
+- [ ] `9.05` $\color{red}{\textbf{[RISK: Bandit champion (TBD)]}}$ $\color{red}{\textbf{[RISK: Tough Guy (TBD)]}}$ Complete [[The Feud](https://oldschool.runescape.wiki/w/The_Feud/Quick_guide)]: kill the Tough Guy and the bandit champion from their safespots
+
+> **Rewards:**
+> - 1 quest point
+> - 15,000 Thieving XP and 500 gp
+> - Oak blackjack and the desert disguise
+> - The ability to pickpocket villagers, bandits and Menaphite thugs in Pollnivneach
+
+- [ ] `9.06` Buy jugs of wine from Faisal the Barman in the bar (inventory-blocking food for blackjacking)
+- [ ] `9.07` $\color{red}{\textbf{[RISK: Bearded Pollnivnian bandit (TBD)]}}$ Blackjack the bearded Pollnivnian bandits (Thieving 45) in Ali the Dyer's small house in northern Pollnivneach until you reach Thieving 50
+
+> **Visit 9 Notes:**
+> - **Blackjacking:** The wiki rates it at about 90,000 Thieving XP per hour at level 50 with wine. Ali the Dyer's small house has a ladder for resetting aggression.
+> - **Bank notes:** Bring the food as banknotes and unnote it at the Banknote Exchange Merchant beside the general store.
+
+---
+
+## Visit 10: Burthorpe (Rogues' Den)
+
+*Visit-specific notes are at the bottom of this section.*
+
+**Goal:** Get the full Rogue outfit from the Rogues' Den. The maze needs Agility 50 and Thieving 50, both unboostable. The guide ends here.
+
+- [ ] `10.01` Use the minigame teleport to the Burthorpe Games Room, go up twice, then run south to The Toad and Chicken inn
+- [ ] `10.02` Bank everything and take off all gear (nothing can be carried or worn in the maze) [CHECK: which bank]
+- [ ] `10.03` Go down the trapdoor near the bartender and talk to Brian O'Richard the first time you enter the maze
+- [ ] `10.04` Run the maze to the centre and crack the wall safe. Traps drain Thieving and Agility, and Rogue Guards patrol some areas
+- [ ] `10.05` Take the Rogue's equipment crate when the safe gives one and choose a piece (mask, top, trousers, gloves or boots)
+- [ ] `10.06` Repeat `10.03` to `10.05` until you own all five pieces
+
+> **Visit 10 Notes:**
+> - **Maze:** Hitting a dangerous trap or running out of Thieving or Agility ejects you to the lobby. Prayer is set to zero inside, and flash powder blinds the Rogue Guards.
+> - **Time:** The wiki estimates about 48 minutes for the full set at Thieving 50.
+> - **After the guide:** Each worn piece gives a 15% chance of double pickpocket loot, and the full set gives 100%. Blackjacking is the main moneymaker from here.
+
+---
 
 Open items are tracked in `notes/Open_Items.md` and sources in `notes/Sources.md`.
