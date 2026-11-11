@@ -17,12 +17,14 @@ Running list for `starter-guide.md`. Last swept on 11 November 2026, after the c
 8. **Cake count.** `0.10` banks "as many cakes as you get up to level 20 Thieving" but `0.15` keeps exactly 28. Check the real yield, or reword `0.10` to "28 cakes".
 9. **How the guide ends.** Visit 10 stops at the Rogue outfit. There is no closing note about handing off to a free route or another route. Add one, or leave it out.
 
+10. **Waterfall Quest is not in the guide.** Decide whether it belongs and where it goes. The earlier Visit 2 bought extra water, earth and fire runes for it, and that purchase was cut. Its enemies (Moss Guardians, max hit 14, and Fire Giants, max hit 11) were in `data/risk_data.csv` until the cleanup and are in git history, in the commit before `87903c4`. Its rewards, requirements and placement relative to the other visits are [missing]; check the wiki before drafting steps.
+
 ## Numbers to fill in
 
-10. **Level tables.** Visits 2 and 3 are marked stale, and Visits 4 to 10 have none. Visits 0 and 1 were recalculated during the cleanup (Visit 1: Agility 25, total level 106, 10 quest points). Recalculate all of them once the route is final. The recalculation also needs: the Agility target at `5.07`, the Magic target at `6.04` and your Thieving XP at `4.04`.
-11. **Max hits.** Filled from `data/risk_data.csv`: Khazard warlord (10), prison enemies (13) and Witch's experiment (5). Still `TBD`: Khazard commander, bear, maze monsters, spider, Jogre, Black demon, Delrith, the Hosidius guard dogs, Adala, the two unequipped enemies, bandit champion, Tough Guy and the bearded Pollnivnian bandit. Fill them in from the wiki and add matching rows to `data/risk_data.csv`.
-12. **XP and drops.** Magic and Prayer XP per Brutus kill (Visit 6), and what Bull Sharks drop and how much gp they bring in (Visit 5).
-13. **Bull shark spot.** Visit 5 says the shore north of the Karamja volcano, tested by the author. The exact spot is `[missing]` in `5.06`.
+11. **Level tables.** Visits 2 and 3 are marked stale, and Visits 4 to 10 have none. Visits 0 and 1 were recalculated during the cleanup (Visit 1: Agility 25, total level 106, 10 quest points). Recalculate all of them once the route is final. The recalculation also needs: the Agility target at `5.07`, the Magic target at `6.04` and your Thieving XP at `4.04`.
+12. **Max hits.** Filled from `data/risk_data.csv`: Khazard warlord (10), prison enemies (13) and Witch's experiment (5). Still `TBD`: Khazard commander, bear, maze monsters, spider, Jogre, Black demon, Delrith, the Hosidius guard dogs, Adala, the two unequipped enemies, bandit champion, Tough Guy and the bearded Pollnivnian bandit. Fill them in from the wiki and add matching rows to `data/risk_data.csv`.
+13. **XP and drops.** Magic and Prayer XP per Brutus kill (Visit 6), and what Bull Sharks drop and how much gp they bring in (Visit 5).
+14. **Bull shark spot.** Visit 5 says the shore north of the Karamja volcano, tested by the author. The exact spot is `[missing]` in `5.06`.
 
 ## Route and wording checks (markers in the guide)
 
