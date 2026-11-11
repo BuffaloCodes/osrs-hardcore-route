@@ -1,28 +1,23 @@
 id,visit,enemy,context,max_hit,safespot_or_tactic
-wilderness-51,0,Wilderness level 51 (Deserted Keep),Steps 0.05-0.08,99,Pull the lever on arrival and do not move. Ring of Life does not work here
+wilderness-51,0,Wilderness level 51 (Deserted Keep),Steps 0.03-0.04,99,Pull the lever on arrival and do not move. Ring of Life does not work here
 ardougne-guard,0,Ardougne guard,Bakery and Silk stalls,3,Bakery Stall: stand under the Baker. Silk Stall: no safespot
 hero,0,Hero,Bakery and Silk stalls,9,Bakery Stall: stand under the Baker. Silk Stall: no safespot
 paladin,0,Paladin,Bakery and Silk stalls,8,Bakery Stall: stand under the Baker. Silk Stall: no safespot
-thieves-den,0,Thieves (stone circle den),Monk's Friend,3,Avoid
-sea-slug,0,Sea slug (Fishing Platform),Sea Slug,3,Do not pick up the sea slugs
 giant-rat-sewer,0,Giant rats (Ardougne Sewers x8),Tribal Totem staircase trap,1,Only met if the staircase trap is triggered
 zombie-sewer,0,Zombies (Ardougne Sewers x3),Tribal Totem staircase trap,3,Only met if the staircase trap is triggered
 jungle-spider,0,Jungle spiders (Brimhaven),Tribal Totem,6,Avoid
 ranger-outlaw,1,Ranger outlaw,Mudfoot's Big Adventure,2,N/A
 mage-outlaw,1,Mage outlaw,Mudfoot's Big Adventure,2,N/A
 final-outlaw,1,Final outlaw,Mudfoot's Big Adventure,2,Use Mage or Range
-brutus,1,Brutus,The Ides of Milk,19,Feed-trough safespot to the south (tested in-game)
-pickpocket-failure,1,Failed pickpocket (man or woman),Step 1.04,1,N/A
+brutus,1,Brutus,The Ides of Milk (step 1.31) and Visit 6,19,Feed-trough safespot to the south (tested in-game)
 dark-wizard,2,Dark wizard (outside Varrock),Step 2.01,6,Avoid them
-jaguar,2,Jaguar (Avium Savannah),Step 2.62,6,Avoid them
-witch-experiment-1,3,Witch's experiment form 1 (Skavid),Witch's House,2,Step under it from the north-eastern corner until it moves north then Magic from one tile south-west
-witch-experiment-2,3,Witch's experiment form 2 (spider),Witch's House,3,Same as form 1
-witch-experiment-3,3,Witch's experiment form 3 (bear),Witch's House,4,Safespot from the south of the shed past the ball
-witch-experiment-4,3,Witch's experiment form 4 (wolf),Witch's House,5,Same as form 3
-khazard-warlord,5,Khazard warlord,Tree Gnome Village,10,See the combat table
-khazard-ogre,5,Khazard ogre,Fight Arena,8,Safespot behind a nearby skeleton
-khazard-scorpion,5,Khazard scorpion,Fight Arena,5,Run to the safespot or Protect from Melee
-bouncer,5,Bouncer,Fight Arena,13,Same approach as the scorpion
-general-khazard,5,General Khazard,Fight Arena (optional),9,Magic safespot or skip him
-moss-guardian,6,Moss Guardians,Waterfall Quest,14,Start a fight with a skeleton first
-fire-giant,6,Fire Giants,Waterfall Quest,11,Avoid the left side and slip past
+jaguar,2,Jaguar (Avium Savannah),Steps 2.21 and 8.01,6,Avoid them
+khazard-warlord,3,Khazard warlord,Tree Gnome Village,10,See the combat table
+khazard-ogre,3,Khazard ogre,Fight Arena,8,Safespot behind a nearby skeleton
+khazard-scorpion,3,Khazard scorpion,Fight Arena,5,Run to the safespot or Protect from Melee
+bouncer,3,Bouncer,Fight Arena,13,Same approach as the scorpion
+bull-shark,5,Bull shark (level 65),Visit 5,5,Safespot on the shore north of the Karamja volcano (tested by the author)
+witch-experiment-1,7,Witch's experiment form 1 (Skavid),Witch's House,2,Step under it from the north-eastern corner until it moves north then Magic from one tile south-west
+witch-experiment-2,7,Witch's experiment form 2 (spider),Witch's House,3,Same as form 1
+witch-experiment-3,7,Witch's experiment form 3 (bear),Witch's House,4,Safespot from the south of the shed past the ball
+witch-experiment-4,7,Witch's experiment form 4 (wolf),Witch's House,5,Same as form 3

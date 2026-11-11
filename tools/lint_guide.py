@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 r"""Lint a guide file against the house style.
 
-Usage: python3 lint_guide.py FILE.md
+Usage: python lint_guide.py FILE.md
 
 Checks
   1. Every checkbox action carries a unique, sequential ID (`visit.NN`).

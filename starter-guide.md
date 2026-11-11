@@ -1,12 +1,12 @@
-# Step 0: Hardening the Account (v0.03)
+# Hardcore Worlds Starter Guide
 
-**Purpose:** Raise HP, Magic, Attack and Strength before the efficient part of the route begins, on a mode where one death means a reset - transferring is for cowards.
+**Purpose:** Harden a Hardcore Worlds account so one mistake will not easily kill it. The route raises Hitpoints, Magic, Attack and Strength, then finishes with the Rogue outfit and blackjacking, so the account can start a free route or any larger route, on a mode where one death means a reset - transferring is for cowards.
 
-**Insert point:** First thing done on the account after a Death/Reset, to harden it against dangerous overworld events. Tutorial Island comes first.
+**Start point:** First thing done on a fresh Hardcore Worlds account after Tutorial Island, or after a Death/Reset.
 
-**Method:** Multiquesting. Each visit to an area advances every relevant quest, and no quest is finished before the next one is started unless that is the cheaper path.
+**Method:** Each visit covers one area. Quests are only included if they give XP the route needs or unlock a later step. Quest items can be bought on the GE.
 
-**Status:** Working draft. Quest data comes from the OSRS Wiki as of 5 November 2026.
+**Status:** Working draft. Quest data comes from the OSRS Wiki, checked 5 and 6 November 2026 (Visits 0 to 2) and 11 November 2026 (Visits 3 to 10).
 
 ---
 
@@ -287,8 +287,8 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 | Bear (route to the Tree Gnome Village maze) | TBD | Avoid them while walking |
 | Maze monsters (Tree Gnome Village) | TBD | Risk to be decided after analysis |
 | Khazard commander (during Tree Gnome Village) | TBD | Quest fight. Come with combat gear and food |
-| Khazard warlord (end of Tree Gnome Village) | TBD | Quest fight. Come with combat gear and food |
-| Prison enemies (Fight Arena: scorpion level 44, ogre level 63, Bouncer level 137) | TBD | Can all be safespotted |
+| Khazard warlord (end of Tree Gnome Village) | 10 | Quest fight. Come with combat gear and food |
+| Prison enemies (Fight Arena: scorpion level 44, ogre level 63, Bouncer level 137) | 13 | Worst case is the Bouncer (13). The scorpion hits for 5 and the ogre for 8. Can all be safespotted |
 | Spider (route to Hazelmere) | TBD | Avoid them while walking |
 | Jogre (Karamja, after the glider escape) | TBD | Aggressive. Be prepared to run away or eat |
 | Black demon (end of The Grand Tree, level 172) | TBD | Can be safespotted |
@@ -303,7 +303,7 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 - [ ] `3.07` Use the Castle Wars minigame teleport
 - [ ] `3.08` $\color{red}{\textbf{[RISK: Bear (TBD)]}}$ Head north towards the gnome village, watching for bears on the route to the maze
 - [ ] `3.09` $\color{red}{\textbf{[RISK: Maze monsters (TBD)]}}$ Follow the maze to the centre to Start [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]. The risk from monsters in the maze is still to be analysed
-- [ ] `3.10` $\color{red}{\textbf{[RISK: Khazard commander (TBD)]}}$ $\color{red}{\textbf{[RISK: Khazard warlord (TBD)]}}$ Complete [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]. The Khazard commanders attack mid-quest and the Khazard warlord at the end
+- [ ] `3.10` $\color{red}{\textbf{[RISK: Khazard commander (TBD)]}}$ $\color{red}{\textbf{[RISK: Khazard warlord (10)]}}$ Complete [[Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village/Quick_guide)]. The Khazard commanders attack mid-quest and the Khazard warlord at the end
 
 > **Rewards:**
 > - 2 quest points and 11,450 Attack XP
@@ -312,7 +312,7 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 - [ ] `3.11` Use the spirit tree to teleport to the Tree Gnome Stronghold
 - [ ] `3.12` Start [[The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree/Quick_guide)]
 - [ ] `3.13` Use the Fishing Trawler minigame teleport
-- [ ] `3.14` $\color{red}{\textbf{[RISK: Prison enemies (TBD)]}}$ Complete [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: travel north and finish the quest
+- [ ] `3.14` $\color{red}{\textbf{[RISK: Prison enemies (13)]}}$ Complete [[Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena/Quick_guide)]: travel north and finish the quest
 
 > **Rewards:**
 > - 2 quest points, 12,175 Attack XP, 2,175 Thieving XP and 1,000 gp
@@ -345,7 +345,7 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 > - **Lamps:** The Demon Slayer lamps are two antique lamps worth 1,000 XP each in any combat skill, including Prayer. The decision is to put both on Hitpoints.
 > - **Third key:** The third key and the 25 bones are collected at `3.04`, but [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)] is not finished until `3.20`. Do not bank or drop the keys in between.
 > - **Agility:** [[The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree/Quick_guide)] needs Agility 25 later in the quest. Level 25 comes from the Draynor laps at `1.21`.
-> - **Max hits:** The max hits in the combat table are still to be filled in from the wiki.
+> - **Max hits:** The Khazard warlord (10) and the prison enemies (13, the Bouncer) come from the author's risk data in `data/risk_data.csv`. The other max hits are still to be filled in from the wiki.
 > - **Quest rewards:** Checked against the OSRS Wiki on 6 November 2026. The Demon Slayer page carries an "information may be out-of-date" banner, but its 3 November 2026 change note confirms the two lamps.
 
 **Estimated levels after Visit 3:**
@@ -453,13 +453,13 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 
 | Enemy | Max hit | Safespot / tactic |
 |-------|---------|-------------------|
-| Witch's experiment (four forms: skavid level 19, spider level 30, bear level 42, wolf level 53; 144 HP in total) | TBD | Forms 1 and 2: safespot with Magic or Ranged, or flinch in melee from the north-east corner. Forms 3 and 4: safespot from the south wall of the shed, between the sacks and the crate with the ball, with Ranged or Magic |
+| Witch's experiment (four forms: skavid level 19, spider level 30, bear level 42, wolf level 53; 144 HP in total) | 5 | Forms 1 and 2: safespot with Magic or Ranged, or flinch in melee from the north-east corner. Forms 3 and 4: safespot from the south wall of the shed, between the sacks and the crate with the ball, with Ranged or Magic |
 
 - [ ] `7.01` Bank and withdraw: several cheese, food, your staff and mind runes, and 4 free inventory slots
 - [ ] `7.02` Run to Taverley [CHECK ROUTE]
 - [ ] `7.03` Start [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: talk to the boy near the gate
 - [ ] `7.04` Continue [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: go west, then north around the hedge, to the front door of the house
-- [ ] `7.05` $\color{red}{\textbf{[RISK: Witch's experiment (TBD)]}}$ Complete [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: kill the experiment's four forms from the safespots in the combat table
+- [ ] `7.05` $\color{red}{\textbf{[RISK: Witch's experiment (5)]}}$ Complete [[Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House/Quick_guide)]: kill the experiment's four forms from the safespots in the combat table
 
 > **Rewards:**
 > - 4 quest points and 6,325 Hitpoints XP
@@ -554,4 +554,4 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 
 ---
 
-Open items are tracked in `notes/Open_Items.md` and sources in `notes/Sources.md`.
+Open items are tracked in `notes/open-items.md` and sources in `notes/sources.md`.

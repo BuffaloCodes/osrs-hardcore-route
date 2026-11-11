@@ -1,6 +1,6 @@
 # Open items
 
-Running list for `chapters/Chapter0.md`. Last swept on 11 November 2026, after the cleanup that cut the guide down to the Hardcore Worlds starter route (Visits 0 to 10). Step IDs below are current.
+Running list for `starter-guide.md`. Last swept on 11 November 2026, after the cleanup that cut the guide down to the Hardcore Worlds starter route (Visits 0 to 10). Step IDs below are current.
 
 ## Decisions waiting on the author
 
@@ -20,7 +20,7 @@ Running list for `chapters/Chapter0.md`. Last swept on 11 November 2026, after t
 ## Numbers to fill in
 
 10. **Level tables.** Visits 2 and 3 are marked stale, and Visits 4 to 10 have none. Visits 0 and 1 were recalculated during the cleanup (Visit 1: Agility 25, total level 106, 10 quest points). Recalculate all of them once the route is final. The recalculation also needs: the Agility target at `5.07`, the Magic target at `6.04` and your Thieving XP at `4.04`.
-11. **Max hits.** Every max hit is `TBD` in the combat tables for Visits 3, 4, 7, 8 and 9, except those already known. Fill them in from the wiki and add matching rows to `data/risk_data.csv`.
+11. **Max hits.** Filled from `data/risk_data.csv`: Khazard warlord (10), prison enemies (13) and Witch's experiment (5). Still `TBD`: Khazard commander, bear, maze monsters, spider, Jogre, Black demon, Delrith, the Hosidius guard dogs, Adala, the two unequipped enemies, bandit champion, Tough Guy and the bearded Pollnivnian bandit. Fill them in from the wiki and add matching rows to `data/risk_data.csv`.
 12. **XP and drops.** Magic and Prayer XP per Brutus kill (Visit 6), and what Bull Sharks drop and how much gp they bring in (Visit 5).
 13. **Bull shark spot.** Visit 5 says the shore north of the Karamja volcano, tested by the author. The exact spot is `[missing]` in `5.06`.
 
@@ -45,4 +45,4 @@ The links for Witch's House, Death on the Isle and The Feud follow the `/Quick_g
 - **Scope:** The guide is now a Hardcore Worlds starter guide that ends at the Rogue outfit, not a multiquesting efficiency route.
 - **Cut quests:** Monk's Friend, Sea Slug, Misthalin Mystery, Restless Ghost, Sheep Shearer, Rune Mysteries, Witch's Potion, Gertrude's Cat, Daddy's Home, the Lily Pad quest, Plague City, Biohazard, Black Knights' Fortress, and every quest that was only started. See the changelog.
 - **Cut steps:** Construction, Firemaking to 50 on teak, all diary-only steps, the museum quiz and the shopping for cut quests. Quest items can be bought on the GE, since the account is not an ironman.
-- **Title and header:** Still to do, in the housekeeping step.
+- **Title and header:** Retitled "Hardcore Worlds Starter Guide", with the "Step 0" and multiquesting wording removed. The guide and changelog are now `starter-guide.md` and `changelog.md`, and the `chapters/` folder is gone.

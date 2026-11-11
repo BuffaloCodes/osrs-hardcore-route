@@ -1,10 +1,10 @@
 # Sources
 
-Running list for `chapters/Chapter0.md`. All pages are on the OSRS Wiki (`https://oldschool.runescape.wiki/w/`). Visits 0 to 3 were first checked on 5 and 6 November 2026. The pages for Visits 3 to 10 were checked on 11 November 2026.
+Running list for `starter-guide.md`. All pages are on the OSRS Wiki (`https://oldschool.runescape.wiki/w/`). Visits 0 to 3 were first checked on 5 and 6 November 2026. The pages for Visits 3 to 10 were checked on 11 November 2026.
 
 ## Quest quick guides (linked in the guide)
 
-Every quest link in `Chapter0.md` points at the quest's `/Quick_guide` page. Page names:
+Every quest link in `starter-guide.md` points at the quest's `/Quick_guide` page. Page names:
 
 | Visit | Quests |
 |-------|--------|
