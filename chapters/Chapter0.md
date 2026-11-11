@@ -14,22 +14,20 @@
 
 | Visit | Area | Quests progressed | Result |
 |-------|------|-------------------|--------|
-| 0 | Ardougne, the Monastery, Witchaven and Brimhaven, then home teleport | Wilderness lever, Hazeel Cult, Sheep Herder, Monk's Friend, Sea Slug and Tribal Totem, plus shopping and food and silk thieving | Five quests complete, food and supplies stocked, back in Lumbridge |
+| 0 | Ardougne and Brimhaven, then home teleport | Wilderness lever, Hazeel Cult, Sheep Herder and Tribal Totem, plus food and silk thieving | Three quests complete, food stocked and gold earned, back in Lumbridge |
 | 1 | Lumbridge, Draynor, Port Sarim, Entrana, the Wizards' Tower and Falador | Mudfoot's Big Adventure, The Ides of Milk, The Restless Ghost, Misthalin Mystery, Sheep Shearer and X Marks the Spot complete, plus Rune Mysteries, A Porcine of Interest, Vampyre Slayer, The Corsair Curse, The Knight's Sword and Black Knights' Fortress started | Lamps applied, ready to teleport to Varrock |
 | 2 | Varrock and Varlamore | Gertrude's Cat, Children of the Sun, Daddy's Home and The Ribbiting Tale of a Lily Pad Labour Dispute complete, plus Demon Slayer, Romeo & Juliet, Shield of Arrav, Priest in Peril, Family Crest, Vampyre Slayer and The Knight's Sword advanced and Rag and Bone Man I started, with the Waterfall Quest runes bought | Firemaking 50, ending at the Mistrock bank |
 | 3 | Draynor, Rimmington, Ardougne and the Tree Gnome Stronghold | Rune Mysteries, Witch's Potion, Tree Gnome Village, Fight Arena, The Grand Tree, Plague City, Biohazard and Demon Slayer complete | Construction 12, Demon Slayer lamps on Hitpoints, next quest started at King Lathas |
 
 ---
 
-## Visit 0: Ardougne run (food, XP and supplies)
+## Visit 0: Ardougne run (food, XP and gold)
 
 *Visit-specific notes are at the bottom of this section.*
 
-**Goal:** Reach Ardougne and clear the Wilderness lever first, then earn Thieving XP and gold from [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] and [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)], steal food and silk, and complete [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)], [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)] and [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)] on the way. Shop for the later visits, then home teleport to Lumbridge.
+**Goal:** Reach Ardougne and clear the Wilderness lever first, then earn Thieving XP and gold from [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] and [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)], steal food and silk, and complete [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]. Then home teleport to Lumbridge.
 
-**Gold:** Do not count on the 25 gp that may be on the account at spawn. [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] pays 2,000 gp first, which covers the 100 gp plague suit for [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)], and [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)] pays 3,100 gp. Expect a 5,000 gp stack before shopping. Selling 73x silk later returns 4,380 gp. That is about 500 gp short of the target, *so the player picks a top-up (see the Gold top-up note in the Visit 0 Notes).*
-
-**Ardougne Diary tasks completed in this visit:** Easy 5/10 (lever, church altar, Probita, cake and silk) and Medium 1/12 (catch any fish on the Fishing Platform, after [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)]).
+**Gold:** Do not count on the 25 gp that may be on the account at spawn. [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] pays 2,000 gp first, which covers the 100 gp plague suit for [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)], and [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)] pays 3,100 gp. Selling all your silk adds more. The total is [missing] until the gold ledger is redone.
 
 **Combat table: Visit 0**
 
@@ -39,20 +37,14 @@
 | Ardougne guard | 3 | Bakery Stall: stand underneath the Baker while stealing. Silk Stall: no safespot |
 | Hero | 9 | Same as the guard |
 | Paladin | 8 | Same as the guard |
-| Thieves (stone circle den) | 3 | Run past, do not fight |
-| Sea slug (Fishing Platform) | 3 (only when picked up) | Do not pick up the sea slugs |
 | Giant rats (Ardougne Sewers, 8x) | 1 | Only met if the staircase trap is triggered |
 | Zombies (Ardougne Sewers, 3x) | 3 | Only met if the staircase trap is triggered |
 | Jungle spiders (Brimhaven) | 6 | Avoid them |
 
 - [ ] `0.01` Spawn in Death's Office (in Lumbridge if post-Reset), activate your Escape Crystal to function as a Ring of Life, and equip it in your ring slot
-- [ ] `0.02` Bank all items, withdraw the bronze axe, grab 1x log, then go downstairs [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
-- [ ] `0.03` Take the empty jug from the kitchen and fill it with water [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]
 - [ ] `0.04` Minigame teleport to Soul Wars and leave through the Edgeville portal
 - [ ] `0.05` $\color{red}{\textbf{[RISK: Wilderness level 51 (99)]}}$ Use the Edgeville Wilderness lever to be transported to the Deserted Keep (level 51 Wilderness). This is the riskiest step in the visit, so it goes first, before more time is invested in the account
 - [ ] `0.06` $\color{red}{\textbf{[RISK: Wilderness level 51 (99)]}}$ Pull the Deserted Keep lever straight away and choose Ardougne
-- [ ] `0.07` $\color{red}{\textbf{[RISK: Wilderness level 51 (99)]}}$ Use the Ardougne lever to teleport back to the Deserted Keep (Ardougne Diary, Easy 1/10)
-- [ ] `0.08` $\color{red}{\textbf{[RISK: Wilderness level 51 (99)]}}$ Pull the Deserted Keep lever again and choose Ardougne
 - [ ] `0.09` Start [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)]: talk to Ceril Carnillean in East Ardougne, just north of the clock tower
 - [ ] `0.10` Complete [[Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult/Quick_guide)] in full, siding with Hazeel
 
@@ -60,7 +52,6 @@
 > - 1 quest point and 1,500 Thieving XP
 > - 2,000 gp (plus 5 gp more if you sided with the Carnilleans)
 
-- [ ] `0.11` Take 4x purple dye from the spawn north of the clock tower, near the spirit tree [[Land of the Goblins](https://oldschool.runescape.wiki/w/Land_of_the_Goblins/Quick_guide)] [[Song of the Elves](https://oldschool.runescape.wiki/w/Song_of_the_Elves/Quick_guide)] [[Recipe for Disaster](https://oldschool.runescape.wiki/w/Recipe_for_Disaster/Quick_guide)] [[Ghosts Ahoy](https://oldschool.runescape.wiki/w/Ghosts_Ahoy/Quick_guide)]
 - [ ] `0.12` Start [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)]: talk to Councillor Halgrive outside the East Ardougne church, then buy the plague suit (100 gp) from Doctor Orbon
 - [ ] `0.13` Complete [[Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder/Quick_guide)] in full
 
@@ -68,37 +59,13 @@
 > - 4 quest points and 3,100 gp
 > - 1,000 Hunter XP
 
-- [ ] `0.14` Visit the Ardougne general store and buy the supplies for the later visits (3x rope, 1x water-filled vial pack, 30x balls of wool, 7x papyrus)
-- [ ] `0.15` Burn your Prayer point and restore it at the altar in the East Ardougne church (Ardougne Diary, Easy 2/10)
-- [ ] `0.16` Check your insured pets with Probita (Ardougne Diary, Easy 3/10)
-- [ ] `0.17` Buy 2x silver bar from the Silver Merchant
-- [ ] `0.18` $\color{red}{\textbf{[RISK: Ardougne guard (3)]}}$ $\color{red}{\textbf{[RISK: Hero (9)]}}$ $\color{red}{\textbf{[RISK: Paladin (8)]}}$ Steal cakes from the Bakery Stall in Ardougne, standing underneath the Baker to avoid detection (Ardougne Diary, Easy 4/10)
-- [ ] `0.19` $\color{red}{\textbf{[RISK: Ardougne guard (3)]}}$ $\color{red}{\textbf{[RISK: Hero (9)]}}$ $\color{red}{\textbf{[RISK: Paladin (8)]}}$ Keep stealing from the Bakery Stall until you have banked at least 14x bread and as many cakes as you get up to level 20 Thieving, then bank all the food *(steal extra cakes here if you chose cakes for the gold top-up)*
-- [ ] `0.20` $\color{red}{\textbf{[RISK: Ardougne guard (3)]}}$ $\color{red}{\textbf{[RISK: Hero (9)]}}$ $\color{red}{\textbf{[RISK: Paladin (8)]}}$ Steal 84x silk from the Silk Stall (there is no safespot here), *plus extra silk if you chose silk for the gold top-up* (leaves you at about level 23 Thieving, see the Visit 0 Notes)
-- [ ] `0.21` Run to the Ardougne Monastery and Start [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)]: talk to Brother Omad
-- [ ] `0.22` $\color{red}{\textbf{[RISK: Thieves (3)]}}$ Complete [[Monk's Friend](https://oldschool.runescape.wiki/w/Monk%27s_Friend/Quick_guide)] in full
-
-> **Rewards:**
-> - 1 quest point and 2,000 Woodcutting XP
-> - 8x law rune
-
-- [ ] `0.23` Bank to gain inventory space, then cut and burn logs to level 35 Woodcutting (Firemaking 30 is expected on the way, see the Visit 0 Notes)
-- [ ] `0.24` Take your gp and a small fishing net, then take the boat to Brimhaven
-- [ ] `0.25` Buy 1x swamp paste from Trader Stan [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)]
-- [ ] `0.26` Buy 7x soda ash, 7x bucket of sand, 1x cake tin and 1x glassblowing pipe from Trader Stan
+- [ ] `0.18` $\color{red}{\textbf{[RISK: Ardougne guard (3)]}}$ $\color{red}{\textbf{[RISK: Hero (9)]}}$ $\color{red}{\textbf{[RISK: Paladin (8)]}}$ Steal cakes from the Bakery Stall in Ardougne, standing underneath the Baker to avoid detection
+- [ ] `0.19` $\color{red}{\textbf{[RISK: Ardougne guard (3)]}}$ $\color{red}{\textbf{[RISK: Hero (9)]}}$ $\color{red}{\textbf{[RISK: Paladin (8)]}}$ Keep stealing from the Bakery Stall until you have banked at least 14x bread and as many cakes as you get up to level 20 Thieving, then bank all the food
+- [ ] `0.20` $\color{red}{\textbf{[RISK: Ardougne guard (3)]}}$ $\color{red}{\textbf{[RISK: Hero (9)]}}$ $\color{red}{\textbf{[RISK: Paladin (8)]}}$ Steal 84x silk from the Silk Stall (there is no safespot here). This leaves you at about level 23 Thieving, see the Visit 0 Notes
+- [ ] `0.24` Take your gp, then take the boat from Ardougne to Brimhaven
 - [ ] `0.27` Start [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]: head to Kangai Mau in the Shrimp and Parrot
-- [ ] `0.28` $\color{red}{\textbf{[RISK: Sea slug (3)]}}$ Start [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)]: return to Witchaven and talk to Caroline, north of the town; do not pick up the sea slugs
-- [ ] `0.29` $\color{red}{\textbf{[RISK: Sea slug (3)]}}$ Complete [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)] in full (do not pick up the sea slugs)
-
-> **Rewards:**
-> - 1 quest point and 7,175 Fishing XP
-> - Access to the Fishing Platform
-> - Oyster pearls
-
-- [ ] `0.30` Fish an anchovy or shrimp on the Fishing Platform after the quest (Ardougne Diary, Medium 1/12)
-- [ ] `0.31` Buy 1x raw sardine, 2x fishing rod, 1x fly fishing rod, 1x harpoon, 10x fishing bait and 1x lobster pot from Lovecraft's Tackle in Witchaven
 - [ ] `0.32` $\color{red}{\textbf{[RISK: Giant rats (1)]}}$ $\color{red}{\textbf{[RISK: Zombies (3)]}}$ Continue [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]: carry on to the point where you collect the totem (investigate the stairs first, because triggering the trap drops you into the Ardougne Sewers)
-- [ ] `0.33` Sell 73x silk back to the Silk trader (leave 11x in the bank) for 60 gp each *(or the extra silk too, if you chose silk for the gold top-up)*, then sell your oyster pearls to the general store *(plus any cakes above the 28 you keep for food, if you chose cakes for the gold top-up)* (Ardougne Diary, Easy 5/10). After all the shopping you should be back to roughly 5,000 gp [BUFFALODAD NEEDS TO CONFIRM THIS COVER IT], which covers the rune purchases in Varrock later (Visit 1). Keep 28x cakes in the bank for food and never sell those
+- [ ] `0.33` Sell all your silk back to the Silk trader for 60 gp each. Keep 28x cakes in the bank for food and never sell those
 - [ ] `0.34` $\color{red}{\textbf{[RISK: Jungle spiders (6)]}}$ Complete [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)]
 
 > **Rewards:**
@@ -108,13 +75,8 @@
 - [ ] `0.35` Home teleport to Lumbridge *(optional: minigame teleport to Clan Wars first to restore run energy)* to begin the next location segment
 
 > **Visit 0 Notes:**
-> - **Purple dye:** The spawn gives one dye at a time, so 4x means waiting on respawns. Fit this around the quest steps rather than standing still.
-> - **Silk trader:** He refuses to speak to you after you steal from his stall. The Silk stall page says to wait 20 to 30 minutes since the last theft, and the Ardougne Diary page says 10 consecutive minutes outside Ardougne without logging off. Plan for the longer figure and stay logged in. To complete the diary task, first offer to sell your silk for 120 gp, then counter his bid with 60 gp.
-> - **Woodcutting and Firemaking:** [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)] needs Firemaking 30, and the route does not train it directly. Cutting and burning logs up to Woodcutting 35 is expected to reach Firemaking 30 along the way. Confirm your Firemaking level before starting [[Sea Slug](https://oldschool.runescape.wiki/w/Sea_Slug/Quick_guide)].
-> - **Thieving:** [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)] needs level 21 Thieving. Steal food up to level 20 first, then the silk steals take you past 21. The gold top-up adds 16 XP per extra cake or 24 XP per extra silk.
-> - **Gold top-up** *(player's choice)*: Without [[Clock Tower](https://oldschool.runescape.wiki/w/Clock_Tower/Quick_guide)] you are missing 500 gp. Make it up with one of these, picked before step `0.18`. Check the general store's cake price and the silk price first.
->   - **Cakes:** Steal extra cakes at the Bakery Stall (step `0.19`) and sell them to the general store at step `0.33`. This keeps the safespot under the Baker, so it is the safer option. Check the general store's buy price for cakes first, because the number of extra cakes needed is 500 gp divided by that price. These are on top of the 28 cakes you keep for food. Each cake adds 16 Thieving XP.
->   - **Silk:** Steal about 9 extra silk (step `0.20`) and sell them with the rest at 60 gp each. This needs fewer steals and pays more per steal, and each silk adds 24 Thieving XP. The Silk Stall has no safespot, so you are exposed to the guard, hero and paladin the whole time. It is the riskier option.
+> - **Silk trader:** He refuses to speak to you after you steal from his stall. The Silk stall page says to wait 20 to 30 minutes since the last theft. Plan for the longer figure and stay logged in. To sell, first offer your silk for 120 gp, then counter his bid with 60 gp.
+> - **Thieving:** [[Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem/Quick_guide)] needs level 21 Thieving. Steal food up to level 20 first, then the silk steals take you past 21.
 
 **Estimated levels after Visit 0:**
 
@@ -122,16 +84,16 @@
 |---|---|---|
 | Attack: 1 | Hitpoints: 10 | Mining: 1 |
 | Strength: 1 | Agility: 1 | Smithing: 1 |
-| Defence: 1 | Herblore: 1 | Fishing: 24 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 25 | Cooking: 1 |
-| Prayer: 1 | Crafting: 1 | Firemaking: 36 |
-| Magic: 1 | Fletching: 1 | Woodcutting: 35 |
+| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Magic: 1 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 9 | **Total level:** 157
+**Quest points:** 7 | **Total level:** 65
 
-Firemaking is the lower end of the 36 to 39 estimate and depends on the log mix burned in step `0.23`. Thieving is before the gold top-up. Quest points include the 1 from Tutorial Island.
+Thieving is the old estimate and has not been recalculated for the removed steps. Quest points include the 1 from Tutorial Island.
 
 ---
 
