@@ -16,7 +16,7 @@
 |-------|------|-------------------|--------|
 | 0 | Ardougne and Brimhaven, then home teleport | Wilderness lever, Hazeel Cult, Sheep Herder and Tribal Totem, plus food and silk thieving | Three quests complete, food stocked and gold earned, back in Lumbridge |
 | 1 | Lumbridge, Draynor and Port Sarim | Mudfoot's Big Adventure, The Ides of Milk and X Marks the Spot complete, plus Draynor Agility laps | Lamps applied, ready for Varrock |
-| 2 | Varrock and Varlamore | Gertrude's Cat, Children of the Sun, Daddy's Home and The Ribbiting Tale of a Lily Pad Labour Dispute complete, plus Demon Slayer, Romeo & Juliet, Shield of Arrav, Priest in Peril, Family Crest, Vampyre Slayer and The Knight's Sword advanced and Rag and Bone Man I started, with the Waterfall Quest runes bought | Firemaking 50, ending at the Mistrock bank |
+| 2 | Varrock and Varlamore | Children of the Sun complete, Demon Slayer started, Eclipse reds sold | Keys collected and mind runes bought, ending at the Mistrock bank |
 | 3 | Draynor, Rimmington, Ardougne and the Tree Gnome Stronghold | Rune Mysteries, Witch's Potion, Tree Gnome Village, Fight Arena, The Grand Tree, Plague City, Biohazard and Demon Slayer complete | Construction 12, Demon Slayer lamps on Hitpoints, next quest started at King Lathas |
 
 ---
@@ -189,13 +189,11 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 
 ---
 
-## Visit 2: Varrock and Varlamore (Gertrude's Cat, Daddy's Home and the Lily Pad quest)
+## Visit 2: Varrock and Varlamore (Children of the Sun and Demon Slayer)
 
 *Visit-specific notes are at the bottom of this section.*
 
-**Goal:** Complete [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)], [[Children of the Sun](https://oldschool.runescape.wiki/w/Children_of_the_Sun/Quick_guide)], [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)] and [[The Ribbiting Tale of a Lily Pad Labour Dispute](https://oldschool.runescape.wiki/w/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute/Quick_guide)], and progress [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)], [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)], [[Shield of Arrav](https://oldschool.runescape.wiki/w/Shield_of_Arrav/Quick_guide)], [[Priest in Peril](https://oldschool.runescape.wiki/w/Priest_in_Peril/Quick_guide)], [[Family Crest](https://oldschool.runescape.wiki/w/Family_Crest/Quick_guide)], [[Vampyre Slayer](https://oldschool.runescape.wiki/w/Vampyre_Slayer/Quick_guide)] and [[The Knight's Sword](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword/Quick_guide)]. Start [[Rag and Bone Man I](https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_I/Quick_guide)]. Buy the runes for [[Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest/Quick_guide)], train Firemaking to level 50 on teak in Varlamore, and finish at the Mistrock bank.
-
-**Varrock Diary tasks completed in this visit:** Easy 6/14 (browse Thessalia's store, buy a newspaper, feed the stray dog, steal from the tea stall, chop the dying tree and make a plank at the sawmill). The dog is optional, so the count is 5/14 without it.
+**Goal:** Complete [[Children of the Sun](https://oldschool.runescape.wiki/w/Children_of_the_Sun/Quick_guide)], start [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)] and collect its keys from Captain Rovin and the sewer drain, and buy mind runes for Magic training. Then take the quetzal to Varlamore, sell Eclipse reds, and finish at the Mistrock bank.
 
 **Combat table: Visit 2**
 
@@ -205,84 +203,27 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 | Jaguar (Avium Savannah, east of Sunset Coast) | 6 | Aggressive, combat level 67. Avoid them while walking. Minor risk |
 
 - [ ] `2.01` $\color{red}{\textbf{[RISK: Dark wizard (6)]}}$ Get to Varrock. Options: use the Chronicle to teleport to Champion's Guild, use Count Check to teleport to Barbarian Village (see the Visit 2 Notes about Funds), or walk from Lumbridge. The Dark wizards are only a risk on the walking route
-- [ ] `2.02` Go north/east (depending on how you travelled), start [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)] and pick up some doogle leaves behind her house
-- [ ] `2.03` Go to Varrock square
-- [ ] `2.04` Go to Varrock West Bank and withdraw gp and one set of bones
-- [ ] `2.05` *(Optional)* If you see the stray dog, feed it the bones (Varrock Diary, Easy 1/14)
+- [ ] `2.04` Go to Varrock West Bank and withdraw your gp
 - [ ] `2.06` Buy a staff of air from Zaff. Skip if out of stock
 - [ ] `2.07` Talk to Aris Maye to Start [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]
-- [ ] `2.08` Head south and browse Thessalia's store (Varrock Diary, Easy 2/14). Buy a brown apron
-- [ ] `2.09` Talk to Romeo to Start [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)]
-- [ ] `2.10` Talk to Shilop and Wilough to Continue [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)]
-- [ ] `2.11` Buy a newspaper from Benny (Varrock Diary, Easy 3/14), then drop it
 - [ ] `2.12` Complete [[Children of the Sun](https://oldschool.runescape.wiki/w/Children_of_the_Sun/Quick_guide)] in full: talk to Noah to start it and finish with Sergeant Tobyn in the palace roof cell room
 
 > **Rewards:**
 > - 1 quest point
 > - Access to Varlamore through the Quetzal Transport System and fairy rings
 
-- [ ] `2.13` Hit the combat dummies on the roof of Varrock Castle to reach 5 Attack so you can equip your steel axe later
 - [ ] `2.14` Talk to Sir Prysin downstairs in Varrock Palace to Continue [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]
 - [ ] `2.15` Talk to Captain Rovin upstairs in the palace to Continue [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]
-- [ ] `2.16` Talk to Reldo to Continue [[The Knight's Sword](https://oldschool.runescape.wiki/w/The_Knight%27s_Sword/Quick_guide)] and Start [[Shield of Arrav](https://oldschool.runescape.wiki/w/Shield_of_Arrav/Quick_guide)], then find the book in the library and speak with Reldo again
-- [ ] `2.17` Grab the pie dish in the kitchen
-- [ ] `2.18` Go up the stairs in the kitchen, grab both buckets, then go back downstairs
-- [ ] `2.19` Continue [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]: fill a bucket with water and use it on the drain outside the kitchen to flush the key
-- [ ] `2.20` Speak with King Roald to Start [[Priest in Peril](https://oldschool.runescape.wiki/w/Priest_in_Peril/Quick_guide)]
+- [ ] `2.18` Go up the stairs in the kitchen and grab a bucket, then go back downstairs
+- [ ] `2.19` Continue [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]: fill the bucket with water and use it on the drain outside the kitchen to flush the key
 - [ ] `2.21` Continue [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)]: head east down the manhole and collect the key
-- [ ] `2.22` Go back out and north to the estate agent, collect a saw and Start [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)]
-- [ ] `2.23` Go across the street to the museum and go downstairs. Start and complete the Museum History Quiz
-- [ ] `2.24` Go to Varrock East Bank and withdraw the research package, some runes for casting Wind Strike, and coins
 
-**IMPORTANT:** Make sure you have at least 3,704 gp left after the Aubury shopping at `2.26`. The gold ledger, to be done once the route is written, will confirm this figure against the 5,000 gp target on `0.33`.
+**Gold:** The rune purchase at `2.26` and the steps after it need gp that the gold ledger has still to confirm.
 
-- [ ] `2.25` Go to Aubury, give him the research notes and continue the dialogue until he offers a cup of tea (restores run energy)
-- [ ] `2.26` Buy 400 mind, 100 air, 50 water, 50 earth and 20 fire runes (no rune packs). If you could not get a staff of air, buy 400 additional air runes
-- [ ] `2.27` Speak with Dimintheis in Varrock East to Start [[Family Crest](https://oldschool.runescape.wiki/w/Family_Crest/Quick_guide)]
-- [ ] `2.28` Steal a cup of tea from the tea stall (Varrock Diary, Easy 4/14)
-- [ ] `2.29` Bank the cup of tea, the runes and the research notes
-- [ ] `2.30` Withdraw the hammer and saw
-- [ ] `2.31` Head to Old Man Yarlo and Continue [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)] up to the point where you collect the waxwood logs from the crates in the kitchen
-- [ ] `2.32` Head to the Blue Moon Inn and talk to Dr Harlow to Continue [[Vampyre Slayer](https://oldschool.runescape.wiki/w/Vampyre_Slayer/Quick_guide)]. Buy him a beer, and buy an extra beer for later
-- [ ] `2.33` Go across the street to the sword shop, go up the ladder and grab the lit candle
-- [ ] `2.34` Head north-east to Varrock East Bank and bank everything
-- [ ] `2.35` Withdraw the bucket of milk, raw sardine, Chronicle, axe, knife, gp stack, doogle leaf and 3x waxwood logs
-- [ ] `2.36` Head north-east out of Varrock to the lumberyard
-- [ ] `2.37` Continue [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)] until the cat goes home
-- [ ] `2.38` Cut the dying tree inside the lumberyard (Varrock Diary, Easy 5/14)
-- [ ] `2.39` Collect the spawned logs, hopping worlds to refresh the spawns, and fletch 2,100 arrow shafts
-- [ ] `2.40` Make 1 normal plank at the sawmill (Varrock Diary, Easy 6/14), then make the 3 waxwood planks. The 10 regular planks for [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)] are already in the bank from Entrana
-- [ ] `2.41` Buy 5x bolt of cloth and 100 steel nails
-- [ ] `2.42` Head east and speak to the Odd Old Man to Start [[Rag and Bone Man I](https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_I/Quick_guide)]
-- [ ] `2.43` Complete [[Gertrude's Cat](https://oldschool.runescape.wiki/w/Gertrude%27s_Cat/Quick_guide)]: teleport using the Chronicle and speak to Gertrude
-
-> **Rewards:**
-> - 1 quest point and 1,525 Cooking XP
-> - Your own kitten, a chocolate cake and a stew
-
-- [ ] `2.44` Speak with Juliet, then give the letter to Romeo
-- [ ] `2.45` Enter the church and speak with Father Lawrence to Continue [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)]
-- [ ] `2.46` Pass the bank on the way back to Old Man Yarlo and withdraw the 10x planks for [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)] (banked from Entrana)
-- [ ] `2.47` Complete [[Daddy's Home](https://oldschool.runescape.wiki/w/Daddy%27s_Home/Quick_guide)]: return to Old Man Yarlo to finish the work, then speak to Marlo at the estate agent
-
-> **Rewards:**
-> - 1 quest point and 944 Construction XP (400 for the quest and 544 for building the furniture)
-> - A player-owned house in Rimmington, or 1,000 gp if you already own one
-> - Marlo's crate: 25 planks, 50 mithril nails, 5 steel bars, 10 oak planks, 8 bolts of cloth, 5 house teleports and 1 Falador teleport
-
-- [ ] `2.48` Open the crate and store the items at Varrock East Bank
-- [ ] `2.49` At Varrock East Bank grab your steel axe, forestry kit and tinderbox. Run east and speak with Regulus Cento to take the quetzal to Varlamore
+- [ ] `2.26` Go to Aubury's rune shop and buy 400 mind runes (no rune packs). If you could not get a staff of air, buy 400 air runes too
+- [ ] `2.49` Run east to Regulus Cento and take the quetzal to Varlamore
 - [ ] `2.50` Go to The Flaming Arrow and buy as many jugs of wine as you expect to need (50 is probably safe). Stock is infinite, they cost 1 coin and heal 11 HP in one action
-- [ ] `2.51` Walk to Auburnvale. It is a very long trek but can be shortened with the Mountain Guide
-- [ ] `2.52` Visit Lunami's Axe Shop and buy a mithril axe (Woodcutting 21) and *(Optional)* an adamant axe (Woodcutting 31)
-- [ ] `2.53` Complete [[The Ribbiting Tale of a Lily Pad Labour Dispute](https://oldschool.runescape.wiki/w/The_Ribbiting_Tale_of_a_Lily_Pad_Labour_Dispute/Quick_guide)]: travel south, start the quest (Woodcutting 15 needed) and finish the quest
-
-> **Rewards:**
-> - 1 quest point and 2,000 Woodcutting XP
-> - Access to a new Hardwood Farming patch
-
-- [ ] `2.54` Chop teak logs (Woodcutting 35) and burn them (Firemaking 35) to level 50 Firemaking on a forestry world
-- [ ] `2.55` Head west towards the Hunter's Guild
+- [ ] `2.55` Head west towards the Hunter's Guild [CHECK ROUTE: this step used to follow the walk to Auburnvale]
 - [ ] `2.56` Collect 1 sweetcorn
 - [ ] `2.57` Collect the needle
 - [ ] `2.58` Collect a bucket of water by the bank chest
@@ -304,8 +245,8 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 > - **Funds:** Check your gp stack and the rune prices before the trip. *If funds are too low, the fallback is the Count Check teleport to Barbarian Village, where the Stronghold of Security is, for its free 10,000 gp, but going there with low hit points is a worry.* The author tested the Count Check teleport in game on 6 November 2026 and it still works, although the wiki says it is one-time and was removed from main worlds on 3 November 2026. It is not known whether it works again after a death or reset.
 > - **Dark wizards:** The Dark wizards outside Varrock are only a risk on the walking route at `2.01`. The wiki gives a max hit of 2 for the level 7 variant and no figure for the level 20 variant, but 6 is the highest max hit among Dark wizards, so the table uses it.
 > - **Hunter's Guild:** The wiki lists Hunter 46 for the guild's amenities, but the author tested that you can enter Guildmaster Apatura's building and take the Eclipse red without it. Antonius buys each at 700 gp.
-> - **Teak:** Chopping teak needs Woodcutting 35 and burning it needs Firemaking 35. Each log gives 85 Woodcutting XP and 105 Firemaking XP, so Firemaking 36 to 50 takes about 730 logs.
-> - **Quests left open:** [[Demon Slayer](https://oldschool.runescape.wiki/w/Demon_Slayer/Quick_guide)], [[Romeo & Juliet](https://oldschool.runescape.wiki/w/Romeo_%26_Juliet/Quick_guide)] (finishes in the Varrock crypt after the Apothecary's cadava potion), [[Shield of Arrav](https://oldschool.runescape.wiki/w/Shield_of_Arrav/Quick_guide)] (needs a partner), [[Priest in Peril](https://oldschool.runescape.wiki/w/Priest_in_Peril/Quick_guide)], [[Family Crest](https://oldschool.runescape.wiki/w/Family_Crest/Quick_guide)] and [[Rag and Bone Man I](https://oldschool.runescape.wiki/w/Rag_and_Bone_Man_I/Quick_guide)] are started or advanced here and finished in a later visit.
+> - **Demon Slayer:** Started here and finished in Visit 3.
+> - **Eclipse reds:** Kept until the gold ledger is done. It may move to the Death on the Isle location or be cut.
 
 **Estimated levels after Visit 2:**
 
@@ -322,7 +263,7 @@ Combat XP from the outlaws, Brutus and other fights is not counted. Agility 25 i
 
 **Quest points:** 19 | **Total level:** 258
 
-Firemaking 50 is the target of `2.54`. Woodcutting 48 assumes the lower end of the Visit 0 estimate (35) plus 2,000 XP from the Lily Pad quest and about 730 teak logs at 85 XP each. Fletching assumes regular logs (15 shafts and 5 XP per log, so 140 logs for 2,100 shafts). Attack 5 comes from the combat dummies. Slayer 9 and Hunter 13 come from the Museum History Quiz (1,000 XP in each). Hitpoints from that Attack XP and any other combat XP are not counted. Quest points include the 1 from Tutorial Island.
+*[Stale: recalculate after the route is final.]*
 
 ---
 
@@ -454,6 +395,8 @@ Firemaking 50 is the target of `2.54`. Woodcutting 48 assumes the lower end of t
 | Construction: 12 | Hunter: 13 | Sailing: 1 |
 
 **Quest points:** 37 | **Total level:** 356
+
+*[Stale: recalculate after the route is final.]*
 
 Attack 41 is the Visit 2 figure (about 400 XP) plus 42,025 XP from Tree Gnome Village, Fight Arena and The Grand Tree. Strength 7 is the 800 XP from killing 25 cows, which is 1 XP short of level 8. Hitpoints 20 is the Visit 2 estimate (level 15) plus the two 1,000 XP Demon Slayer lamps and about 267 XP from the cows (a third of the 800 Strength XP). Magic 19 assumes Magic sits at exactly 1,833 XP (level 13) after Visit 2, plus 325 from Witch's Potion and 2,150 from The Grand Tree. Agility 25 is Visit 2's level 5 plus 7,900 XP from The Grand Tree. Mining 15 is 2,425 XP from Plague City, 14 XP over the level 15 threshold. Thieving 28 is the Visit 2 estimate (level 25) plus 2,175 XP from Fight Arena and 1,250 from Biohazard, and could reach 29 if Visit 2 ended near the top of level 25. Runecraft 5 is the 500 XP from Rune Mysteries. Construction 12 is 1,666 XP, tested in game by the author. The gnome agility lap, the Biohazard training dummies, spell casts and other combat XP are not counted. Quest points include the 18 from Visit 3.
 
