@@ -1,4 +1,3 @@
-
 - [ ] Spawn in Death's Office (in Lumbridge after a Reset). Activate your Escape Crystal to use it as a Ring of Life. Equip it in your ring slot.
 - [ ] Use the minigame teleport to Soul Wars. Leave through the Edgeville portal.
 - [ ] Use the Edgeville Wilderness lever. It moves you to the Deserted Keep (level 51 Wilderness). This step has the most risk in the visit, so do it first, before you put more time into the account.
