@@ -1,19 +1,21 @@
 NOTE: You carry your gp with you at all times. Never bank it.
 
+NOTE: ⚠ marks a step with death risk.
+
 ## Ardougne
 
 - [ ] Spawn in Death's Office (in Lumbridge after a Reset). Activate your Escape Crystal to use it as a Ring of Life. Equip it in your ring slot.
 - [ ] Use the minigame teleport to Soul Wars. Leave through the Edgeville portal.
-- [ ] Use the Edgeville Wilderness lever. It moves you to the Deserted Keep (level 51 Wilderness). This step has the most risk in the visit, so do it first, before you put more time into the account.
-- [ ] Pull the Deserted Keep lever. Choose Ardougne.
+- [ ] ⚠ Use the Edgeville Wilderness lever. It moves you to the Deserted Keep (level 51 Wilderness). This step has the most risk in the visit, so do it first, before you put more time into the account.
+- [ ] ⚠ Pull the Deserted Keep lever. Choose Ardougne.
 - [ ] Complete [Hazeel Cult](https://oldschool.runescape.wiki/w/Hazeel_Cult) in full. Side with Hazeel.
   - Rewards: 1 quest point, 1,500 Thieving XP, 2,000 gp, Hazeel's mark.
 - [ ] Talk to Councillor Halgrive outside the East Ardougne church to start [Sheep Herder](https://oldschool.runescape.wiki/w/Sheep_Herder). Buy the plague suit from Doctor Orbon in the church for 100 gp. Halgrive refunds the 100 gp at the end.
 - [ ] Complete Sheep Herder in full.
   - Rewards: 4 quest points, 1,000 Hunter XP, 3,100 gp, goat hunting on Wyrmscraig.
-- [ ] Steal cakes from the Bakery Stall in Ardougne. Stand underneath the Baker to avoid detection.
-- [ ] Keep stealing from the Bakery Stall until you reach level 20 Thieving (about 186 steals). Bank all the cakes. Bank at least 14x bread. Then bank all the other food.
-- [ ] Steal 84x silk from the Silk Stall (there is no safespot here). This leaves you at about level 23 Thieving.
+- [ ] ⚠ Steal cakes from the Bakery Stall in Ardougne. Stand underneath the Baker to avoid detection.
+- [ ] ⚠ Keep stealing from the Bakery Stall until you reach level 20 Thieving (about 186 steals). Bank all the cakes. Bank at least 14x bread. Then bank all the other food.
+- [ ] ⚠ Steal 84x silk from the Silk Stall (there is no safespot here). This leaves you at about level 23 Thieving.
 - [ ] Take some cakes. Then take the boat from Ardougne to Brimhaven.
 - [ ] Start [Tribal Totem](https://oldschool.runescape.wiki/w/Tribal_Totem). Go to Kangai Mau in the Shrimp and Parrot.
 - [ ] Continue Tribal Totem. Go on to the point where you collect the totem. Investigate the stairs first. If you trigger the trap, you fall into the Ardougne Sewers.
@@ -69,7 +71,7 @@ Levels add up from the reward lines in this guide. Combat XP from fights is not 
   - Rewards: 1 quest point, 200 gp, antique lamp (300 XP, any skill), scroll boxes.
 - [ ] Use the antique lamp on HP.
 - [ ] Home teleport to Lumbridge. Home teleports share a 30-minute cooldown. If your last home teleport was less than 30 minutes ago, walk.
-- [ ] Complete The Ides of Milk. Fight Brutus from the safespot between the feed troughs to the south. Use Wind Strike. Brutus takes no more than 80 casts.
+- [ ] ⚠ Complete The Ides of Milk. Fight Brutus from the safespot between the feed troughs to the south. Use Wind Strike. Brutus takes no more than 80 casts.
   - Rewards: 1 quest point, 1 magic lamp (1,000 XP, any combat skill including Prayer), cowbell amulet, Brutus access.
 - [ ] Return to Gillie Groats for the additional rewards.
 - [ ] Use the Ides of Milk magic lamp on Hitpoints.
@@ -112,7 +114,7 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Go west towards the Hunters' Guild.
 - [ ] Enter Guildmaster Apatura's building. Go up both ladders.
 - [ ] Loot 28 Eclipse reds. Hop worlds as needed. This area is likely very busy. If you cannot take any, skip this step. It is only a moneymaker.
-- [ ] Go south-west to Sunset Coast. Watch for the aggressive jaguars.
+- [ ] ⚠ Go south-west to Sunset Coast. Watch for the aggressive jaguars.
 - [ ] Travel with Antonia to Aldarin.
 - [ ] Go west. Trade Antonius. Sell all 28 Eclipse reds at once.
 
@@ -139,25 +141,25 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Run to Rimmington and take the boat to Ardougne.
 - [ ] Bank at Ardougne. Withdraw 6x logs, a staff (or staff of air), mind runes (and air runes if no air staff), and wine for the rest of the inventory. You need 5 gp for the Khali brew in Fight Arena and about 127 gp for 5x rope.
 - [ ] Use the Castle Wars minigame teleport.
-- [ ] Go north towards the gnome village. Watch for bears on the route to the maze.
+- [ ] ⚠ Go north towards the gnome village. Watch for bears on the route to the maze.
 - [ ] Follow the maze to the centre to start [Tree Gnome Village](https://oldschool.runescape.wiki/w/Tree_Gnome_Village).
-- [ ] Complete Tree Gnome Village. The Khazard commanders attack in the middle of the quest and can be avoided. The Khazard warlord attacks at the end and can be safespotted but it is tricky.
+- [ ] ⚠ Complete Tree Gnome Village. The Khazard commanders attack in the middle of the quest and can be avoided. The Khazard warlord attacks at the end and can be safespotted but it is tricky.
   - Rewards: 2 quest points, 11,450 Attack XP, Gnome amulet, spirit tree use.
 - [ ] Use the spirit tree to teleport to the Tree Gnome Stronghold.
 - [ ] Start [The Grand Tree](https://oldschool.runescape.wiki/w/The_Grand_Tree).
 - [ ] Use the Fishing Trawler minigame teleport. Buy 5x rope at the Khazard General Store.
-- [ ] Complete [Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena).
+- [ ] ⚠ Complete [Fight Arena](https://oldschool.runescape.wiki/w/Fight_Arena).
   - Rewards: 2 quest points, 12,175 Attack XP, 2,175 Thieving XP, 1,000 gp, Khazard armour.
 - [ ] Talk to Hazelmere to continue The Grand Tree.
 - [ ] Run to the Khazard Battlefield spirit tree. Take it to the Stronghold. Then continue The Grand Tree.
-- [ ] Escape on the gnome glider. It spawns you near aggressive Jogres. Be ready to run away or eat.
+- [ ] ⚠ Escape on the gnome glider. It spawns you near aggressive Jogres. Be ready to run away or eat.
 - [ ] Continue The Grand Tree until you have the lumber order.
 - [ ] Use the Chronicle to teleport to the Champions' Guild.
-- [ ] Bank then complete Demon Slayer.
+- [ ] ⚠ Bank then complete Demon Slayer.
   - Rewards: 3 quest points, 2 antique lamps (1,000 XP each, any combat skill including Prayer), Silverlight.
 - [ ] Return to Aris. Take the 2 antique lamps. Put both lamps on Hitpoints.
 - [ ] Use the Castle Wars minigame teleport. Go through the maze.
-- [ ] Teleport to the Tree Gnome Stronghold and complete The Grand Tree.
+- [ ] ⚠ Teleport to the Tree Gnome Stronghold and complete The Grand Tree.
   - Rewards: 5 quest points, 18,400 Attack XP, 7,900 Agility XP, 2,150 Magic XP, gnome glider, mine under the Grand Tree, Agility shortcut to the Barbarian Outpost (37 Agility).
 - [ ] Home teleport to Lumbridge.
 
@@ -199,7 +201,7 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 
 ## Brimhaven Agility Arena
 
-- [ ] Minigame teleport to TzHaar Fight Pits. Bank and grab food. Exit the volcano and walk to Brimhaven.
+- [ ] ⚠ Minigame teleport to TzHaar Fight Pits. Bank and grab food. Exit the volcano and walk to Brimhaven.
 - [ ] Pay Cap'n Izzy No-Beard 200 gp. Enter the Brimhaven Agility Arena. You do all the arena steps in this one visit.
 - [ ] Run the arena. Tag the active dispenser each time for an Agility arena ticket. Pressure pads and floor spikes need Agility 20. Hand holds, spinning blades and darts need Agility 40. Failing the darts drains 2 Agility levels.
 - [ ] Complete the agility arena until you have 180 Agility arena tickets. Then sell all 180 tickets to Pirate Jackie the Fruit. This gives about 94,120 Agility XP. Death on the Isle adds 7,500 XP, which takes you to level 50.
@@ -245,11 +247,11 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 
 - [ ] Visit the Grand Exchange. Buy a Games Necklace and a Ring of Dueling.
 - [ ] Bank. Withdraw: several cheese, leather gloves, 1x rope, 6x air runes, 6x earth runes, 6x water runes, food, your staff and mind runes, and 4 free inventory slots.
-- [ ] Run to Taverly. This is a long run with aggressive monsters. Bring food.
-- [ ] Complete [Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House). Kill the four forms of the experiment from the safespots.
+- [ ] ⚠ Run to Taverly. This is a long run with aggressive monsters. Bring food.
+- [ ] ⚠ Complete [Witch's House](https://oldschool.runescape.wiki/w/Witch%27s_House). Kill the four forms of the experiment from the safespots.
   - Rewards: 4 quest points, 6,325 Hitpoints XP.
 - [ ] Bank in Falador. Grab rope, food and a Games Necklace.
-- [ ] Complete [Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest). Glarial's Tomb bars runes, weapons, armour and logs. Bank them before you enter the tomb. Take the rope and runes again for the dungeon.
+- [ ] ⚠ Complete [Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest). Glarial's Tomb bars runes, weapons, armour and logs. Bank them before you enter the tomb. Take the rope and runes again for the dungeon.
   - Rewards: 1 quest point, 13,750 Attack XP, 13,750 Strength XP, 2 diamonds, 2 gold bars, 40 mithril seeds.
 
 **Estimated levels after this section:**
@@ -272,13 +274,13 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Chronicle to Varrock. Travel through the city to the quetzal.
 - [ ] Take the quetzal to Varlamore. Then go south-west to Sunset Coast.
 - [ ] Travel with Antonia to Aldarin (20 gp).
-- [ ] Complete [Death on the Isle](https://oldschool.runescape.wiki/w/Death_on_the_Isle).
+- [ ] ⚠ Complete [Death on the Isle](https://oldschool.runescape.wiki/w/Death_on_the_Isle).
   - Rewards: 2 quest points, 10,000 Thieving XP, 7,500 Agility XP, 5,000 Crafting XP, costume needle, butler's tray and masks, North Aldarin teleport on the Pendant of Ates.
 - [ ] Buy 3x beers at the pub.
 - [ ] Bank. Grab leather gloves, 3x beer, 1x bucket, your Ring of Dueling, your Games Necklace, food, your staff and mind runes. You need 738+ gp (501 gp for the quest, 200 gp for the carpet, and 37 gp for the headpiece, fake beard, Shantay Pass and waterskin).
 - [ ] Teleport with your Dueling Ring to Emir's Arena. Talk to Ali Morrisane to start [The Feud](https://oldschool.runescape.wiki/w/The_Feud). Buy the Kharidian headpiece and the fake beard from him (1 gp each).
 - [ ] Continue The Feud. Walk to Shantay Pass and buy a waterskin and a Shantay Pass. Take the magic carpet to Pollnivneach (200 gp).
-- [ ] Complete The Feud. Kill the Tough Guy and the bandit champion from their safespots.
+- [ ] ⚠ Complete The Feud. Kill the Tough Guy and the bandit champion from their safespots.
   - Rewards: 1 quest point, 15,000 Thieving XP, 500 gp, oak blackjack, Rogue Trader miniquest, pickpocketing in Pollnivneach.
 - [ ] Buy jugs of wine from Faisal the Barman in the bar.
 - [ ] Blackjack the bearded Pollnivnian bandits (Thieving 45) in Ali the Dyer's small house in northern Pollnivneach. Stop when you reach Thieving 50.
