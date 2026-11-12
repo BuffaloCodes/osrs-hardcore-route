@@ -1,3 +1,5 @@
+NOTE: You carry your gp with you at all times. Never bank it.
+
 - [ ] Spawn in Death's Office (in Lumbridge after a Reset). Activate your Escape Crystal to use it as a Ring of Life. Equip it in your ring slot.
 - [ ] Use the minigame teleport to Soul Wars. Leave through the Edgeville portal.
 - [ ] Use the Edgeville Wilderness lever. It moves you to the Deserted Keep (level 51 Wilderness). This step has the most risk in the visit, so do it first, before you put more time into the account.
@@ -8,7 +10,7 @@
 - [ ] Steal cakes from the Bakery Stall in Ardougne. Stand underneath the Baker to avoid detection.
 - [ ] Keep stealing from the Bakery Stall until you reach level 20 Thieving (about 186 steals). Bank all the cakes. Bank at least 14x bread. Then bank all the other food.
 - [ ] Steal 84x silk from the Silk Stall (there is no safespot here). This leaves you at about level 23 Thieving.
-- [ ] Take your gp and some cakes. Then take the boat from Ardougne to Brimhaven.
+- [ ] Take some cakes. Then take the boat from Ardougne to Brimhaven.
 - [ ] Start Tribal Totem. Go to Kangai Mau in the Shrimp and Parrot.
 - [ ] Continue Tribal Totem. Go on to the point where you collect the totem. Investigate the stairs first. If you trigger the trap, you fall into the Ardougne Sewers.
 - [ ] Sell all 84 silk back to the Silk trader for 60 gp each (5,040 gp).
@@ -37,7 +39,6 @@
 - [ ] Buy 1x Chronicle and minimum 3x teleport cards from Diango. Put the cards in the Chronicle. This costs 750 gp (300 gp for the Chronicle and 150 gp per card).
 - [ ] Run the Draynor Village Rooftop Course. Run 66 laps (120 XP per lap) to reach level 25 Agility.
 - [ ] Go to Aggie's house in Draynor and grab 2-4 cheeses. You need one for Witch's House, more if you mess up.
-- [ ] Take your coins from Draynor Bank.
 - [ ] Complete X Marks the Spot.
 - [ ] Use the antique lamp on HP.
 - [ ] Home teleport to Lumbridge. Home teleports share a 30-minute cooldown. If your last home teleport was less than 30 minutes ago, walk.
@@ -45,7 +46,7 @@
 - [ ] Return to Gillie Groats for the additional rewards.
 - [ ] Use the Ides of Milk magic lamp on Hitpoints.
 - [ ] Get to Varrock. You have three options. Use the Chronicle to teleport to the Champions' Guild. Use Count Check to teleport to Barbarian Village (unverified if this works after a reset or only once per account). Or walk from Lumbridge.
-- [ ] Go to Varrock West Bank. Withdraw your gp.
+- [ ] Go to Varrock West Bank.
 - [ ] Buy a staff of air from Zaff. Skip this if it is out of stock.
 - [ ] Talk to Aris Maye to start Demon Slayer. Bring 1 gp and keep 3 inventory slots empty.
 - [ ] Talk to Noah or Alina in Varrock Square to start Children of the Sun.
@@ -64,13 +65,11 @@
 - [ ] Go south-west to Sunset Coast. Watch for the aggressive jaguars.
 - [ ] Travel with Antonia to Aldarin.
 - [ ] Go west. Trade Antonius. Sell all 28 Eclipse reds at once.
-- [ ] Go south to Mistrock. Deposit everything there.
-- [ ] Bank at Mistrock. Deposit everything.
 - [ ] Use the home teleport to Lumbridge. Grab 6x logs at the top of the castle and store them in the bank.
 - [ ] Kill things until you have 25 bones.
 - [ ] Run to the Wizards' Tower with the bones. Talk to Wizard Traiborn to get the third key for Demon Slayer.
 - [ ] Run to Rimmington and take the boat to Ardougne.
-- [ ] Bank at Ardougne. Withdraw 6x logs, a staff (or staff of air), mind runes (and air runes if no air staff), gp (5 gp for the Khali brew in Fight Arena and about 127 gp for 5x rope), and wine for the rest of the inventory.
+- [ ] Bank at Ardougne. Withdraw 6x logs, a staff (or staff of air), mind runes (and air runes if no air staff), and wine for the rest of the inventory. You need 5 gp for the Khali brew in Fight Arena and about 127 gp for 5x rope.
 - [ ] Use the Castle Wars minigame teleport.
 - [ ] Go north towards the gnome village. Watch for bears on the route to the maze.
 - [ ] Follow the maze to the centre to start Tree Gnome Village.
@@ -92,11 +91,10 @@
 - [ ] Run to Port Sarim and talk to Veos to travel to Port Piscarilius.
 - [ ] Walk south from Port Piscarilius to Hosidius.
 - [ ] Steal from the two fruit stalls (Thieving 25, 28.5 XP per steal). Stop when you have 36,512 Thieving XP. Bank all strange fruit, Golovana tops and papayas.
-- [ ] Minigame teleport to TzHaar Fight Pits. Bank and grab coins and food. Exit the volcano and walk to Brimhaven.
+- [ ] Minigame teleport to TzHaar Fight Pits. Bank and grab food. Exit the volcano and walk to Brimhaven.
 - [ ] Pay Cap'n Izzy No-Beard 200 gp. Enter the Brimhaven Agility Arena. You do all the arena steps in this one visit.
 - [ ] Run the arena. Tag the active dispenser each time for an Agility arena ticket. Pressure pads and floor spikes need Agility 20. Hand holds, spinning blades and darts need Agility 40. Failing the darts drains 2 Agility levels.
-- [ ] Exchange your tickets with Pirate Jackie the Fruit. Each ticket gives 345 Agility XP.
-- [ ] Repeat the arena steps above until you have 180 Agility arena tickets. Then sell all 180 tickets to Pirate Jackie the Fruit. This gives about 94,120 Agility XP. Death on the Isle adds 7,500 XP, which takes you to level 50. One dispenser goes active each minute, so this takes at least 3 hours.
+- [ ] Complete the agility arena until you have 180 Agility arena tickets. Then sell all 180 tickets to Pirate Jackie the Fruit. This gives about 94,120 Agility XP. Death on the Isle adds 7,500 XP, which takes you to level 50.
 - [ ] Home teleport to Lumbridge.
 - [ ] Bank. Withdraw: your staff, mind runes and food.
 - [ ] Repeat the Brutus fight 54 times to reach level 35 Magic. Each fight takes about 55 seconds and about 18 casts. You need about 1,000 mind runes in total. Restock runes at Aubury as needed.
@@ -112,7 +110,7 @@
 - [ ] Travel with Antonia to Aldarin (20 gp).
 - [ ] Complete Death on the Isle.
 - [ ] Buy 3x beers at the pub.
-- [ ] Bank. Grab 738+ gp (501 gp for the quest, 200 gp for the carpet, and 37 gp for the headpiece, fake beard, Shantay Pass and waterskin), leather gloves, 3x beer, 1x bucket, your Ring of Dueling, your Games Necklace, food, your staff and mind runes.
+- [ ] Bank. Grab leather gloves, 3x beer, 1x bucket, your Ring of Dueling, your Games Necklace, food, your staff and mind runes. You need 738+ gp (501 gp for the quest, 200 gp for the carpet, and 37 gp for the headpiece, fake beard, Shantay Pass and waterskin).
 - [ ] Teleport with your Dueling Ring to Emir's Arena. Talk to Ali Morrisane to start The Feud. Buy the Kharidian headpiece and the fake beard from him (1 gp each).
 - [ ] Continue The Feud. Walk to Shantay Pass and buy a waterskin and a Shantay Pass. Take the magic carpet to Pollnivneach (200 gp).
 - [ ] Complete The Feud. Kill the Tough Guy and the bandit champion from their safespots.
