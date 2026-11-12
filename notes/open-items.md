@@ -27,12 +27,11 @@ Nothing.
 - Max hits and safespots are not included. The tags warn the player, and they can look up the rest.
 - Count Check is not tested. The Varrock travel step keeps its "unverified" wording.
 - `sources.md` matches the guide.
+- Housekeeping is done: guide renamed to `starter-guide.md`, README added, `tools/check-guide.py` added, v1 tagged.
 
 ## v2 plan
 
-- Defensive gap: the route ends with Defence 1, Ranged 1 and Prayer 1. Add Prayer XP, by one of two ways:
-  - Prayer XP from the Brutus kills. The amount per kill is not yet known (it was TBD in the old notes).
-  - Restless Ghost for Prayer XP. It was cut in the first cleanup, so check its locations against the current route and its reward on the wiki.
-- Rename `starter-guide-route-only.md` to `starter-guide.md`. Add a README.md. Tag v1 in git.
-- Add a small script that checks the wiki links and the step format.
+- Scope: Prayer only. No Defence or Ranged, and the guide does not grow beyond that.
+- Add The Restless Ghost for 1,125 Prayer XP. Step placement is being planned with the author. The skull comes from the Wizards' Tower basement, which is later in the route than Father Urhney's hut and the graveyard.
+- Brutus bull bones (40 Prayer XP each when buried, per the wiki; 54 fights is 2,160 XP): not decided.
 - After the next death and reset, play the route and replace the estimated levels with real ones. Check the starting gp that the ledger assumes is 0.
