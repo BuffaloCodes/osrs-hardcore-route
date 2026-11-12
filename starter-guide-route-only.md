@@ -1,5 +1,7 @@
 NOTE: You carry your gp with you at all times. Never bank it.
 
+## Ardougne
+
 - [ ] Spawn in Death's Office (in Lumbridge after a Reset). Activate your Escape Crystal to use it as a Ring of Life. Equip it in your ring slot.
 - [ ] Use the minigame teleport to Soul Wars. Leave through the Edgeville portal.
 - [ ] Use the Edgeville Wilderness lever. It moves you to the Deserted Keep (level 51 Wilderness). This step has the most risk in the visit, so do it first, before you put more time into the account.
@@ -16,6 +18,8 @@ NOTE: You carry your gp with you at all times. Never bank it.
 - [ ] Sell all 84 silk back to the Silk merchant for 60 gp each (5,040 gp).
 - [ ] Sell all cakes above 28 to the Ardougne General Store. Keep 28x cakes in the bank for food.
 - [ ] Complete Tribal Totem.
+## Lumbridge and Draynor
+
 - [ ] Home teleport to Lumbridge.
 - [ ] Talk to Veos in The Sheared Ram pub to start X Marks the Spot.
 - [ ] Talk to Captain Harlan outside the Lumbridge General Store to start Mudfoot's Big Adventure.
@@ -45,6 +49,8 @@ NOTE: You carry your gp with you at all times. Never bank it.
 - [ ] Complete The Ides of Milk. Fight Brutus from the safespot between the feed troughs to the south. Use Wind Strike. Brutus takes no more than 80 casts.
 - [ ] Return to Gillie Groats for the additional rewards.
 - [ ] Use the Ides of Milk magic lamp on Hitpoints.
+## Varrock and Varlamore
+
 - [ ] Get to Varrock. You have three options. Use the Chronicle to teleport to the Champions' Guild. Use Count Check to teleport to Barbarian Village (unverified if this works after a reset or only once per account). Or walk from Lumbridge.
 - [ ] Go to Varrock West Bank.
 - [ ] Buy a staff of air from Zaff. Skip this if it is out of stock.
@@ -67,6 +73,8 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Go south-west to Sunset Coast. Watch for the aggressive jaguars.
 - [ ] Travel with Antonia to Aldarin.
 - [ ] Go west. Trade Antonius. Sell all 28 Eclipse reds at once.
+## Demon Slayer, Tree Gnome Village and The Grand Tree
+
 - [ ] Use the home teleport to Lumbridge. Grab 6x logs at the top of the castle and store them in the bank.
 - [ ] Kill things until you have 25 bones.
 - [ ] Run to the Wizards' Tower with the bones. Talk to Wizard Traiborn to get the third key for Demon Slayer.
@@ -90,23 +98,33 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Use the Castle Wars minigame teleport. Go through the maze.
 - [ ] Teleport to the Tree Gnome Stronghold and complete The Grand Tree.
 - [ ] Home teleport to Lumbridge.
+## Hosidius Thieving
+
 - [ ] Run to Port Sarim and talk to Veos to travel to Port Piscarilius.
 - [ ] Walk south from Port Piscarilius to Hosidius.
 - [ ] Steal from the two fruit stalls (Thieving 25, 28.5 XP per steal). Stop when you have 36,512 Thieving XP. Bank all strange fruit, Golovana tops and papayas.
+## Brimhaven Agility Arena
+
 - [ ] Minigame teleport to TzHaar Fight Pits. Bank and grab food. Exit the volcano and walk to Brimhaven.
 - [ ] Pay Cap'n Izzy No-Beard 200 gp. Enter the Brimhaven Agility Arena. You do all the arena steps in this one visit.
 - [ ] Run the arena. Tag the active dispenser each time for an Agility arena ticket. Pressure pads and floor spikes need Agility 20. Hand holds, spinning blades and darts need Agility 40. Failing the darts drains 2 Agility levels.
 - [ ] Complete the agility arena until you have 180 Agility arena tickets. Then sell all 180 tickets to Pirate Jackie the Fruit. This gives about 94,120 Agility XP. Death on the Isle adds 7,500 XP, which takes you to level 50.
+## Magic: Brutus
+
 - [ ] Home teleport to Lumbridge.
 - [ ] Bank. Withdraw: your staff, mind runes and food.
 - [ ] Repeat the Brutus fight 54 times to reach level 35 Magic. Each fight takes about 55 seconds and about 18 casts. You need about 1,000 mind runes in total. Restock runes at Aubury as needed.
 - [ ] Visit Aubury after Brutus and buy 10x Air, Earth, and Water runes. Alternatively, buy these during a resupply.
+## Witch's House and Waterfall Quest
+
 - [ ] Visit the Grand Exchange. Buy a Games Necklace and a Ring of Dueling.
 - [ ] Bank. Withdraw: several cheese, leather gloves, 1x rope, 6x air runes, 6x earth runes, 6x water runes, food, your staff and mind runes, and 4 free inventory slots.
 - [ ] Run to Taverly. This is a long run with aggressive monsters. Bring food.
 - [ ] Complete Witch's House. Kill the four forms of the experiment from the safespots.
 - [ ] Bank in Falador. Grab rope, food and a Games Necklace.
 - [ ] Complete Waterfall Quest. Glarial's Tomb bars runes, weapons, armour and logs. Bank them before you enter the tomb. Take the rope and runes again for the dungeon.
+## Death on the Isle and The Feud
+
 - [ ] Chronicle to Varrock. Travel through the city to the quetzal.
 - [ ] Take the quetzal to Varlamore. Then go south-west to Sunset Coast.
 - [ ] Travel with Antonia to Aldarin (20 gp).
@@ -118,6 +136,8 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Complete The Feud. Kill the Tough Guy and the bandit champion from their safespots.
 - [ ] Buy jugs of wine from Faisal the Barman in the bar.
 - [ ] Blackjack the bearded Pollnivnian bandits (Thieving 45) in Ali the Dyer's small house in northern Pollnivneach. Stop when you reach Thieving 50.
+## Rogues' Den
+
 - [ ] Games Necklace teleport to Burthorpe then run south to The Toad and Chicken inn.
 - [ ] Go down the trapdoor near the bartender.
 - [ ] Run the maze to the centre. Use your banked strange fruit to restore run energy between attempts.
