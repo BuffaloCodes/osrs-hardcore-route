@@ -1,3 +1,5 @@
+Last Updated: 12 November 2026
+
 NOTE: You carry your gp with you at all times. Never bank it.
 
 NOTE: ⚠ marks a step with death risk.
