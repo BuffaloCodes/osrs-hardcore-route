@@ -17,6 +17,7 @@ Steps are named by what they say, since the guide has no step IDs.
 - The gold ledger (`notes/gold-ledger.md`) is complete and valid.
 - Route checks are complete.
 - Section headers are in the guide.
+- Quest links (main wiki page, linked once at the step that starts or completes the quest) and reward lines under each completing step are in the guide. Kudos and Nightmare Zone unlocks are left out.
 
 ## Waiting on a test
 
