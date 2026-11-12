@@ -1,6 +1,6 @@
 # Gold ledger (draft, not in the repo)
 
-Step numbers are file line numbers in starter-guide-route-only.md as of 2026-11-12.
+Step numbers are file line numbers in starter-guide.md as of 2026-11-12.
 Prices are from the OSRS Wiki, read on 2026-11-12. GE prices are stored wiki values, not live.
 Starting gp after a reset is [missing]. This ledger assumes 0.
 

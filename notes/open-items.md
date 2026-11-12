@@ -1,6 +1,6 @@
 # Open items
 
-Running list for `starter-guide-route-only.md`. Last updated 12 November 2026.
+Running list for `starter-guide.md`. Last updated 12 November 2026.
 Steps are named by what they say, since the guide has no step IDs.
 
 ## Open

@@ -1,6 +1,6 @@
 # Sources
 
-Running list for `starter-guide-route-only.md`. All pages are on the OSRS Wiki (`https://oldschool.runescape.wiki/w/`). Quest rewards, shop prices and the Sheep Herder Hunter XP were read on 12 November 2026.
+Running list for `starter-guide.md`. All pages are on the OSRS Wiki (`https://oldschool.runescape.wiki/w/`). Quest rewards, shop prices and the Sheep Herder Hunter XP were read on 12 November 2026.
 
 ## Quests
 
