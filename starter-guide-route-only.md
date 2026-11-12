@@ -22,6 +22,23 @@ NOTE: You carry your gp with you at all times. Never bank it.
 - [ ] Complete Tribal Totem.
   - Rewards: 1 quest point, 1,775 Thieving XP, 5 swordfish.
 
+**Estimated levels after this section:**
+
+| | | |
+|---|---|---|
+| Attack: 1 | Hitpoints: 10 | Mining: 1 |
+| Strength: 1 | Agility: 1 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
+| Ranged: 1 | Thieving: 25 | Cooking: 1 |
+| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Magic: 1 | Fletching: 1 | Woodcutting: 1 |
+| Runecraft: 1 | Slayer: 1 | Farming: 1 |
+| Construction: 1 | Hunter: 9 | Sailing: 1 |
+
+**Quest points:** 7 | **Total level:** 65
+
+Levels add up from the reward lines in this guide. Combat XP from fights is not counted. Quest points include the 1 from Tutorial Island.
+
 ## Lumbridge and Draynor
 
 - [ ] Home teleport to Lumbridge.
@@ -57,6 +74,21 @@ NOTE: You carry your gp with you at all times. Never bank it.
 - [ ] Return to Gillie Groats for the additional rewards.
 - [ ] Use the Ides of Milk magic lamp on Hitpoints.
 
+**Estimated levels after this section:**
+
+| | | |
+|---|---|---|
+| Attack: 1 | Hitpoints: 15 | Mining: 1 |
+| Strength: 1 | Agility: 25 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
+| Ranged: 1 | Thieving: 25 | Cooking: 1 |
+| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Magic: 13 | Fletching: 1 | Woodcutting: 1 |
+| Runecraft: 1 | Slayer: 1 | Farming: 1 |
+| Construction: 1 | Hunter: 9 | Sailing: 1 |
+
+**Quest points:** 10 | **Total level:** 106
+
 ## Varrock and Varlamore
 
 - [ ] Get to Varrock. You have three options. Use the Chronicle to teleport to the Champions' Guild. Use Count Check to teleport to Barbarian Village (unverified if this works after a reset or only once per account). Or walk from Lumbridge.
@@ -83,6 +115,21 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Go south-west to Sunset Coast. Watch for the aggressive jaguars.
 - [ ] Travel with Antonia to Aldarin.
 - [ ] Go west. Trade Antonius. Sell all 28 Eclipse reds at once.
+
+**Estimated levels after this section:**
+
+| | | |
+|---|---|---|
+| Attack: 1 | Hitpoints: 15 | Mining: 1 |
+| Strength: 1 | Agility: 25 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
+| Ranged: 1 | Thieving: 25 | Cooking: 1 |
+| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Magic: 13 | Fletching: 1 | Woodcutting: 1 |
+| Runecraft: 1 | Slayer: 1 | Farming: 1 |
+| Construction: 1 | Hunter: 9 | Sailing: 1 |
+
+**Quest points:** 11 | **Total level:** 106
 
 ## Demon Slayer, Tree Gnome Village and The Grand Tree
 
@@ -114,11 +161,41 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
   - Rewards: 5 quest points, 18,400 Attack XP, 7,900 Agility XP, 2,150 Magic XP, gnome glider, mine under the Grand Tree, Agility shortcut to the Barbarian Outpost (37 Agility).
 - [ ] Home teleport to Lumbridge.
 
+**Estimated levels after this section:**
+
+| | | |
+|---|---|---|
+| Attack: 41 | Hitpoints: 19 | Mining: 1 |
+| Strength: 1 | Agility: 31 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
+| Ranged: 1 | Thieving: 27 | Cooking: 1 |
+| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Magic: 19 | Fletching: 1 | Woodcutting: 1 |
+| Runecraft: 1 | Slayer: 1 | Farming: 1 |
+| Construction: 1 | Hunter: 9 | Sailing: 1 |
+
+**Quest points:** 23 | **Total level:** 164
+
 ## Hosidius Thieving
 
 - [ ] Run to Port Sarim and talk to Veos to travel to Port Piscarilius.
 - [ ] Walk south from Port Piscarilius to Hosidius.
 - [ ] Steal from the two fruit stalls (Thieving 25, 28.5 XP per steal). Stop when you have 36,512 Thieving XP. Bank all strange fruit, Golovana tops and papayas.
+
+**Estimated levels after this section:**
+
+| | | |
+|---|---|---|
+| Attack: 41 | Hitpoints: 19 | Mining: 1 |
+| Strength: 1 | Agility: 31 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
+| Ranged: 1 | Thieving: 39 | Cooking: 1 |
+| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Magic: 19 | Fletching: 1 | Woodcutting: 1 |
+| Runecraft: 1 | Slayer: 1 | Farming: 1 |
+| Construction: 1 | Hunter: 9 | Sailing: 1 |
+
+**Quest points:** 23 | **Total level:** 176
 
 ## Brimhaven Agility Arena
 
@@ -127,12 +204,42 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Run the arena. Tag the active dispenser each time for an Agility arena ticket. Pressure pads and floor spikes need Agility 20. Hand holds, spinning blades and darts need Agility 40. Failing the darts drains 2 Agility levels.
 - [ ] Complete the agility arena until you have 180 Agility arena tickets. Then sell all 180 tickets to Pirate Jackie the Fruit. This gives about 94,120 Agility XP. Death on the Isle adds 7,500 XP, which takes you to level 50.
 
+**Estimated levels after this section:**
+
+| | | |
+|---|---|---|
+| Attack: 41 | Hitpoints: 19 | Mining: 1 |
+| Strength: 1 | Agility: 49 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
+| Ranged: 1 | Thieving: 39 | Cooking: 1 |
+| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Magic: 19 | Fletching: 1 | Woodcutting: 1 |
+| Runecraft: 1 | Slayer: 1 | Farming: 1 |
+| Construction: 1 | Hunter: 9 | Sailing: 1 |
+
+**Quest points:** 23 | **Total level:** 194
+
 ## Magic: Brutus
 
 - [ ] Home teleport to Lumbridge.
 - [ ] Bank. Withdraw: your staff, mind runes and food.
 - [ ] Repeat the Brutus fight 54 times to reach level 35 Magic. Each fight takes about 55 seconds and about 18 casts. You need about 1,000 mind runes in total. Restock runes at Aubury as needed.
 - [ ] Visit Aubury after Brutus and buy 10x Air, Earth, and Water runes. Alternatively, buy these during a resupply.
+
+**Estimated levels after this section:**
+
+| | | |
+|---|---|---|
+| Attack: 41 | Hitpoints: 19 | Mining: 1 |
+| Strength: 1 | Agility: 49 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
+| Ranged: 1 | Thieving: 39 | Cooking: 1 |
+| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Magic: 35 | Fletching: 1 | Woodcutting: 1 |
+| Runecraft: 1 | Slayer: 1 | Farming: 1 |
+| Construction: 1 | Hunter: 9 | Sailing: 1 |
+
+**Quest points:** 23 | **Total level:** 210
 
 ## Witch's House and Waterfall Quest
 
@@ -144,6 +251,21 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Bank in Falador. Grab rope, food and a Games Necklace.
 - [ ] Complete [Waterfall Quest](https://oldschool.runescape.wiki/w/Waterfall_Quest). Glarial's Tomb bars runes, weapons, armour and logs. Bank them before you enter the tomb. Take the rope and runes again for the dungeon.
   - Rewards: 1 quest point, 13,750 Attack XP, 13,750 Strength XP, 2 diamonds, 2 gold bars, 40 mithril seeds.
+
+**Estimated levels after this section:**
+
+| | | |
+|---|---|---|
+| Attack: 44 | Hitpoints: 27 | Mining: 1 |
+| Strength: 30 | Agility: 49 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
+| Ranged: 1 | Thieving: 39 | Cooking: 1 |
+| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Magic: 35 | Fletching: 1 | Woodcutting: 1 |
+| Runecraft: 1 | Slayer: 1 | Farming: 1 |
+| Construction: 1 | Hunter: 9 | Sailing: 1 |
+
+**Quest points:** 28 | **Total level:** 250
 
 ## Death on the Isle and The Feud
 
@@ -161,6 +283,21 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Buy jugs of wine from Faisal the Barman in the bar.
 - [ ] Blackjack the bearded Pollnivnian bandits (Thieving 45) in Ali the Dyer's small house in northern Pollnivneach. Stop when you reach Thieving 50.
 
+**Estimated levels after this section:**
+
+| | | |
+|---|---|---|
+| Attack: 44 | Hitpoints: 27 | Mining: 1 |
+| Strength: 30 | Agility: 50 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
+| Ranged: 1 | Thieving: 50 | Cooking: 1 |
+| Prayer: 1 | Crafting: 20 | Firemaking: 1 |
+| Magic: 35 | Fletching: 1 | Woodcutting: 1 |
+| Runecraft: 1 | Slayer: 1 | Farming: 1 |
+| Construction: 1 | Hunter: 9 | Sailing: 1 |
+
+**Quest points:** 31 | **Total level:** 281
+
 ## Rogues' Den
 
 - [ ] Games Necklace teleport to Burthorpe then run south to The Toad and Chicken inn.
@@ -168,3 +305,18 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Run the maze to the centre. Use your banked strange fruit to restore run energy between attempts.
 - [ ] Repeat the maze above until you own all five pieces of the Rogue's Equipment.
 - [ ] You now have the full Rogue outfit. This route ends here.
+
+**Estimated levels after this section:**
+
+| | | |
+|---|---|---|
+| Attack: 44 | Hitpoints: 27 | Mining: 1 |
+| Strength: 30 | Agility: 50 | Smithing: 1 |
+| Defence: 1 | Herblore: 1 | Fishing: 1 |
+| Ranged: 1 | Thieving: 50 | Cooking: 1 |
+| Prayer: 1 | Crafting: 20 | Firemaking: 1 |
+| Magic: 35 | Fletching: 1 | Woodcutting: 1 |
+| Runecraft: 1 | Slayer: 1 | Farming: 1 |
+| Construction: 1 | Hunter: 9 | Sailing: 1 |
+
+**Quest points:** 31 | **Total level:** 281
