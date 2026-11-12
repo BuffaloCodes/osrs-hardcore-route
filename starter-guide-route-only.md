@@ -120,3 +120,4 @@ NOTE: You carry your gp with you at all times. Never bank it.
 - [ ] Go down the trapdoor near the bartender.
 - [ ] Run the maze to the centre. Use your banked strange fruit to restore run energy between attempts.
 - [ ] Repeat the maze above until you own all five pieces of the Rogue's Equipment.
+- [ ] You now have the full Rogue outfit. This route ends here.
