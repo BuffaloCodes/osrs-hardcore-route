@@ -13,7 +13,7 @@ NOTE: You carry your gp with you at all times. Never bank it.
 - [ ] Take some cakes. Then take the boat from Ardougne to Brimhaven.
 - [ ] Start Tribal Totem. Go to Kangai Mau in the Shrimp and Parrot.
 - [ ] Continue Tribal Totem. Go on to the point where you collect the totem. Investigate the stairs first. If you trigger the trap, you fall into the Ardougne Sewers.
-- [ ] Sell all 84 silk back to the Silk trader for 60 gp each (5,040 gp).
+- [ ] Sell all 84 silk back to the Silk merchant for 60 gp each (5,040 gp).
 - [ ] Sell all cakes above 28 to the Ardougne General Store. Keep 28x cakes in the bank for food.
 - [ ] Complete Tribal Totem.
 - [ ] Home teleport to Lumbridge.
@@ -59,6 +59,8 @@ NOTE: You carry your gp with you at all times. Never bank it.
 - [ ] Go to Aubury's rune shop. Buy 400 mind runes. If you could not get a staff of air, also buy 400 air runes.
 - [ ] Run east to Regulus Cento. Take the quetzal to Varlamore.
 - [ ] Go to The Flaming Arrow. Buy as many jugs of wine as you expect to need (50 is probably safe). The stock is infinite. Each jug costs 1 coin and heals 11 HP in one action.
+NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) are optional. They are a money maker for anyone who deviates from the guide and needs extra gp.
+
 - [ ] Go west towards the Hunters' Guild.
 - [ ] Enter Guildmaster Apatura's building. Go up both ladders.
 - [ ] Loot 28 Eclipse reds. Hop worlds as needed. This area is likely very busy. If you cannot take any, skip this step. It is only a moneymaker.
