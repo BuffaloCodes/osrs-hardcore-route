@@ -4,7 +4,7 @@ Running list for `starter-guide.md`. All pages are on the OSRS Wiki (`https://ol
 
 ## Quests
 
-All 15 quests are linked inline in the guide, each to its main wiki page. The reward lines under each completing step come from the Rewards section of those pages.
+All 16 quests are linked inline in the guide, each to its main wiki page. The reward lines under each completing step come from the Rewards section of those pages.
 
 ## Reference pages
 

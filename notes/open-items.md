@@ -22,16 +22,16 @@ Nothing.
 - Route checks are complete.
 - Section headers, quest links, reward lines and level tables are in the guide.
 - Kudos and Nightmare Zone unlocks are left out of the reward lines.
-- Death-risk tags (⚠) are on 19 steps. The blackjack step is untagged.
+- Death-risk tags (⚠) are on 20 steps. The blackjack step is untagged.
 - Rogues' Den detail (bank everything, remove gear) is not added. The guide is not aimed at new players.
 - Max hits and safespots are not included. The tags warn the player, and they can look up the rest.
 - Count Check is not tested. The Varrock travel step keeps its "unverified" wording.
 - `sources.md` matches the guide.
+- The Restless Ghost is in the guide (5 steps, 1,125 Prayer XP). The skull is carried from the Wizards' Tower to the end of the Demon Slayer section.
 - Housekeeping is done: guide renamed to `starter-guide.md`, README added, `tools/check-guide.py` added, v1 tagged.
 
 ## v2 plan
 
 - Scope: Prayer only. No Defence or Ranged, and the guide does not grow beyond that.
-- Add The Restless Ghost for 1,125 Prayer XP. Step placement is being planned with the author. The skull comes from the Wizards' Tower basement, which is later in the route than Father Urhney's hut and the graveyard.
 - Brutus bull bones (40 Prayer XP each when buried, per the wiki; 54 fights is 2,160 XP): not decided.
 - After the next death and reset, play the route and replace the estimated levels with real ones. Check the starting gp that the ledger assumes is 0.
