@@ -46,6 +46,7 @@ Levels add up from the reward lines in this guide. Combat XP from fights is not 
 ## Lumbridge and Draynor
 
 - [ ] Home teleport to Lumbridge.
+- [ ] Talk to Father Aereck in the Lumbridge church to start [The Restless Ghost](https://oldschool.runescape.wiki/w/The_Restless_Ghost).
 - [ ] Talk to Veos in The Sheared Ram pub to start [X Marks the Spot](https://oldschool.runescape.wiki/w/X_Marks_the_Spot).
 - [ ] Talk to Captain Harlan outside the Lumbridge General Store to start [Mudfoot's Big Adventure](https://oldschool.runescape.wiki/w/Mudfoot%27s_Big_Adventure).
 - [ ] Claim the bronze shortsword and wooden shield from Captain Harlan.
@@ -64,6 +65,7 @@ Levels add up from the reward lines in this guide. Combat XP from fights is not 
 - [ ] Go to the back exit of Lumbridge Castle. Dig for X Marks the Spot.
 - [ ] Run north. Hug the fence to avoid aggressive monsters.
 - [ ] Go into Father Urhney's house and grab leather gloves.
+- [ ] Continue The Restless Ghost. Talk to Father Urhney to get the Ghostspeak amulet.
 - [ ] Run to Draynor Village.
 - [ ] Continue X Marks the Spot. Progress the quest (twice).
 - [ ] Buy 1x Chronicle and minimum 3x teleport cards from Diango. Put the cards in the Chronicle. This costs 750 gp (300 gp for the Chronicle and 150 gp per card).
@@ -73,6 +75,7 @@ Levels add up from the reward lines in this guide. Combat XP from fights is not 
   - Rewards: 1 quest point, 200 gp, antique lamp (300 XP, any skill), scroll boxes.
 - [ ] Use the antique lamp on HP.
 - [ ] Home teleport to Lumbridge. Home teleports share a 30-minute cooldown. If your last home teleport was less than 30 minutes ago, walk.
+- [ ] Continue The Restless Ghost. Equip the Ghostspeak amulet. Go to the small building in the south-east corner of the Lumbridge graveyard. Open the coffin and talk to the ghost.
 - [ ] ⚠ Complete The Ides of Milk. Fight Brutus from the safespot between the feed troughs to the south. Use Wind Strike. Brutus takes no more than 80 casts.
   - Rewards: 1 quest point, 1 magic lamp (1,000 XP, any combat skill including Prayer), cowbell amulet, Brutus access.
 - [ ] Return to Gillie Groats for the additional rewards.
@@ -140,6 +143,7 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] Use the home teleport to Lumbridge. Grab 6x logs at the top of the castle and store them in the bank.
 - [ ] Kill things until you have 25 bones.
 - [ ] Run to the Wizards' Tower with the bones. Talk to Wizard Traiborn to get the third key for Demon Slayer.
+- [ ] ⚠ Continue The Restless Ghost. Go down the ladder in the Wizards' Tower, in the room next to the entrance. Search the altar in the basement for the ghost's skull. A level 13 skeleton appears. Leave without fighting it.
 - [ ] Run to Rimmington and take the boat to Ardougne.
 - [ ] Bank at Ardougne. Withdraw 6x logs, a staff (or staff of air), mind runes (and air runes if no air staff), and wine for the rest of the inventory. You need 5 gp for the Khali brew in Fight Arena and about 127 gp for 5x rope.
 - [ ] Use the Castle Wars minigame teleport.
@@ -164,6 +168,8 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 - [ ] ⚠ Teleport to the Tree Gnome Stronghold and complete The Grand Tree.
   - Rewards: 5 quest points, 18,400 Attack XP, 7,900 Agility XP, 2,150 Magic XP, gnome glider, mine under the Grand Tree, Agility shortcut to the Barbarian Outpost (37 Agility).
 - [ ] Home teleport to Lumbridge.
+- [ ] Complete The Restless Ghost. Use the ghost's skull on the open coffin in the graveyard.
+  - Rewards: 1 quest point, 1,125 Prayer XP, Ghostspeak amulet.
 
 **Estimated levels after this section:**
 
@@ -173,12 +179,12 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 | Strength: 1 | Agility: 31 | Smithing: 1 |
 | Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 27 | Cooking: 1 |
-| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Prayer: 9 | Crafting: 1 | Firemaking: 1 |
 | Magic: 19 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 23 | **Total level:** 164
+**Quest points:** 24 | **Total level:** 172
 
 ## Hosidius Thieving
 
@@ -194,12 +200,12 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 | Strength: 1 | Agility: 31 | Smithing: 1 |
 | Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 39 | Cooking: 1 |
-| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Prayer: 9 | Crafting: 1 | Firemaking: 1 |
 | Magic: 19 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 23 | **Total level:** 176
+**Quest points:** 24 | **Total level:** 184
 
 ## Brimhaven Agility Arena
 
@@ -216,12 +222,12 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 | Strength: 1 | Agility: 49 | Smithing: 1 |
 | Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 39 | Cooking: 1 |
-| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Prayer: 9 | Crafting: 1 | Firemaking: 1 |
 | Magic: 19 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 23 | **Total level:** 194
+**Quest points:** 24 | **Total level:** 202
 
 ## Magic: Brutus
 
@@ -238,12 +244,12 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 | Strength: 1 | Agility: 49 | Smithing: 1 |
 | Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 39 | Cooking: 1 |
-| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Prayer: 9 | Crafting: 1 | Firemaking: 1 |
 | Magic: 35 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 23 | **Total level:** 210
+**Quest points:** 24 | **Total level:** 218
 
 ## Witch's House and Waterfall Quest
 
@@ -264,12 +270,12 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 | Strength: 30 | Agility: 49 | Smithing: 1 |
 | Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 39 | Cooking: 1 |
-| Prayer: 1 | Crafting: 1 | Firemaking: 1 |
+| Prayer: 9 | Crafting: 1 | Firemaking: 1 |
 | Magic: 35 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 28 | **Total level:** 250
+**Quest points:** 29 | **Total level:** 258
 
 ## Death on the Isle and The Feud
 
@@ -295,12 +301,12 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 | Strength: 30 | Agility: 50 | Smithing: 1 |
 | Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 50 | Cooking: 1 |
-| Prayer: 1 | Crafting: 20 | Firemaking: 1 |
+| Prayer: 9 | Crafting: 20 | Firemaking: 1 |
 | Magic: 35 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 31 | **Total level:** 281
+**Quest points:** 32 | **Total level:** 289
 
 ## Rogues' Den
 
@@ -318,9 +324,9 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 | Strength: 30 | Agility: 50 | Smithing: 1 |
 | Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 50 | Cooking: 1 |
-| Prayer: 1 | Crafting: 20 | Firemaking: 1 |
+| Prayer: 9 | Crafting: 20 | Firemaking: 1 |
 | Magic: 35 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 31 | **Total level:** 281
+**Quest points:** 32 | **Total level:** 289
