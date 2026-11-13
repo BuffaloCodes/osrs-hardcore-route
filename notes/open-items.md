@@ -34,4 +34,5 @@ Nothing.
 ## v2 plan
 
 - Scope: Prayer only. No Defence or Ranged, and the guide does not grow beyond that.
-- After the next death and reset, play the route and replace the estimated levels with real ones. Check the starting gp that the ledger assumes is 0.
+- After the next death and reset, play the route and fill in `notes/playtest-log.md`. Then replace the estimated levels with real ones, update the Count Check wording and tag the next version.
+- Local-storage HTML checklist to accompany the guide (author's idea, to be planned).
