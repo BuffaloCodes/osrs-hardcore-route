@@ -233,7 +233,7 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 
 - [ ] Home teleport to Lumbridge.
 - [ ] Bank. Withdraw: your staff, mind runes and food.
-- [ ] Repeat the Brutus fight 54 times to reach level 35 Magic. Each fight takes about 55 seconds and about 18 casts. You need about 1,000 mind runes in total. Restock runes at Aubury as needed.
+- [ ] Repeat the Brutus fight 54 times to reach level 35 Magic. Each fight takes about 55 seconds and about 18 casts. You need about 1,000 mind runes in total. Restock runes at Aubury as needed. Bury the bull bones after each kill (40 Prayer XP each, 2,160 Prayer XP in total).
 - [ ] Visit Aubury after Brutus and buy 10x Air, Earth, and Water runes. Alternatively, buy these during a resupply.
 
 **Estimated levels after this section:**
@@ -244,12 +244,12 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 | Strength: 1 | Agility: 49 | Smithing: 1 |
 | Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 39 | Cooking: 1 |
-| Prayer: 9 | Crafting: 1 | Firemaking: 1 |
+| Prayer: 18 | Crafting: 1 | Firemaking: 1 |
 | Magic: 35 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 24 | **Total level:** 218
+**Quest points:** 24 | **Total level:** 227
 
 ## Witch's House and Waterfall Quest
 
@@ -270,12 +270,12 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 | Strength: 30 | Agility: 49 | Smithing: 1 |
 | Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 39 | Cooking: 1 |
-| Prayer: 9 | Crafting: 1 | Firemaking: 1 |
+| Prayer: 18 | Crafting: 1 | Firemaking: 1 |
 | Magic: 35 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 29 | **Total level:** 258
+**Quest points:** 29 | **Total level:** 267
 
 ## Death on the Isle and The Feud
 
@@ -301,12 +301,12 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 | Strength: 30 | Agility: 50 | Smithing: 1 |
 | Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 50 | Cooking: 1 |
-| Prayer: 9 | Crafting: 20 | Firemaking: 1 |
+| Prayer: 18 | Crafting: 20 | Firemaking: 1 |
 | Magic: 35 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 32 | **Total level:** 289
+**Quest points:** 32 | **Total level:** 298
 
 ## Rogues' Den
 
@@ -324,9 +324,9 @@ NOTE: The next 6 steps (Hunters' Guild, Eclipse reds and the sale at Aldarin) ar
 | Strength: 30 | Agility: 50 | Smithing: 1 |
 | Defence: 1 | Herblore: 1 | Fishing: 1 |
 | Ranged: 1 | Thieving: 50 | Cooking: 1 |
-| Prayer: 9 | Crafting: 20 | Firemaking: 1 |
+| Prayer: 18 | Crafting: 20 | Firemaking: 1 |
 | Magic: 35 | Fletching: 1 | Woodcutting: 1 |
 | Runecraft: 1 | Slayer: 1 | Farming: 1 |
 | Construction: 1 | Hunter: 9 | Sailing: 1 |
 
-**Quest points:** 32 | **Total level:** 289
+**Quest points:** 32 | **Total level:** 298
