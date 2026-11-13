@@ -1,4 +1,4 @@
-# Gold ledger (draft, not in the repo)
+# Gold ledger (not playtested)
 
 Step numbers are file line numbers in starter-guide.md as of 2026-11-12.
 Prices are from the OSRS Wiki, read on 2026-11-12. GE prices are stored wiki values, not live.
