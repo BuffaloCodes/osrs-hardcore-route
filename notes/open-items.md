@@ -36,3 +36,4 @@ Nothing.
 - Scope: Prayer only. No Defence or Ranged, and the guide does not grow beyond that.
 - After the next death and reset, play the route and fill in `notes/playtest-log.md`. Then replace the estimated levels with real ones, update the Count Check wording and tag the next version.
 - Local-storage HTML checklist to accompany the guide (author's idea, to be planned).
+- Add optional fish purchase for cooking in rogue's den
