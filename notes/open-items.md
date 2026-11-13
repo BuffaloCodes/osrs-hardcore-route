@@ -28,10 +28,10 @@ Nothing.
 - Count Check is not tested. The Varrock travel step keeps its "unverified" wording.
 - `sources.md` matches the guide.
 - The Restless Ghost is in the guide (5 steps, 1,125 Prayer XP). The skull is carried from the Wizards' Tower to the end of the Demon Slayer section.
+- Brutus bull bones are buried for 40 Prayer XP each (54 kills, 2,160 XP). With The Restless Ghost, Prayer ends at level 18.
 - Housekeeping is done: guide renamed to `starter-guide.md`, README added, `tools/check-guide.py` added, v1 tagged.
 
 ## v2 plan
 
 - Scope: Prayer only. No Defence or Ranged, and the guide does not grow beyond that.
-- Brutus bull bones (40 Prayer XP each when buried, per the wiki; 54 fights is 2,160 XP): not decided.
 - After the next death and reset, play the route and replace the estimated levels with real ones. Check the starting gp that the ledger assumes is 0.
